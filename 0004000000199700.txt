@@ -97,6 +97,8 @@ D6000000 00000000
 D2000000 00000000
 
 [~#FFEEEE~Random health]
+20483658 00000000
+D2000000 00000000
 00483668 00000000
 00483660 00000001
 00483664 00000000
@@ -863,7 +865,7 @@ D2000000 00000000
 
 [--]
 
-[~#FFEEEE~***Game Guide/about Us (Note)***]
+[~#FFEEEE~ ***Game Guide/about Us (Note)*** ]
 00000000 00000000
 {(u can scroll down) In this Game  u have to fight Zombies find Destinations and Weapons ,Clothes,Meds and more just have fun in an open world (these codes are made by Cracko,Owl,   Darksiders,         Gage.C,Springtrap,Peanut#XTN And the  Main creator Foxy#XTN) in this cheats are sometimes colours just dont ask xD iam from germany so pls no hate when i  have/use bad english xD. (any questions? visit my github or dm me on discord: Suki/Foxy_XTN#2922 or join my dc server :  https://discord.gg/VVbYrX4BvS ) and dont try to delete the credits it will freeze ur 3ds ;) Have Fun <3}
 
@@ -958,7 +960,7 @@ D3000000 00000000
 00483628 3B9AC9FF
 D2000000 00000000
 
-[~#FFEEEE~inf Warm]
+[~#FFEEEE~inf Warm ]
 D3000000 00000000
 00483624 461C3C00
 D2000000 00000000
@@ -1363,6 +1365,10 @@ D2000000 00000000
 
 [++~#FFEEEE~item changer slot1++]
 
+[~#FFEEEE~***info (NOTE)***]
+00000000 00000000
+{These codes spawn the selected item in the inventory slot 1 (save and quit to activate the real items after putting it in inventory) All codes Made By Foxy#XTN}
+
 [~#FFEEEE~empty]
 00429600 00FF0000
 
@@ -1576,6 +1582,13 @@ D2000000 00000000
 
 [++~#FFEEEE~knifes++]
 
+[troll knife]
+D3000000 00000000
+00429600 00FF0E03
+00429608 99999999
+D2000000 00000000
+{this knife breaks after 1 hit}
+
 [~#FFEEEE~hunting knife]
 00429600 00FF0E03
 
@@ -1708,6 +1721,13 @@ D2000000 00000000
 [--]
 
 [++~#FFEEEE~shotguns++]
+
+[troll artic hunting shotgun]
+D3000000 00000000
+00429600 00FF0603
+00429608 99999999
+D2000000 00000000
+{this shotgun breaks after 1 shot }
 
 [~#FFEEEE~double barrel shotgun]
 00429600 00FF0403
@@ -3229,6 +3249,22 @@ D2000000 00000000
 
 [--]
 
+[always full inventory durability (no need bp)]
+00483634 00000009
+{if this doesnt work open the apparel app one second}
+
+[put everything u click on in 1st inv slot]
+00429CE0 00000001
+00429CD8 0000003A
+00429CD0 00000018
+00429CD4 00000018
+00429CDC 00030001
+00429CE4 40800000
+00429CEC 4310BB0E
+00429CCC 00000001
+D2000000 00000000
+{click on the item u want in 1st inventory slot and it will tp in there}
+
 [~#FFEEEE~Fast Inventory Managment by cracko]
 D3000000 00000000
 20429CCC 00000001
@@ -3252,12 +3288,6 @@ D3000000 00429600
 FC000000 000006F0
 D2000000 00000000
 {A = copy    B = paste}
-
-[always full inventory durability]
-00483634 00000001
-00483630 00000009
-D2000000 00000000
-{if this doesnt work open the apparel app one second}
 
 [~#FFEEEE~set random inventory]
 D3000000 00429600
@@ -7414,7 +7444,7 @@ D3000000 00000000
 D0000000 00000000
 {test\}
 
-[~#FFEEEE~anti censored chat]
+[~#FFEEEE~anti censored chat beta]
 D3000000 09000000
 008107F8 00400040
 D3000000 09000000
