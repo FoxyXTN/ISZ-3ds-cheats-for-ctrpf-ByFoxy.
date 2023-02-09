@@ -1073,6 +1073,12 @@ D2000000 00000000
 004836B4 FFFFFFFF
 {L=UP B=SPEED Y=DOWN      Credits=Darksiders                                  some modifictions like always day by: Foxy}
 
+[Epileptra 1.2]
+D3000000 00418730
+FF000000 00000000
+D6000000 00000000
+{just try this code and u will see what it does xD (made by Foxy)}
+
 [--]
 
 [++~#FFEEEE~Custom Multiplayer Menu Codes++]
@@ -13025,7 +13031,7 @@ DD000000 00000001
 00483524 00000002
 {by Foxy}
 
-[Nazi "Hi" ]
+[Nazi "Hi"]
 DD000000 00000001
 00483524 0000000E
 {A}
@@ -15434,6 +15440,61 @@ D2000000 00000000
 
 [--]
 
+[++touch+contrast++]
+
+[#Info#]
+D3000000 00000000
+00418730 44444444
+00418734 44444444
+D2000000 00000000
+{These are test codes )by Foxy}
+
+[Epileptra 1.2]
+D3000000 00418730
+FF000000 00000000
+D6000000 00000000
+{just try this code and u will see what it does xD (made by Foxy)}
+
+[Beating sky +Green Touchscreen]
+D3000000 00000000
+00418730 44444444
+00418734 44444444
+D2000000 00000000
+
+[Slow beating sky+ light green Touch]
+D3000000 00000000
+00418730 419ED9AC
+00418734 42EDD83F
+D2000000 00000000
+
+[slow beating Sky+purple touch]
+D3000000 00000000
+00418730 418ED9AC
+00418734 41EDD93F
+D2000000 00000000
+
+[yellow isz look + yellow touch]
+D3000000 00000000
+00418730 408BEC4A
+D2000000 00000000
+
+[smooth blue isz look+ blue touch]
+D3000000 00000000
+00418730 419BEC4A
+D2000000 00000000
+
+[smooth isz shadows + orange touch]
+D3000000 00000000
+00418730 499BEC4A
+D2000000 00000000
+
+[green touchscreen back +smooth isz look]
+D3000000 00000000
+00418730 49999999
+D2000000 00000000
+
+[--]
+
 [~#FFEEEE~Better Shadows white touch]
 00418730 4C100000
 
@@ -15481,6 +15542,12 @@ D3000000 00000000
 00418730 8FFFFFFF
 D2000000 00000000
 {makes ur game  texture cool}
+
+[Dark mode 2023]
+D3000000 00000000
+00418730 CF5AC044
+00418734 DE0BC76F
+D2000000 00000000
 
 [--]
 
