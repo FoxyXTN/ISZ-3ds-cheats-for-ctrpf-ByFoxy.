@@ -3,3 +3,7 @@ this is a big compilation of many cheats
 Cracko Darksiders 
 with these ice station z codes can u do 
 nearly anything
+
+The other Colour Files For this cheats On
+my Profile Doesnt get upgradet Anymore i 
+just upgrade this Sometimes
