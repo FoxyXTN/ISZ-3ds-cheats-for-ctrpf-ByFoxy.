@@ -1,4 +1,4 @@
-nuthis is a big compilation of many cheats
+8nuthis is a big compilation of many cheats
  made by Owl,Foxy,Peanut,Springtrap,
 Cracko Darksiders 
 with these ice station z codes can u do 
@@ -38,7 +38,14 @@ chat spammer (Chat spam Advanced )
 just 3 lines of code 
 
 +the i guess Highlight Of the Flashlight
- Codes Is Now Out the (Better flashlight) it makes the flashlight radius bigger and the flashlight brighter
+ Codes Is Now Out the (Better flashlight)
+ it makes the flashlight radius bigger 
+and the flashlight brighter
 
 And Now new in Flashlight codes 
 (Flashlight Colours) 
+
+Next Update (the 1.25) i do more in the 
+Metal detector codes section
+
+
