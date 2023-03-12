@@ -10,19 +10,32 @@ just upgrade this Sometimes
 
 +++NEW ISZ CHEATS UPDATE+++ 
 
-release (1.25)
+release (1.26)
 
 What's new?:
 
-New Flashlight Colour update Better Pink
- Flash,Orange Flash and Yellow flash
+I found out that the Faster
+Loading Times Doesnt Work and i
+Deleted It + a new game save
+corrupt code
 
-New Weapon Codes Categorie
- "Weapon Laser Codes"
+New Categorie in Game Saves Codes
+(Save Icon Codes ) with new save 
+icon colours and (Always save icon)
 
-and the report/Issue Gamer187ISZ Made
-Is now Fixed
-(Now the see all Players in Foxys All 
- stats max Finally Works)
+And Inspired By My Gf <3
+The new beta Of eject out Of Vehicles
+Code (Just a beta many Fixes To do but 
+its Fine ig)
 
-And 9 new Animated Text Spammers
+2 New Main Categories
+(Cloning. and Transforming Codes) 
+(Inspired By Darksiders Control 
+Goose/Zombie Code) warning:
+the new categories are just in a test 
+phase if u have any problems with the 
+codes pls report it in my dc Server 
+in #reports-errors  we will fix it in 
+the next update and if you are not in 
+my dc then pls create an issue to 
+give us feedback (Thank u )
