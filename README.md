@@ -10,32 +10,13 @@ just upgrade this Sometimes
 
 +++NEW ISZ CHEATS UPDATE+++ 
 
-release (1.26)
+release (1.27)
 
 What's new?:
 
-I found out that the Faster
-Loading Times Doesnt Work and i
-Deleted It + a new game save
-corrupt code
+Anti Crash (Dont Disable Particles) First ver. gets into the cheat file (Does Work Simetimes)
 
-New Categorie in Game Saves Codes
-(Save Icon Codes ) with new save 
-icon colours and (Always save icon)
+New Folder In Text Messages ( Keyboard Colours) customize your keyboard !
 
-And Inspired By My Gf <3
-The new beta Of eject out Of Vehicles
-Code (Just a beta many Fixes To do but 
-its Fine ig)
-
-2 New Main Categories
-(Cloning. and Transforming Codes) 
-(Inspired By Darksiders Control 
-Goose/Zombie Code) warning:
-the new categories are just in a test 
-phase if u have any problems with the 
-codes pls report it in my dc Server 
-in #reports-errors  we will fix it in 
-the next update and if you are not in 
-my dc then pls create an issue to 
-give us feedback (Thank u )
+New Big Code (Custom Inventory by Foxy)
+Cool Little Design for your inventory
