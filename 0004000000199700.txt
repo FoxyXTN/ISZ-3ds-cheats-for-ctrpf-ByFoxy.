@@ -1,58 +1,58 @@
-[++~#FFEEEE~Status codes/important things about us ++]
+[++Status codes/important things about us ++]
 
-[++~#FFEEEE~status freezing/bleeding/thirsty/hungry++]
+[++status freezing/bleeding/thirsty/hungry++]
 
-[~#FFEEEE~***info see Note***]
+[***info see Note***]
 AAAAAAAA AAAAAAAA
 {These codes should stop injuries like bleeding thirsty hungry cold and stuff these codes are only in the first test phase so if something doesnt work pls report in my dc server}
 
-[~#FFEEEE~anti freezing 2]
+[anti freezing 2]
 D3000000 00000000
 00483670 00000000
 00483674 98662644
 D2000000 00000000
 {beta}
 
-[~#FFEEEE~anti freezing]
+[anti freezing]
 D3000000 00000000
 00483670 00000000
 D2000000 00000000
 
-[~#FFEEEE~anti hungry]
+[anti hungry]
 D3000000 00000000
 00483660 00000000
 D2000000 00000000
 
-[~#FFEEEE~anti thirsty]
+[anti thirsty]
 D3000000 00000000
 00483668 00000000
 D2000000 00000000
 
-[~#FFEEEE~anti Bleed]
+[anti Bleed]
 20483658 00000000
 {if the health is still orange/red rejoin/save and quit then come back}
 
-[~#FFEEEE~hungry]
+[hungry]
 D3000000 00000000
 00483660 00000001
 D2000000 00000000
 
-[~#FFEEEE~thirsty]
+[thirsty]
 D3000000 00000000
 00483668 00000001
 D2000000 00000000
 
-[~#FFEEEE~bleeding]
+[bleeding]
 D3000000 00000000
 20483658 00000001
 D2000000 00000000
 
-[~#FFEEEE~freezing]
+[freezing]
 D3000000 00000000
 00483670 00000001
 D2000000 00000000
 
-[~#FFEEEE~adjustable Bleed status]
+[adjustable Bleed status]
 DD000000 00000202
 20483658 00000000
 D2000000 00000000
@@ -65,7 +65,7 @@ D3000000 00000000
 00483604 01010101
 D2000000 00000000
 
-[~#FFEEEE~complete status down]
+[complete status down]
 D3000000 00000000
 00483670 00000001
 00483668 00000001
@@ -75,7 +75,7 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~Random status codes by Foxy++]
+[++Random status codes by Foxy++]
 
 [Random Warm (Beta)]
 D3000000 00483624
@@ -91,7 +91,7 @@ D3000000 00000000
 D2000000 00000000
 {A To refill Warmth}
 
-[~#FFEEEE~Random food]
+[Random food]
 00483648 00000000
 D2000000 00000000
 D3000000 0048361C
@@ -99,7 +99,7 @@ FF000001 3B9AC9FF
 D6000000 00000000
 D2000000 00000000
 
-[~#FFEEEE~Random water]
+[Random water]
 0048364C 00000000
 D2000000 00000000
 D3000000 00483620
@@ -107,7 +107,7 @@ FF000001 3B9AC9FF
 D6000000 00000000
 D2000000 00000000
 
-[~#FFEEEE~Random battery]
+[Random battery]
 00483654 00000000
 D2000000 00000000
 D3000000 00483628
@@ -115,7 +115,7 @@ FF000001 3B9AC9FF
 D6000000 00000000
 D2000000 00000000
 
-[~#FFEEEE~Random health]
+[Random health]
 20483658 00000000
 D2000000 00000000
 00483668 00000000
@@ -131,9 +131,9 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~Status Codes by Cracko++]
+[++Status Codes by Cracko++]
 
-[~#FFEEEE~Health Configure Code *READ NOTE!*]
+[Health Configure Code *READ NOTE!*]
 DD000000 00000040
 00483614 0000270F
 D0000000 00000000
@@ -142,7 +142,7 @@ DD000000 00000080
 D0000000 00000000
 {DPad UP to give Inf Health. DPad DOWN to Die Instantly. Not for release in a plugin, if you somehow got this it's (stolen probably) but this is a debugging code made for finding values within memory mainly stats. So it's probably useless to you.}
 
-[~#FFEEEE~All Status Max]
+[All Status Max]
 D3000000 00000000
 00483614 3B9AC9FF
 00483620 3B9AC9FF
@@ -207,28 +207,28 @@ D3000000 08000000
 D2000000 00000000
 {Adnormally advanced "All-Status's Max" code. It includes advanced Status Stats, Hacked Time, Custom Status RGB, And No-Bleed/Hurt Codes.}
 
-[~#FFEEEE~Max Health]
+[Max Health]
 00483614 3B9AC9FF
 
-[~#FFEEEE~Max Food]
+[Max Food]
 0048361C 3B9AC9FF
 
-[~#FFEEEE~Max Water]
+[Max Water]
 00483620 3B9AC9FF
 
-[~#FFEEEE~Max Battery]
+[Max Battery]
 00483628 3B9AC9FF
 
-[~#FFEEEE~Max Weather]
+[Max Weather]
 00483624 461C3C00
 D2000000 00000000
 {wheater is MAXED out.}
 
-[~#FFEEEE~Anti-Crash]
+[Anti-Crash]
 0016BB10 E59600E0
 0016BB4C 00000000
 
-[~#FFEEEE~Anti-Cheat v8]
+[Anti-Cheat v8]
 DD000000 00000800
 002420AC FFFFFFFF
 D2000000 00000000
@@ -260,7 +260,7 @@ DD000000 00000800
 D2000000 00000000
 {Breaks CTRPF & NTR void headers now. Needs a server side code to work. Activate with "Y"}
 
-[~#FFEEEE~Configure Status Data]
+[Configure Status Data]
 D3000000 30000000
 00392490 FFFFFFFF
 003925A8 00000000
@@ -295,7 +295,7 @@ D3000000 30000000
 D2000000 00000000
 {Configure Colour Status}
 
-[~#FFEEEE~Regenerate Status When Low]
+[Regenerate Status When Low]
 D3000000 00000000
 30483614 0000000F
 00483614 00000064
@@ -307,7 +307,7 @@ D3000000 00000000
 00483628 00000064
 D0000000 00000000
 
-[~#FFEEEE~Faster Load Times]
+[Faster Load Times]
 D3000000 00000000
 20418760 00000000
 D2000000 00000000
@@ -381,7 +381,7 @@ D2000000 00000000
 
 [--]
 
-[++Black Status Codes++]
+[++Black Status++]
 
 [Black Colour Battery Status]
 D3000000 30000000
@@ -411,6 +411,50 @@ D2000000 00000000
 [Black Health Status]
 D3000000 30000000
 00392538 00000009
+D2000000 00000000
+
+[--]
+
+[++Red Status++]
+
+[Red Status By Foxy]
+D3000000 30000000
+00392490 DD111099
+003931E0 DD111099
+00392BD0 DD111099
+00393920 DD111099
+00394060 DD111099
+003947A0 DD111099
+D2000000 00000000
+
+[Red Time]
+D3000000 30000000
+003947A0 DD111099
+D2000000 00000000
+
+[Red Battery]
+D3000000 30000000
+00394060 DD111099
+D2000000 00000000
+
+[Red Thirst]
+D3000000 30000000
+00393920 DD111099
+D2000000 00000000
+
+[Red Hunger]
+D3000000 30000000
+003931E0 DD111099
+D2000000 00000000
+
+[Red Warmth]
+D3000000 30000000
+00392BD0 DD111099
+D2000000 00000000
+
+[Red HP]
+D3000000 30000000
+00392490 DD111099
 D2000000 00000000
 
 [--]
@@ -510,7 +554,7 @@ D3000000 30000000
 00393F44 429E0000
 D2000000 00000000
 
-[~#FFEEEE~invisible Status]
+[invisible Status]
 D3000000 30000000
 00392490 11111111
 003925A8 00000000
@@ -547,7 +591,7 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~status fall codes++]
+[++status fall codes++]
 
 [Rapid Warm Fall (Beta)]
 DD000000 00000001
@@ -562,7 +606,7 @@ D3000000 00000000
 D2000000 00000000
 {A To refill Warmth}
 
-[~#FFEEEE~rapid hp fall]
+[rapid hp fall]
 D3000000 00000000
 0048366C 00000000
 00483664 00000000
@@ -570,7 +614,7 @@ D3000000 00000000
 00483660 00000001
 D2000000 00000000
 
-[~#FFEEEE~rapid battery fall]
+[rapid battery fall]
 DD000000 00000001
 00483628 000003E7
 D2000000 00000000
@@ -578,7 +622,7 @@ D2000000 00000000
 D2000000 00000000
 {A to refill battery}
 
-[~#FFEEEE~rapid hunger fall]
+[rapid hunger fall]
 DD000000 00000001
 0048361C 000003E7
 D2000000 00000000
@@ -586,7 +630,7 @@ D2000000 00000000
 D2000000 00000000
 {A to refill hunger}
 
-[~#FFEEEE~rapid thirst fall]
+[rapid thirst fall]
 DD000000 00000001
 00483620 000003E7
 D2000000 00000000
@@ -596,62 +640,19 @@ D2000000 00000000
 
 [--]
 
-[~#FFEEEE~ ***Game Guide/about Us (Note)*** ]
-0A0A0A0A 0A0A0A0A
+[ ***Game Guide/about Us (Note)*** ]
+1A2A3A4A 5A6A7A8A
 {(u can scroll down) In this Game  u have to fight Zombies find Destinations and Weapons ,Clothes,Meds and more just have fun in an open world (these codes are made by Cracko,Owl,   Darksiders,         Gage.C,Springtrap,Peanut#XTN And the  Main creator Foxy#XTN) in this cheats are sometimes colours just dont ask xD iam from germany so pls no hate when i  have/use bad english xD. (any questions? visit my github or dm me on discord: Suki/Foxy_XTN#2922 or join my dc server :  https://discord.gg/VVbYrX4BvS ) and dont try to delete the credits it will freeze ur 3ds ;) Have Fun <3}
 
-[Custom Game Menu Ultra By Foxy]
+[All stats max by Foxy]
 D3000000 30000000
-0030BD08 00FFFF00
+003947A0 DD111099
+00394060 DD111099
+00393920 DD111099
+003931E0 DD111099
+00392BD0 DD111099
+00392490 DD111099
 D2000000 00000000
-D3000000 30000000
-90380374 0000FF01
-002F68B4 00FFFF01
-D2000000 00000000
-D3000000 30000000
-90391E34 0000FF01
-002F68B4 00FFFF00
-D2000000 00000000
-D3000000 30000000
-00380794 00000001
-0043FF8C 00808000
-0043FDAC 00404000
-0043ED28 00808000
-0043EB48 00404000
-00381E44 00808000
-00381C64 00404000
-00380DC0 00404000
-00380FA0 00808000
-002E2800 00FFFF00
-002D9A08 00FFFF00
-00346134 00FFFF00
-002F7060 00FFFF00
-00440FE4 00FFFF00
-00440E04 00FFFF00
-00440C24 00FFFF00
-00440A44 00FFFF00
-00440864 00FFFF00
-00390E60 00FFFF00
-00390BD4 00FFFF00
-0038D734 00FFFF00
-00389DAC 00FFFF00
-D2000000 00000000
-D3000000 30000000
-00380374 00FFFF01
-D2000000 00000000
-D2000000 00000000
-D3000000 30000000
-002F6968 00FFFF01
-0030BF9C 00FFFF00
-0030BD08 00FFFF00
-002F6DF4 C00C0000
-002F6DE4 30CE0000
-002F6DD0 43000000
-002F6B48 00FFFF00
-D2000000 00000000
-{(Changes Save & Quit Menu Too)   (This cheat is made By Foxy in 4 Hours Of Hard Work)}
-
-[~#FFEEEE~All stats max by Foxy]
 D3000000 00483740
 C0000000 00000010
 20000000 00000001
@@ -757,28 +758,28 @@ D3000000 30000000
 003CED54 EEEEE000
 003CEF34 AAAAA000
 003CF124 F0001000
-{includes the cold percentage to 999 and an anti crash weapons and a custom Foxy outfit custom colours in ppl menu and messaging app   + when u click A+dpad left  its 12:00 (not online) +(Some Custom Game Editings For Better Experience(like Disable Multiplayer Rules Text ))(New Function In Ver1.6 Of My ISZ Codes(L+A See Weapon Guide))}
+{includes the cold percentage to 999 and an anti crash weapons and a custom Foxy outfit custom colours in ppl menu and messaging app   + when u click A+dpad left  its 12:00 (not online) +(Some Custom Game Editings For Better Experience(like Disable Multiplayer Rules Text ))(New Function In Ver1.6 Of My ISZ Codes(L+A See Weapon Guide)))(And the new Red Status By Foxy)}
 
-[~#FFEEEE~inf live ]
+[inf live ]
 FF000000 00000039
 00483614 3B9AC9FF
 D2000000 00000000
 
-[~#FFEEEE~inf water ]
+[inf water ]
 D3000000 00000000
 00483620 3B9AC9FF
 
-[~#FFEEEE~inf food ]
+[inf food ]
 D3000000 00000000
 0048361C 3B9AC9FF
 D2000000 00000000
 
-[~#FFEEEE~inf battery ]
+[inf battery ]
 D3000000 00000000
 00483628 3B9AC9FF
 D2000000 00000000
 
-[~#FFEEEE~inf Warm ]
+[inf Warm ]
 D3000000 00000000
 00483624 461C3C00
 D2000000 00000000
@@ -788,23 +789,34 @@ D3000000 00000000
 00483624 C4781526
 D2000000 00000000
 
-[~#FFEEEE~Anti-Crash 2]
+[Anti Crash (Dont delete Particles)]
+D3000000 00000000
+0016BB10 3F9FFFFF
+D2000000 00000000
+{Just a Beta}
+
+[Deactivate Anti Crash]
+D3000000 00000000
+0016BB10 3F800000
+D2000000 00000000
+
+[Anti-Crash 2]
 0016BB10 2F800000
 0016BB08 99000000
 0016BB4C 00000000
 {by Foxy  (just against weapons &sometimes it works agains flamethrower)}
 
-[~#FFEEEE~Anti-Crash]
+[Anti-Crash]
 0016BB10 E59600E0
 0016BB4C 00000000
 {by Foxy  (just against weapons &sometimes it works agains flamethrower)}
 
-[~#FFEEEE~Suicide ]
+[Suicide ]
 DD000000 00000300
 00483614 00000000
 {+}
 
-[~#FFEEEE~Spectator mode]
+[Spectator mode]
 00418740 00000000
 D2000000 00000000
 00482F28 BDCCCCCD
@@ -873,56 +885,51 @@ FF000000 00000000
 D6000000 00000000
 {just try this code and u will see what it does xD (made by Foxy)}
 
-[Deactivate Anti Crash]
-D3000000 00000000
-0016BB10 3F800000
-D2000000 00000000
-
 [--]
 
-[++~#FFEEEE~Custom Multiplayer Menu Codes++]
+[++Custom Multiplayer Menu Codes ++]
 
 [### Note ###]
 D2000000 00000000
 {These Codes Are Made By : Cracko298}
 
-[~#FFEEEE~Custom Menu - Multiplayer #1]
+[Custom Menu - Multiplayer #1]
 D3000000 30000000
 2018F771 00000000
 20210591 00000000
 D2000000 00000000
 
-[~#FFEEEE~Custom Menu - Multiplayer #2]
+[Custom Menu - Multiplayer #2]
 D3000000 30000000
 2018F76A 00000000
 2021058A 00000000
 D2000000 00000000
 
-[~#FFEEEE~Custom Menu - Multiplayer #3]
+[Custom Menu - Multiplayer #3]
 D3000000 30000000
 2018F772 00000000
 20210592 00000000
 D2000000 00000000
 
-[~#FFEEEE~Custom Menu - Multiplayer #4]
+[Custom Menu - Multiplayer #4]
 D3000000 30000000
 2018F773 00000000
 20210593 00000000
 D2000000 00000000
 
-[~#FFEEEE~Custom Menu - Multiplayer #5]
+[Custom Menu - Multiplayer #5]
 D3000000 30000000
 2018F770 00000000
 20210590 00000000
 D2000000 00000000
 
-[~#FFEEEE~Custom Menu - Multiplayer #6]
+[Custom Menu - Multiplayer #6]
 D3000000 30000000
 2018F774 00000000
 20210594 00000000
 D2000000 00000000
 
-[~#FFEEEE~Custom Menu - Multiplayer #7]
+[Custom Menu - Multiplayer #7]
 D3000000 30000000
 2018F778 00000000
 20210598 00000000
@@ -930,11 +937,11 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~CUSTOM Death messages++]
+[++CUSTOM Death messages ++]
 
 [++Send Death Messages Codes++]
 
-[~#FFEEEE~Starved To Death]
+[Starved To Death]
 DD000000 00000800
 0014609C E320F000
 00145E64 E320F000
@@ -955,11 +962,11 @@ DD000000 00000800
 
 [--]
 
-[~#FFEEEE~Was fucked by another player]
+[Was fucked by another player]
 003807C8 006B0063
 003807C4 00750046
 
-[~#FFEEEE~Funny death messages]
+[Funny death messages]
 003808E8 00740053
 003808EC 00700065
 003808F4 00200064
@@ -1012,7 +1019,7 @@ DD000000 00000800
 003808E0 006C0025
 0038092C 00540046
 
-[~#FFEEEE~Cut parts out Death MESSAGES]
+[Cut parts out Death MESSAGES]
 D3000000 00000000
 003807F0 40404040
 003807E8 40404040
@@ -1057,7 +1064,7 @@ D3000000 00000000
 D2000000 00000000
 {cut some parts out of the death messages}
 
-[~#FFEEEE~Disable Death MESSAGES]
+[Disable Death MESSAGES]
 D3000000 00000000
 003807F0 00000000
 003807E8 00000000
@@ -1104,7 +1111,37 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~touchscreen modifier ++]
+[++Connection LvL Codes ++]
+
+[Trigger Connection LvL 0]
+D3000000 30000000
+003953FC 00FFFF11
+D2000000 00000000
+
+[Trigger Connection LvL 1]
+D3000000 30000000
+00395914 00FFFF00
+00395BA0 00FFFF00
+00395688 00FFFF11
+D2000000 00000000
+
+[Trigger Connection LvL 2]
+D3000000 30000000
+00395688 00FFFF00
+00395BA0 00FFFF00
+00395914 00FFFF11
+D2000000 00000000
+
+[Trigger Connection LvL 3]
+D3000000 30000000
+00395914 00FFFF00
+00395688 00FFFF00
+00395BA0 00FFFF11
+D2000000 00000000
+
+[--]
+
+[++touchscreen modifier ++]
 
 [++Other TouchScreen Codes++]
 
@@ -1168,125 +1205,146 @@ D2000000 00000000
 
 [--]
 
-[Buggy Touch]
-00429CDC 00060001
-
-[~#FFEEEE~End every code and make touch normal]
+[End every code and make touch normal]
 D3000000 00000000
 00419FA0 3C088889
 00419FC4 3B03126F
 00419FAC BBCCCCCD
 D2000000 00000000
 
-[~#FFEEEE~touchscreen custom background3]
+[Custom Game Menu Ultra By Foxy]
+D3000000 30000000
+0030BD08 00FFFF00
+D2000000 00000000
+D3000000 30000000
+90380374 0000FF01
+002F68B4 00FFFF01
+D2000000 00000000
+D3000000 30000000
+90391E34 0000FF01
+002F68B4 00FFFF00
+D2000000 00000000
+D3000000 30000000
+00380794 00000001
+0043FF8C 00808000
+0043FDAC 00404000
+0043ED28 00808000
+0043EB48 00404000
+00381E44 00808000
+00381C64 00404000
+00380DC0 00404000
+00380FA0 00808000
+002E2800 00FFFF00
+002D9A08 00FFFF00
+00346134 00FFFF00
+002F7060 00FFFF00
+00440FE4 00FFFF00
+00440E04 00FFFF00
+00440C24 00FFFF00
+00440A44 00FFFF00
+00440864 00FFFF00
+00390E60 00FFFF00
+00390BD4 00FFFF00
+0038D734 00FFFF00
+00389DAC 00FFFF00
+D2000000 00000000
+D3000000 30000000
+00380374 00FFFF01
+D2000000 00000000
+D2000000 00000000
+D3000000 30000000
+002F6968 00FFFF01
+0030BF9C 00FFFF00
+0030BD08 00FFFF00
+002F6DF4 C00C0000
+002F6DE4 30CE0000
+002F6DD0 43000000
+002F6B48 00FFFF00
+D2000000 00000000
+{(Changes Save & Quit Menu Too)   (This cheat is made By Foxy in 4 Hours Of Hard Work)}
+
+[Buggy Touch]
+00429CDC 00060001
+
+[touchscreen custom background3]
 D3000000 00000000
 00419FA0 3B000000
 D2000000 00000000
 {unusable}
 
-[~#FFEEEE~touchscreen custom background2]
+[touchscreen custom background2]
 D3000000 00000000
 00419FA0 3BBBBBBB
 D2000000 00000000
 
-[~#FFEEEE~touchscreen custom background]
+[touchscreen custom background]
 D3000000 00000000
 00419FA0 3C011119
 D2000000 00000000
 
-[~#FFEEEE~bigger touchscreen + mirror]
+[bigger touchscreen + mirror]
 00419FAC 3BCCCCC0
 
-[~#FFEEEE~Random touchscreen size]
+[Random touchscreen size]
 D3000000 00419FAC
 FF000001 BACCCCCD
 D6000000 00000000
 D2000000 00000000
 
-[~#FFEEEE~a bit bigger touchscreen]
+[a bit bigger touchscreen]
 D3000000 00000000
 00419FAC BC111111
 D2000000 00000000
 
-[~#FFEEEE~unusable touchscreen look]
+[unusable touchscreen look]
 D3000000 00000000
 00419FAC CCCCCCCC
 D2000000 00000000
 
-[~#FFEEEE~touchscreen look killer 2]
+[touchscreen look killer 2]
 D3000000 00000000
 00419FA0 3F088889
 00419FC4 3B03126F
 00419FAC BBCCCCCD
 D2000000 00000000
 
-[~#FFEEEE~touchscreen look killer]
+[touchscreen look killer]
 D3000000 00000000
 00419FA0 4C088889
 D2000000 00000000
 
-[~#FFEEEE~stretched touchscreen]
+[stretched touchscreen]
 D3000000 00000000
 00419FA0 3CCCCC00
 D2000000 00000000
 
-[~#FFEEEE~touchscreen gba size]
+[touchscreen gba size]
 D3000000 00000000
 00419FA0 3C000006
 00419FC4 3A03222F
 00419FAC BBAAAAAA
 D2000000 00000000
 
-[~#FFEEEE~flipped touchscreen]
+[flipped touchscreen]
 D3000000 00000000
 00419FA0 BC011119
 D2000000 00000000
 
-[~#FFEEEE~touchscreen fcker]
+[touchscreen fcker]
 00419FD8 00000001
 
-[~#FFEEEE~big touchscreen]
+[big touchscreen]
 D3000000 00000000
 00419FAC BCCCCCCD
 D2000000 00000000
 
-[~#FFEEEE~small touchsvreen]
+[small touchscreen]
 D3000000 00000000
 00419FAC BACCCCCD
 D2000000 00000000
 
-[~#FFEEEE~MIRROR MODE]
+[MIRROR MODE]
 00419FAC 3BCCCCCD
-
-[--]
-
-[++Connection LvL Codes++]
-
-[Trigger Connection LvL 0]
-D3000000 30000000
-003953FC 00FFFF11
-D2000000 00000000
-
-[Trigger Connection LvL 1]
-D3000000 30000000
-00395914 00FFFF00
-00395BA0 00FFFF00
-00395688 00FFFF11
-D2000000 00000000
-
-[Trigger Connection LvL 2]
-D3000000 30000000
-00395688 00FFFF00
-00395BA0 00FFFF00
-00395914 00FFFF11
-D2000000 00000000
-
-[Trigger Connection LvL 3]
-D3000000 30000000
-00395914 00FFFF00
-00395688 00FFFF00
-00395BA0 00FFFF11
-D2000000 00000000
 
 [--]
 
@@ -1294,7 +1352,34 @@ D2000000 00000000
 
 [### Note ###]
 D2000000 00000000
-{These Codes are Made By Foxy in a 3Days Session Full Of Crashes And Pain (PLS Leave A Star On github)}
+{These Codes are Made By Foxy in a 3Days Session Full Of Crashes And Pain (PLS Leave A Star On github) (U have To Save & Quit To Transform)}
+
+[Everything Back To Normal]
+D3000000 00000000
+0048B394 0885125C
+0048B390 0885091C
+0048B38C 0884FFDC
+0048B388 0884F2A8
+D2000000 00000000
+
+[Transform Everything Into a Bird/Goose (Could Crash)]
+0048B390 0885125C
+0048B394 0885125C
+0048B38C 0885125C
+0048B388 0885125C
+{(Could Crash)}
+
+[Transform Everything Into a Zombie LvL 2]
+0048B390 0885091C
+0048B394 0885091C
+0048B38C 0885091C
+0048B388 0885091C
+
+[Transform Everything Into a Zombie LvL 1]
+0048B390 0884FFDC
+0048B394 0884FFDC
+0048B38C 0884FFDC
+0048B388 0884FFDC
 
 [Transform Everything Into a Normal Player]
 0048B390 0884F2A8
@@ -1306,16 +1391,20 @@ D2000000 00000000
 0048B388 0884F2A8
 
 [Transform into A Zombie Lvl2]
+0048359C 00000000
 D3000000 00000000
 0048B388 0885091C
 D2000000 00000000
 
 [Transform into A Zombie Lvl1]
+0048359C 00000000
 D3000000 00000000
 0048B388 0884FFDC
 D2000000 00000000
 
 [Transform into A Bird]
+00483604 00000000
+D2000000 00000000
 00242214 ED800A08
 00482F28 BDCCCCCD
 D2000000 00000000
@@ -1339,7 +1428,7 @@ D2000000 00000000
 D3000000 00000000
 0048B388 0885125C
 D2000000 00000000
-{Y To Fly Up A Hold Hight}
+{Y To Fly Up A Hold Height}
 
 [--]
 
@@ -1417,13 +1506,13 @@ D3000000 30000000
 0018F774 007F00C0
 D2000000 00000000
 
-[~#FFEEEE~Big Locale Play Button]
+[Big Locale Play Button]
 D3000000 30000000
 2018F775 00000000
 20210595 00000000
 D2000000 00000000
 
-[~#FFEEEE~two single player buttons]
+[two single player buttons]
 D3000000 08000000
 00806870 00000000
 D2000000 00000000
@@ -1495,84 +1584,84 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~item changer slot1++]
+[++item changer slot1++]
 
-[~#FFEEEE~***info (NOTE)***]
+[***info (NOTE)***]
 00000000 00000000
 {These codes spawn the selected item in the inventory slot 1 (save and quit to activate the real items after putting it in inventory) All codes Made By Foxy#XTN}
 
-[~#FFEEEE~empty]
+[empty]
 00429600 00FF0000
 
-[++~#FFEEEE~useless items++]
+[++useless items++]
 
-[~#FFEEEE~empty as item (no percentage)]
+[empty as item (no percentage)]
 00429600 00FF00F4
 
-[~#FFEEEE~empty as item (0%)]
+[empty as item (0%)]
 00429608 00000000
 0042960C 00000064
 00429600 00FF00F4
 D2000000 00000000
 {empty as a item with (0%)  needs place like a normal item (so its not an empty inv slot)}
 
-[~#FFEEEE~empty as item (1111%)]
+[empty as item (1111%)]
 00429608 00000457
 0042960C 00000064
 00429600 00FF00F4
 D2000000 00000000
 {empty as a item with (1111%)  needs place like a normal item (so its not an empty inv slot)}
 
-[~#FFEEEE~empty as item (2222%)]
+[empty as item (2222%)]
 00429608 000008AE
 0042960C 00000064
 00429600 00FF00F4
 D2000000 00000000
 {empty as a item with (2222%)  needs place like a normal item (so its not an empty inv slot)}
 
-[~#FFEEEE~empty as item (3333%)]
+[empty as item (3333%)]
 00429608 00000D05
 0042960C 00000064
 00429600 00FF00F4
 D2000000 00000000
 {empty as a item with (3333%)  needs place like a normal item (so its not an empty inv slot)}
 
-[~#FFEEEE~empty as item (4444%)]
+[empty as item (4444%)]
 00429608 0000115C
 0042960C 00000064
 00429600 00FF00F4
 D2000000 00000000
 {empty as a item with (4444%)  needs place like a normal item (so its not an empty inv slot)}
 
-[~#FFEEEE~empty as item (5555%)]
+[empty as item (5555%)]
 00429608 000015B3
 0042960C 00000064
 00429600 00FF00F4
 D2000000 00000000
 {empty as a item with (5555%)  needs place like a normal item (so its not an empty inv slot)}
 
-[~#FFEEEE~empty as item (6666%)]
+[empty as item (6666%)]
 00429608 00001AA0
 0042960C 00000064
 00429600 00FF00F4
 D2000000 00000000
 {empty as a item with (6666%)  needs place like a normal item (so its not an empty inv slot)}
 
-[~#FFEEEE~empty as item (7777%)]
+[empty as item (7777%)]
 00429608 00001E61
 0042960C 00000064
 00429600 00FF00F4
 D2000000 00000000
 {empty as a item with (7777%)  needs place like a normal item (so its not an empty inv slot)}
 
-[~#FFEEEE~empty as item (8888%)]
+[empty as item (8888%)]
 00429608 000022B8
 0042960C 00000064
 00429600 00FF00F4
 D2000000 00000000
 {empty as a item with (8888%)  needs place like a normal item (so its not an empty inv slot)}
 
-[~#FFEEEE~empty as item (9999%)]
+[empty as item (9999%)]
 00429608 0000270F
 0042960C 00000064
 00429600 00FF00F4
@@ -1581,130 +1670,130 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~usable items++]
+[++usable items++]
 
-[~#FFEEEE~trap]
+[trap]
 00429600 00FF1803
 
-[~#FFEEEE~metal detector]
+[metal detector]
 00429600 00FF1C03
 
-[~#FFEEEE~pro fishing rod]
+[pro fishing rod]
 00429600 00FF1B03
 
-[~#FFEEEE~cooking stove]
+[cooking stove]
 00429600 00FF1703
 
-[~#FFEEEE~tent]
+[tent]
 00429600 00FF3C03
 
-[~#FFEEEE~snowboard]
+[snowboard]
 00429600 00FF4403
 
-[~#FFEEEE~binoculars]
+[binoculars]
 00429600 00FF1603
 
-[~#FFEEEE~field binoculars]
+[field binoculars]
 00429600 00FF1A03
 
-[~#FFEEEE~fishing rod]
+[fishing rod]
 00429600 00FF1903
 
 [--]
 
-[++~#FFEEEE~clothes++]
+[++clothes++]
 
-[++~#FFEEEE~normal++]
+[++normal++]
 
-[~#FFEEEE~normal jacket]
+[normal jacket]
 00429604 0000270F
 00429600 00FF2A04
 
-[~#FFEEEE~normal backpack]
+[normal backpack]
 00429604 0000270F
 00429600 00FF2C04
 
-[~#FFEEEE~normal trousers]
+[normal trousers]
 00429604 0000270F
 00429600 00FF2B04
 
 [--]
 
-[++~#FFEEEE~artic++]
+[++artic++]
 
-[~#FFEEEE~artic trousers]
+[artic trousers]
 00429604 0000270F
 00429600 00FF3704
 
-[~#FFEEEE~artic backpack]
+[artic backpack]
 00429604 0000270F
 00429600 00FF3804
 
-[~#FFEEEE~artic jacket]
+[artic jacket]
 00429604 0000270F
 00429600 00FF3604
 
 [--]
 
-[++~#FFEEEE~kevlar++]
+[++kevlar++]
 
-[~#FFEEEE~kevlar jacket]
+[kevlar jacket]
 00429604 0000270F
 00429600 00FF3304
 
-[~#FFEEEE~kevlar trousers]
+[kevlar trousers]
 00429604 0000270F
 00429600 00FF3404
 
-[~#FFEEEE~kevlar backpack]
+[kevlar backpack]
 00429604 0000270F
 00429600 00FF3504
 
 [--]
 
-[++~#FFEEEE~bling++]
+[++bling++]
 
-[~#FFEEEE~bling backpack]
+[bling backpack]
 00429604 0000270F
 00429600 00FF3B04
 
-[~#FFEEEE~bling jacket]
+[bling jacket]
 00429604 0000270F
 00429600 00FF3904
 
-[~#FFEEEE~bling trousers]
+[bling trousers]
 00429604 0000270F
 00429600 00FF3A04
 
 [--]
 
-[++~#FFEEEE~cammo++]
+[++cammo++]
 
-[~#FFEEEE~cammo jacket]
+[cammo jacket]
 00429604 0000270F
 00429600 00FF2D04
 
-[~#FFEEEE~cammo trousers]
+[cammo trousers]
 00429604 0000270F
 00429600 00FF2E04
 
-[~#FFEEEE~cammo backpack]
+[cammo backpack]
 00429604 0000270F
 00429600 00FF2F04
 
 [--]
 
-[++~#FFEEEE~military++]
+[++military++]
 
-[~#FFEEEE~military trousers]
+[military trousers]
 00429604 0000270F
 00429600 00FF3104
 
-[~#FFEEEE~military backpack]
+[military backpack]
 00429604 0000270F
 00429600 00FF3204
 
-[~#FFEEEE~military jacket]
+[military jacket]
 00429604 0000270F
 00429600 00FF3004
 
@@ -1712,7 +1801,7 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~knifes++]
+[++knifes++]
 
 [troll knife]
 D3000000 00000000
@@ -1721,138 +1810,138 @@ D3000000 00000000
 D2000000 00000000
 {this knife breaks after 1 hit}
 
-[~#FFEEEE~hunting knife]
+[hunting knife]
 00429600 00FF0E03
 
 [--]
 
-[++~#FFEEEE~ammo++]
+[++ammo++]
 
-[~#FFEEEE~tranq darts]
+[tranq darts]
 00429604 0000270F
 00429600 00FF1304
 
-[~#FFEEEE~pistol ammo]
+[pistol ammo]
 00429604 0000270F
 00429600 00FF0F04
 
-[~#FFEEEE~rifle ammo]
+[rifle ammo]
 00429604 0000270F
 00429600 00FF1104
 
-[~#FFEEEE~crossbow bolts]
+[crossbow bolts]
 00429604 0000270F
 00429600 00FF1204
 
-[~#FFEEEE~shotgun ammo]
+[shotgun ammo]
 00429604 0000270F
 00429600 00FF1004
 
 [--]
 
-[++~#FFEEEE~water++]
+[++water++]
 
-[~#FFEEEE~large waterbottle]
+[large waterbottle]
 00429600 00FF2203
 
-[~#FFEEEE~waterbottle]
+[waterbottle]
 00429600 00FF1D03
 
 [--]
 
-[++~#FFEEEE~food++]
+[++food++]
 
-[~#FFEEEE~tuna]
+[tuna]
 00429600 00FF1F03
 
-[~#FFEEEE~mint cake]
+[mint cake]
 00429600 00FF2303
 
-[~#FFEEEE~corned beef]
+[corned beef]
 00429600 00FF2103
 
-[~#FFEEEE~cooked fish]
+[cooked fish]
 00429604 0000270F
 00429600 00FF4204
 
-[~#FFEEEE~cooked goose]
+[cooked goose]
 00429600 00FF3F03
 
-[~#FFEEEE~beans]
+[beans]
 00429600 00FF2003
 
-[~#FFEEEE~snackbar]
+[snackbar]
 00429600 00FF1E03
 
 [--]
 
-[++~#FFEEEE~items++]
+[++items++]
 
-[~#FFEEEE~minnow]
+[minnow]
 00429600 00FF4003
 
-[~#FFEEEE~large fish]
+[large fish]
 00429600 00FF4103
 
-[~#FFEEEE~logs]
+[logs]
 00429604 00000064
 00429600 00FF3D04
 
-[~#FFEEEE~matches]
+[matches]
 00429604 00000064
 00429600 00FF1404
 
-[~#FFEEEE~goose]
+[goose]
 00429600 00FF3E04
 
-[~#FFEEEE~engine part]
+[engine part]
 00429604 00000003
 00429600 00FF4304
 
-[~#FFEEEE~fuel]
+[fuel]
 00429604 00000003
 00429600 00FF1504
 
 [--]
 
-[++~#FFEEEE~meds++]
+[++meds++]
 
-[~#FFEEEE~antiseptic]
+[antiseptic]
 00429600 00FF2403
 
-[~#FFEEEE~bandage]
+[bandage]
 00429600 00FF2603
 
-[~#FFEEEE~dressing]
+[dressing]
 00429600 00FF2703
 
-[~#FFEEEE~large bandage]
+[large bandage]
 00429600 00FF2803
 
-[~#FFEEEE~large dressing]
+[large dressing]
 00429600 00FF2903
 
-[~#FFEEEE~antibiotics]
+[antibiotics]
 00429600 00FF2503
 
 [--]
 
-[++~#FFEEEE~guns++]
+[++guns++]
 
-[++~#FFEEEE~crossbows++]
+[++crossbows++]
 
-[~#FFEEEE~crossbow]
+[crossbow]
 00429600 00FF0A03
 
-[~#FFEEEE~hunting crossbow]
+[hunting crossbow]
 00429600 00FF0B03
 
-[~#FFEEEE~artic hunting crossbow]
+[artic hunting crossbow]
 00429600 00FF0C03
 
 [--]
 
-[++~#FFEEEE~shotguns++]
+[++shotguns++]
 
 [troll artic hunting shotgun]
 D3000000 00000000
@@ -1861,55 +1950,55 @@ D3000000 00000000
 D2000000 00000000
 {this shotgun breaks after 1 shot}
 
-[~#FFEEEE~double barrel shotgun]
+[double barrel shotgun]
 00429600 00FF0403
 
-[~#FFEEEE~hunting shotgun]
+[hunting shotgun]
 00429600 00FF0503
 
-[~#FFEEEE~artic hunting shotgun]
+[artic hunting shotgun]
 00429600 00FF0603
 
 [--]
 
-[++~#FFEEEE~specials++]
+[++specials++]
 
-[~#FFEEEE~tranq gun]
+[tranq gun]
 00429600 00FF0D03
 
-[~#FFEEEE~flame thrower]
+[flame thrower]
 00429600 00FF4503
 
-[~#FFEEEE~flare gun]
+[flare gun]
 00429600 00FF4703
 
-[~#FFEEEE~ray gun]
+[ray gun]
 00429600 00FF4603
 
 [--]
 
-[++~#FFEEEE~pistols++]
+[++pistols++]
 
-[~#FFEEEE~basic handgun]
+[basic handgun]
 00429600 00FF0103
 
-[~#FFEEEE~artic handgun]
+[artic handgun]
 00429600 00FF0203
 
-[~#FFEEEE~artic eagle handgun]
+[artic eagle handgun]
 00429600 00FF0303
 
 [--]
 
-[++~#FFEEEE~rifles++]
+[++rifles++]
 
-[~#FFEEEE~hunting rifle]
+[hunting rifle]
 00429600 00FF0703
 
-[~#FFEEEE~scout hunting rifle]
+[scout hunting rifle]
 00429600 00FF0803
 
-[~#FFEEEE~artic hunting rifle]
+[artic hunting rifle]
 00429600 00FF0903
 
 [--]
@@ -1918,7 +2007,7 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~PauseMenu Codes++]
+[++PauseMenu Codes++]
 
 [++custom buttons by Foxy++]
 
@@ -1991,7 +2080,12 @@ D3000000 30000000
 00397008 00000000
 D2000000 00000000
 
-[~#FFEEEE~Customizable Quit Menu]
+[Disable Black String (Save And Quit...)]
+D3000000 30000000
+00480228 00FFFF00
+D2000000 00000000
+
+[Customizable Quit Menu]
 D3000000 30000000
 5047FDB4 00FFFF01
 00380554 42585266
@@ -2011,14 +2105,14 @@ D3000000 30000000
 00396B70 00FFFF00
 D2000000 00000000
 
-[~#FFEEEE~Always Pause menu]
+[Always Pause menu]
 D3000000 30000000
 20396B70 00000001
 208067B5 00000001
 D2000000 00000000
 {You can't edit your settings. Yeah this cheat is actually 100% useless.}
 
-[~#FFEEEE~Random POPUPS]
+[Random POPUPS]
 D3000000 30000000
 20346134 00000001
 D2000000 00000000
@@ -2026,7 +2120,7 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~single/multiplayer++]
+[++single/multiplayer++]
 
 [Disable Multiplayer]
 D3000000 30000000
@@ -2085,7 +2179,7 @@ D3000000 30000000
 0030BDB8 00000000
 D2000000 00000000
 
-[~#FFEEEE~Internet/Multiplayer Splash Screen]
+[Internet/Multiplayer Splash Screen]
 D3000000 30000000
 2018F77C 00000000
 2021059C 00000000
@@ -2112,7 +2206,7 @@ FFFFFF00 00FFFF01
 D6000000 00000000
 D2000000 00000000
 
-[~#FFEEEE~only single player avaible]
+[only single player avaible]
 D3000000 08000000
 00806870 00000000
 D2000000 00000000
@@ -2123,12 +2217,12 @@ D3000000 30000000
 0030BF98 00000000
 D2000000 00000000
 
-[~#FFEEEE~only multiplayer avaible]
+[only multiplayer avaible]
 D3000000 08000000
 00806870 00000001
 D2000000 00000000
 
-[~#FFEEEE~Big Locale Play Button]
+[Big Locale Play Button]
 D3000000 30000000
 2018F775 00000000
 20210595 00000000
@@ -2138,7 +2232,7 @@ D2000000 00000000
 
 [++Game Speed Codes++]
 
-[~#FFEEEE~slow the game Speed]
+[slow the game Speed]
 00267A04 E59F2A4C
 00268458 3F000000
 0024E138 E320F000
@@ -2353,7 +2447,7 @@ D3000000 00000000
 0042C65C 424A8741
 D2000000 00000000
 
-[~#FFEEEE~Corrupt Game Save Data]
+[Corrupt Game Save Data]
 D3000000 00000000
 0042C660 FFFFFFFF
 0042C664 FFFFFFFF
@@ -2362,11 +2456,11 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~Generator Codes++]
+[++Generator Codes++]
 
-[++~#FFEEEE~Other Players++]
+[++Other Players++]
 
-[~#FFEEEE~online 3rd player random id]
+[online 3rd player random id]
 D3000000 00484738
 FF000001 FFFFFFFF
 D6000000 00000000
@@ -2376,13 +2470,13 @@ FF000001 FFFFFFFF
 D6000000 00000000
 D0000000 00000000
 
-[~#FFEEEE~online 3rd player random name]
+[online 3rd player random name]
 D3000000 0048470E
 FF000001 000000FF
 D6000000 00000000
 D0000000 00000000
 
-[~#FFEEEE~online 2nd player random id]
+[online 2nd player random id]
 D3000000 00483EF4
 FF000001 FFFFFFFF
 D6000000 00000000
@@ -2392,13 +2486,13 @@ FF000001 FFFFFFFF
 D6000000 00000000
 D0000000 00000000
 
-[~#FFEEEE~online 2nd player random name]
+[online 2nd player random name]
 D3000000 00483EC6
 FF000001 000000FF
 D6000000 00000000
 D0000000 00000000
 
-[~#FFEEEE~online 4th player random id]
+[online 4th player random id]
 D3000000 00484F80
 FF000001 FFFFFFFF
 D6000000 00000000
@@ -2408,7 +2502,7 @@ FF000001 FFFFFFFF
 D6000000 00000000
 D0000000 00000000
 
-[~#FFEEEE~online 4th player random name]
+[online 4th player random name]
 D3000000 00484F56
 FF000001 000000FF
 D6000000 00000000
@@ -2416,7 +2510,7 @@ D0000000 00000000
 
 [--]
 
-[~#FFEEEE~Random Message Generator (v3)]
+[Random Message Generator (v3)]
 DD000000 00000002
 D3000000 00429F44
 FF000001 000000FF
@@ -2499,7 +2593,7 @@ D6000000 00000000
 D0000000 00000000
 {Hold B.}
 
-[~#FFEEEE~Random Clothes Generator]
+[Random Clothes Generator]
 D3000000 00483634
 FF000001 0000000F
 D6000000 00000000
@@ -2513,7 +2607,7 @@ FF000001 0000000F
 D6000000 00000000
 D0000000 00000000
 
-[~#FFEEEE~Random Name Generator]
+[Random Name Generator]
 D3000000 0048367E
 FF000001 000000FF
 D6000000 00000000
@@ -2531,7 +2625,7 @@ FF000001 000000FF
 D6000000 00000000
 D0000000 00000000
 
-[~#FFEEEE~Random Gun Generator]
+[Random Gun Generator]
 D3000000 00429601
 FF000001 00000009
 D6000000 00000000
@@ -2559,7 +2653,7 @@ D3000000 00000000
 004296BC 3B9AC9FF
 004296F8 3B9AC9FF
 
-[~#FFEEEE~Random ID Generator]
+[Random ID Generator]
 D3000000 004836A4
 FF000001 FFFFFFFF
 D6000000 00000004
@@ -2569,7 +2663,7 @@ FF000001 FFFFFFFF
 D6000000 00000004
 D0000000 00000000
 
-[~#FFEEEE~All Ammo Generator]
+[All Ammo Generator]
 D3000000 00000000
 DD000000 00000001
 2042972D 0000000F
@@ -2816,11 +2910,11 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~Camera modifier ++]
+[++Camera modifier ++]
 
-[++~#FFEEEE~by Cracko298++]
+[++by Cracko298++]
 
-[~#FFEEEE~Camera Hover V1]
+[Camera Hover V1]
 D3000000 00000000
 C0000000 00000123
 00419550 421B0852
@@ -2833,10 +2927,10 @@ D2000000 00000000
 [Mid Cam Zoom Out]
 0041958C 42800001
 
-[~#FFEEEE~Camera zoom]
+[Camera zoom]
 004195E0 40000000
 
-[~#FFEEEE~configurate zoom out  read note]
+[configurate zoom out  read note]
 DD000000 00000002
 0041958C 42F00000
 D2000000 00000000
@@ -2850,49 +2944,49 @@ DD000000 00000800
 0041958C 41BFFFFF
 {X complete zoom in                                    A zoom out a bit                                         Y big zoom out&B biggest zoom out}
 
-[~#FFEEEE~Disable bit higher up camera ]
+[Disable bit higher up camera]
 D3000000 00000000
 00419588 3D000000
 D2000000 00000000
 
-[~#FFEEEE~bit higher up camera]
+[bit higher up camera]
 D3000000 00000000
 00419588 3F000000
 D2000000 00000000
 
-[~#FFEEEE~bird  perspective 2]
+[bird  perspective 2]
 D3000000 00000000
 00419538 4384B973
 D2000000 00000000
 
-[~#FFEEEE~bird perspective 1]
+[bird perspective 1]
 D3000000 00000000
 00419588 3FF00000
 D2000000 00000000
 
-[~#FFEEEE~Glitched Camera]
+[Glitched Camera]
 00419538 01FFFFFF
 {Glitches ur camera position under the map}
 
-[~#FFEEEE~crazy camera 2]
+[crazy camera 2]
 D3000000 00000000
 0041953C C4E190E6
 D2000000 00000000
 
-[~#FFEEEE~crazy camera]
+[crazy camera]
 D3000000 00000000
 00419538 4299B3A0
 D2000000 00000000
 
-[~#FFEEEE~big zoom out]
+[big zoom out]
 0041958C 41F00000
 
-[~#FFEEEE~first person]
+[first person]
 0041958C 00FFFFFF
 
 [--]
 
-[++~#FFEEEE~Pointless Codes ++]
+[++Pointless Codes ++]
 
 [÷÷÷INFO TO POINTLESS CODES NOTE÷÷÷]
 20482F1B 00000050
@@ -2928,7 +3022,7 @@ D6000000 00000000
 D2000000 00000000
 {random sounds will come after saving and quittimg and ur game will freeze}
 
-[~#FFEEEE~Custom error message by Foxy]
+[Custom error message by Foxy]
 0011B87C 6B637546
 0011B888 00002053
 0011B884 4B434148
@@ -2939,7 +3033,7 @@ D2000000 00000000
 003B6598 4B434148
 {custom touchscreen error message (the error with the black touchscreen and white numbers xD)}
 
-[~#FFEEEE~new game = delete cheats]
+[new game = delete cheats]
 D3000000 30000000
 00211230 00000000
 00190410 00000000
@@ -2952,7 +3046,7 @@ DD000000 00000001
 00482F28 FFFFFFFF
 00240FEF FFFFFFFF
 
-[~#FFEEEE~outside is lava beta v1.0]
+[outside is lava beta v1.0]
 D3000000 30000000
 0019B240 00000001
 D2000000 00000000
@@ -2983,27 +3077,27 @@ D0000000 00000000
 90429F50 00004B43
 00429F54 0000443A
 
-[~#FFEEEE~loading in tt screen]
+[loading in tt screen]
 0042C6D0 FFFFFFFF
 
-[~#FFEEEE~stop loading in tt screen]
+[stop loading in tt screen]
 [both screen dark [see note]]
 00418760 06612C7E
 {normally if you go to something in the menu and it loads briefly, there is only a black screen on the touch screen for a short time . with this code it now works on both screens}
 
-[~#FFEEEE~GAME destroyer2]
+[GAME destroyer2]
 D3000000 30000000
 00197398 00000001
 D2000000 00000000
 {useless but cool}
 
-[~#FFEEEE~Game destroyer]
+[Game destroyer]
 D3000000 30000000
 2021A2A0 00000000
 D2000000 00000000
 {idk why i made this}
 
-[~#FFEEEE~double screen]
+[double screen]
 D3000000 00000000
 00429CDC FFFFFFFF
 D2000000 00000000
@@ -3016,7 +3110,7 @@ D3000000 00000000
 D2000000 00000000
 {Very Unnormal Lags And Glitches (Warning Do not use If u Dont know What U do)}
 
-[~#FFEEEE~freeze]
+[freeze]
 DD000000 00000003
 0048FA98 FFFFFFFF
 D2000000 00000000
@@ -3028,7 +3122,7 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~Flashlight codes++]
+[++Flashlight codes++]
 
 [++Flashlight Colours++]
 
@@ -3111,7 +3205,7 @@ D3000000 30000000
 00395168 42800000
 D2000000 00000000
 
-[~#FFEEEE~Turn Light ON/OFF]
+[Turn Light ON/OFF]
 D3000000 08000000
 DD000000 00000001
 20805EE1 00000001
@@ -3135,7 +3229,7 @@ D3000000 08000000
 00805EE8 FFFFFFFF
 D2000000 00000000
 
-[~#FFEEEE~Spam Light by cracko]
+[Spam Light by cracko]
 DD000000 00000800
 D3000000 08805EE1
 FF000000 00000001
@@ -3143,12 +3237,12 @@ D6000000 00000000
 D0000000 00000000
 {Y = Spam Light}
 
-[~#FFEEEE~Flashlight dont makes battery orange]
+[Flashlight dont makes battery orange]
 D3000000 00000000
 00483604 00000010
 D2000000 00000000
 
-[~#FFEEEE~no light symbol on flashlight]
+[no light symbol on flashlight]
 D3000000 30000000
 20805EE1 00000002
 D3000000 30000000
@@ -3160,7 +3254,7 @@ FFFFFF00 00FFFF01
 D6000000 00000000
 D2000000 00000000
 
-[~#FFEEEE~spam flashlight by furryXTN]
+[spam flashlight by furryXTN]
 DD000000 00000800
 D3000000 08805EE1
 FF000000 00000001
@@ -3168,7 +3262,7 @@ D6000000 00000000
 D0000000 00000000
 {Y}
 
-[~#FFEEEE~spam light by Foxy beta]
+[spam light by Foxy beta]
 D3000000 08805EE1
 FF000000 00000002
 D6000000 00000000
@@ -3178,20 +3272,20 @@ FF000000 00000002
 D6000000 00000000
 D2000000 00000000
 
-[~#FFEEEE~flashlight always off]
+[flashlight always off]
 D3000000 08000000
 00805EE0 00000000
 D3000000 08000000
 00805ED8 00000000
 D2000000 00000000
 
-[~#FFEEEE~flaslight always on]
+[flaslight always on]
 D3000000 08000000
 20805EE1 00000001
 D3000000 30000000
 20395170 00000001
 
-[~#FFEEEE~Turn Light ON/OFF]
+[Turn Light ON/OFF]
 D3000000 08000000
 DD000000 00000001
 20805EE1 00000000
@@ -3212,13 +3306,13 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~Advanced Codes++]
+[++Advanced Codes++]
 
-[~#FFEEEE~Custom IP-Address]
+[Custom IP-Address]
 202C0E7B 00000064
 {This sets your IP address to your locale one. This is useful for when people have IP-Logging codes.}
 
-[~#FFEEEE~Stalking Code]
+[Stalking Code]
 002421A4 EA000016
 00242214 EAFFFFE9
 0012DBD0 1A000002
@@ -3283,7 +3377,7 @@ D3000000 00000000
 D2000000 00000000
 {Y-DPad-Up = Stalk Second Player. Y-DPad-Right = Stalk Third Player. Y-DPad-Down = Stalk Fourth Person. Y-DPad-Left = Stalk Fifth Person. A-Dpad-Up = Stalk Sixth Person. L-Trigger-B = Stop Stalking.}
 
-[~#FFEEEE~DDOS Code v1]
+[DDOS Code v1]
 D3000000 08000000
 20FF5C5C 00000001
 20FF5C98 00000001
@@ -3291,7 +3385,7 @@ D3000000 08000000
 20FF5EF0 00000001
 D2000000 00000000
 
-[~#FFEEEE~"X" Spammer Bot v1]
+["X" Spammer Bot v1]
 D3000000 00000000
 DD000000 00000400
 D1000000 00000000
@@ -3301,7 +3395,7 @@ D2000000 00000000
 004DC108 00004000
 {An Automatic Bot Code. Randomly Spams Crouch. Can Work as A Horn Spammer. Version 1.1 (This Version Is VERY Unstable And Could Brick Save-Data).}
 
-[~#FFEEEE~"X" Spammer Bot v2]
+["X" Spammer Bot v2]
 00483678 00000000
 DD000000 00000840
 D3000000 01E81004
@@ -3321,7 +3415,7 @@ DD000000 00000880
 D2000000 00000000
 {An Automatic Bot Code. Randomly Spams Crouch. Can Work As A Horn Spammer. Version 2.1 (Recomended Version. Y-DPad-Up To Start The Bot. Y-DPad-Down To Stop The Bot).}
 
-[~#FFEEEE~"A" Spammer Bot v1]
+["A" Spammer Bot v1]
 D3000000 00000000
 004DC0C0 00004001
 D2000000 00000000
@@ -3421,9 +3515,9 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~Respawn codes ++]
+[++Respawn codes ++]
 
-[~#FFEEEE~instant respawn without losing stuff]
+[instant respawn without losing stuff]
 00145D04 E320F000
 00145D08 E320F000
 00145D84 E320F000
@@ -3446,29 +3540,29 @@ D5000000 00000000
 B0483614 3B9AC9FF
 {Useless}
 
-[~#FFEEEE~CANT RESPAWN2]
+[CANT RESPAWN2]
 D3000000 00000000
 00380944 00000003
 D2000000 00000000
 {u respwan=crash}
 
-[~#FFEEEE~CANT RESPAWN]
+[CANT RESPAWN]
 D3000000 00000000
 00380944 00000000
 D2000000 00000000
 {u respwan=crash}
 
-[~#FFEEEE~instant respawn]
+[instant respawn]
 DD000000 00000001
 00482FB4 00000003
 {hold A}
 
-[~#FFEEEE~direct respawn]
+[direct respawn]
 00482FE8 A0C99F66
 
 [--]
 
-[++~#FFEEEE~inventory codes++]
+[++inventory codes++]
 
 [++Custom Inventory Bars++]
 
@@ -3486,15 +3580,86 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~name of items++]
+[++inventory Customizer++]
 
-[~#FFEEEE~item names in menu]
+[No White Rendering (Selected Item)]
+D3000000 30000000
+003BC194 00FFFF00
+D2000000 00000000
+
+[last item Blue Item Count]
+D3000000 30000000
+003A9660 FFFF0F00
+D2000000 00000000
+
+[Blue Inventory Text (Selected)]
+D3000000 30000000
+003B4980 FFFF0F00
+D2000000 00000000
+
+[Custom Inventory]
+D3000000 30000000
+003A12CC 00FFFF00
+D2000000 00000000
+
+[Custom Inventory 2]
+D3000000 30000000
+003A12C4 49850000
+003A12C8 460F0000
+D2000000 00000000
+
+[No Inventory Item Images]
+D3000000 30000000
+003A9390 00FFFF00
+003A91FC 00FFFF00
+003A9068 00FFFF00
+003A8ED4 00FFFF00
+003A8D40 00FFFF00
+003A8BAC 00FFFF00
+003A8A18 00FFFF00
+003A8884 00FFFF00
+003A86F0 00FFFF00
+003A855C 00FFFF00
+003A83C8 00FFFF00
+003A8234 00FFFF00
+003A80A0 00FFFF00
+003A7F0C 00FFFF00
+003A7D78 00FFFF00
+003A7BE4 00FFFF00
+003A7A50 00FFFF00
+003A78BC 00FFFF00
+003A7728 00FFFF00
+003A7594 00FFFF00
+003A7400 00FFFF00
+003A726C 00FFFF00
+003A70D8 00FFFF00
+003A6F44 00FFFF00
+D2000000 00000000
+
+[Rainbow Inventory Back]
+D2000000 00000000
+D3000000 303B4450
+FF000000 00000000
+D6000000 00000000
+D2000000 00000000
+
+[Rainbow Drop]
+D3000000 303B4630
+FF000000 00000000
+D6000000 00000000
+D2000000 00000000
+
+[--]
+
+[++name of items++]
+
+[item names in menu]
 D3000000 00000000
 004294B4 00000001
 D2000000 00000000
 {u can see the item names throught the touchscreen menu}
 
-[~#FFEEEE~Random empty inventory slot name]
+[Random empty inventory slot name]
 D3000000 080120A4
 FF000000 00000000
 D6000000 00000000
@@ -3504,12 +3669,12 @@ FF000000 00000000
 D6000000 00000000
 D2000000 00000000
 
-[~#FFEEEE~no item names/ percentage/ amount]
+[no item names/ percentage/ amount]
 D3000000 00000000
 004294B4 00000000
 D2000000 00000000
 
-[~#FFEEEE~rename empty inventory slot @@@@]
+[rename empty inventory slot @@@@]
 D3000000 08000000
 000120E8 00000000
 D3000000 08000000
@@ -3549,7 +3714,7 @@ D3000000 08000000
 D3000000 08000000
 000120A4 40404040
 
-[~#FFEEEE~german item names BY Foxy#XTN]
+[german item names BY Foxy#XTN]
 D3000000 08000000
 000123EC 2D207367
 D2000000 00000000
@@ -4363,6 +4528,48 @@ D2000000 00000000
 
 [--]
 
+[Custom Inventory By Foxy]
+D3000000 30000000
+003B4630 D3CE46A1
+003B4450 D3CE46A1
+003BBB90 FFFF0F00
+003BB450 FFFF0F00
+003BAD10 FFFF0F00
+003BA5D0 FFFF0F00
+003B9E94 FFFF0F00
+003A2350 FFFF0F00
+003BC2C0 DD111099
+003BC194 00FFFF01
+003B4980 FFFF0F00
+003A12C8 460F0000
+003A12CC 00FFFF01
+003A12C4 49850000
+003B3D20 FFFF0F00
+003B35E0 FFFF0F00
+003B2EA0 FFFF0F00
+003B2760 FFFF0F00
+003B2020 FFFF0F00
+003B18E0 FFFF0F00
+003B11A0 FFFF0F00
+003B0A60 FFFF0F00
+003B0320 FFFF0F00
+003AFBE0 FFFF0F00
+003AF4A0 FFFF0F00
+003AED60 FFFF0F00
+003ADEE0 FFFF0F00
+003AD7A0 FFFF0F00
+003AD060 FFFF0F00
+003AE620 FFFF0F00
+003AC920 FFFF0F00
+003AC1E0 FFFF0F00
+003ABAA0 FFFF0F00
+003AB360 FFFF0F00
+003AAC20 FFFF0F00
+003AA4E0 FFFF0F00
+003A9DA0 FFFF0F00
+003A9660 FFFF0F00
+D2000000 00000000
+
 [always full inventory durability (no need bp)]
 D3000000 30000000
 003A1558 00FFFF00
@@ -4380,18 +4587,18 @@ D3000000 30000000
 D2000000 00000000
 {click on the item u want in 1st inventory slot and it will tp in there}
 
-[~#FFEEEE~Fast Inventory Managment by cracko]
+[Fast Inventory Managment by cracko]
 D3000000 00000000
 20429CCC 00000001
 D2000000 00000000
 
-[~#FFEEEE~random percentage inventory slot 1]
+[random percentage inventory slot 1]
 D3000000 00429608
 FF000000 00000000
 D6000000 00000000
 D2000000 00000000
 
-[~#FFEEEE~copy and paste inventory by cracko]
+[copy and paste inventory by cracko]
 DD000000 00000001
 D3000001 00429600
 D3000000 01E81000
@@ -4409,12 +4616,12 @@ D3000000 30000000
 003A6F44 00FFFF01
 D2000000 00000000
 
-[~#FFEEEE~disable sorting inventory]
+[disable sorting inventory]
 D3000000 00000000
 00429CCC 00000000
 D2000000 00000000
 
-[~#FFEEEE~set random inventory]
+[set random inventory]
 D3000000 00429600
 FFFF0103 00FF4703
 D6000000 00000000
@@ -4537,7 +4744,7 @@ FFFF0103 00FF4703
 D6000000 00000000
 D2000000 00000000
 
-[~#FFEEEE~set good inventory 2]
+[set good inventory 2]
 00429604 0000270F
 00429600 00FF0E03
 0042963C 00FF0D03
@@ -4585,7 +4792,7 @@ D2000000 00000000
 00429C90 00FF2703
 {+snowboard}
 
-[~#FFEEEE~Delete inventory bar]
+[Delete inventory bar]
 D3000000 00000000
 DD000000 00000080
 204296F1 00000000
@@ -4606,7 +4813,7 @@ DD000000 00000080
 D2000000 00000000
 {}
 
-[~#FFEEEE~set empty inventory]
+[set empty inventory]
 00429600 00000000
 0042963C 00000000
 00429678 00000000
@@ -4639,7 +4846,7 @@ D2000000 00000000
 00429C54 00000000
 00429C90 00000000
 
-[~#FFEEEE~set good inventory]
+[set good inventory]
 00429604 0000270F
 00429600 00FF0E03
 0042963C 00FF0D03
@@ -4687,7 +4894,7 @@ D2000000 00000000
 00429C90 00FF2703
 {save&quit to get the items but deactivate the cheat after save&quit}
 
-[~#FFEEEE~set fishy inventory]
+[set fishy inventory]
 00429604 00FF4204
 00429600 00FF4204
 0042963C 00FF4204
@@ -4735,7 +4942,7 @@ D2000000 00000000
 00429C54 00FF4204
 00429C90 00FF4204
 
-[~#FFEEEE~trash bin last slot]
+[trash bin last slot]
 DD000000 00000001
 004296F0 00000000
 004296F4 00000000
@@ -4745,16 +4952,16 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~snowboard codes++]
+[++snowboard codes++]
 
-[++~#FFEEEE~by Foxy++]
+[++by Foxy++]
 
-[~#FFEEEE~when u snowboard u are invisible]
+[when u snowboard u are invisible]
 D3000000 00000000
 004835E8 65353552
 D2000000 00000000
 
-[~#FFEEEE~no snowboard animation beta]
+[no snowboard animation beta]
 00483210 0000000D
 004835E0 00000000
 D2000000 00000000
@@ -4762,7 +4969,7 @@ DD000000 00000800
 00483210 0000000F
 D2000000 00000000
 
-[~#FFEEEE~beta control snowboard]
+[beta control snowboard]
 DD000000 00000080
 004835EC BF1EA461
 004835E8 3F48EB6B
@@ -4784,12 +4991,12 @@ DD000000 00000400
 004835E4 3F0FF47F
 {hotkeys dpad  up and down + X and A}
 
-[~#FFEEEE~turn around snowboard]
+[turn around snowboard]
 DD000000 00000001
 004835E8 BFFFFFFF
 {A}
 
-[~#FFEEEE~speed snowboard beta]
+[speed snowboard beta]
 DD000000 00000001
 004835E8 00000000
 D2000000 00000000
@@ -4806,7 +5013,7 @@ DD000000 00000002
 004835E0 00000000
 {Y start snowboarding woth current item B Stop snowboarding}
 
-[~#FFEEEE~buggy snowboard]
+[buggy snowboard]
 D3000000 004835E8
 FF000001 65353552
 D6000000 00000000
@@ -4817,21 +5024,21 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~Size Menu Codes++]
+[++Size Menu Codes++]
 
-[~#FFEEEE~Custom Menu - Seizure Menu #1]
+[Custom Menu - Seizure Menu #1]
 D3000000 30000000
 2018F76C 00000000
 2021056C 00000000
 D2000000 00000000
 
-[~#FFEEEE~Custom Menu - Seizure Menu #2]
+[Custom Menu - Seizure Menu #2]
 D3000000 30000000
 2018F76D 00000000
 2021056D 00000000
 D2000000 00000000
 
-[~#FFEEEE~Custom Menu - Seizure Menu #3]
+[Custom Menu - Seizure Menu #3]
 D3000000 30000000
 2018F76E 00000000
 2021056E 00000000
@@ -4839,13 +5046,13 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~Text Messages  ++]
+[++Text Messages  ++]
 
 [++Animated Text Spammers By Foxy++]
 
-[++~#FFEEEE~animated text spammer (Y) (By Cracko298)++]
+[++animated text spammer (Y) (By Cracko298)++]
 
-[~#FFEEEE~*2]
+[*2]
 D3000000 00000000
 20429F44 00000023
 D0000000 00000000
@@ -5246,7 +5453,7 @@ D3000000 00000000
 20429F44 00000020
 D0000000 00000000
 
-[~#FFEEEE~*1]
+[*1]
 DD000000 00000800
 00429CDC 00080001
 C0000000 00000005
@@ -5292,6 +5499,9 @@ D2000000 00000000
 {Click X + Dpad < If it doesnt Work}
 
 [Animated Text Spammer7 (A)]
+DD000000 00000420
+00418498 0000002F
+D2000000 00000000
 90418498 0000006C
 00429F44 2F2F2F6C
 00429F48 6C2F2F2F
@@ -5308,8 +5518,12 @@ D3000001 00429F41
 D3000000 00429F40
 FC000000 0000000C
 D2000000 00000000
+{Click X + If it Doesnt Work}
 
 [Animated Text Spammer6 (A)]
+DD000000 00000420
+00418498 0000006C
+D2000000 00000000
 90418498 0000006C
 00429F44 7F7F7F6C
 00429F48 6C7F7F7F
@@ -5326,6 +5540,7 @@ D3000001 00429F41
 D3000000 00429F40
 FC000000 0000000C
 D2000000 00000000
+{Click X + If it Doesnt Work}
 
 [Animated Text Spammer5 (A)]
 90418498 0000006C
@@ -5419,9 +5634,56 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~Texting Codes by Cracko++]
+[++Messaging app modifiers++]
 
-[~#FFEEEE~Chat Spammer]
+[Custom Messaging App By Foxy]
+D3000000 30000000
+00401124 00FFFF00
+00401304 00FFFF00
+D2000000 00000000
+
+[Anti Wave]
+D3000000 30000000
+004191A0 00FFFF00
+D2000000 00000000
+
+[Disable Messaging App]
+D3000000 00000000
+00429F40 00000001
+D2000000 00000000
+D3000000 40000000
+00419B44 00000001
+D2000000 00000000
+D3000000 0F000000
+00FFF890 00000001
+D2000000 00000000
+{Can't date anybody online now, can you?}
+
+[custom messaging quit button position]
+D3000000 30000000
+00418B94 C2110000
+D2000000 00000000
+
+[stretched keyboard icon on messaging app]
+D3000000 30000000
+00418F10 44C00000
+D2000000 00000000
+
+[useless keyboard2]
+D3000000 30000000
+004196E0 C0C00000
+D2000000 00000000
+
+[useless keyboard]
+D3000000 30000000
+004196E0 C4C20000
+D2000000 00000000
+
+[--]
+
+[++Texting Codes by Cracko++]
+
+[Chat Spammer]
 DD000000 00000002
 00429CDC 00080001
 C0000000 00000005
@@ -5442,7 +5704,7 @@ D3000000 00000000
 D2000000 00000000
 {Hold B}
 
-[~#FFEEEE~Upercase/Lowercase Keyboard]
+[Upercase/Lowercase Keyboard]
 DD000000 00000040
 90429F44 00000061
 20429F44 00000041
@@ -6929,7 +7191,7 @@ D0000000 00000000
 D0000000 00000000
 {Hold DPad UP}
 
-[~#FFEEEE~Special Symbol Keyboard]
+[Special Symbol Keyboard]
 90429F44 00000061
 20429F44 00000040
 D0000000 00000000
@@ -7273,7 +7535,7 @@ D0000000 00000000
 20429F56 00000040
 D0000000 00000000
 
-[~#FFEEEE~Animated Text v1]
+[Animated Text v1]
 D3000000 00000000
 DD000000 00000002
 20429F44 00000023
@@ -7395,7 +7657,7 @@ D3000000 00000000
 20429F4D 00000023
 20429F44 00000020
 
-[~#FFEEEE~Animated Text v2]
+[Animated Text v2]
 D3000000 00000000
 DD000000 00000002
 20429F44 00000023
@@ -7799,53 +8061,6 @@ D0000000 00000000
 
 [--]
 
-[++Messaging app modifiers++]
-
-[Custom Messaging App By Foxy]
-D3000000 30000000
-00401124 00FFFF00
-00401304 00FFFF00
-D2000000 00000000
-
-[Anti Wave]
-D3000000 30000000
-004191A0 00FFFF00
-D2000000 00000000
-
-[Disable Messaging App]
-D3000000 00000000
-00429F40 00000001
-D2000000 00000000
-D3000000 40000000
-00419B44 00000001
-D2000000 00000000
-D3000000 0F000000
-00FFF890 00000001
-D2000000 00000000
-{Can't date anybody online now, can you?}
-
-[custom messaging quit button position]
-D3000000 30000000
-00418B94 C2110000
-D2000000 00000000
-
-[stretched keyboard icon on messaging app]
-D3000000 30000000
-00418F10 44C00000
-D2000000 00000000
-
-[useless keyboard2]
-D3000000 30000000
-004196E0 C0C00000
-D2000000 00000000
-
-[useless keyboard]
-D3000000 30000000
-004196E0 C4C20000
-D2000000 00000000
-
-[--]
-
 [++Custom Chat Colours++]
 
 [First Message Blue  (Test)]
@@ -7884,6 +8099,44 @@ D2000000 00000000
 
 [--]
 
+[++Keyboard Colours++]
+
+[Rainbow Keyboard]
+D3000000 304197E8
+FF000000 00000000
+D6000000 00000000
+D2000000 00000000
+
+[Pink/Red Keyboard]
+D3000000 30000000
+004197E8 FC000888
+
+[Purple Keyboard]
+D3000000 30000000
+004197E8 02C44499
+
+[Brown Keyboard]
+D3000000 30000000
+004197E8 9D144499
+
+[Blue Keyboard]
+D3000000 30000000
+004197E8 FFFF0F00
+
+[Black Keyboard]
+D3000000 30000000
+004197E8 00000000
+
+[Grey Keyboard]
+D3000000 30000000
+004197E8 FF999099
+
+[Red Keyboard]
+D3000000 30000000
+004197E8 DD111099
+
+[--]
+
 ["%" Save and Quit Text]
 D3000000 00000000
 00132704 00252225
@@ -7908,7 +8161,7 @@ FC000000 0000000C
 D2000000 00000000
 {Makes Every Text Animated (A)}
 
-[~#FFEEEE~Random Message Generator (v3)]
+[Random Message Generator (v3)]
 DD000000 00000002
 D3000000 00429F44
 FF000001 000000FF
@@ -8048,7 +8301,7 @@ D1000000 00000000
 D3000000 00000000
 00429F5C 00000002
 
-[~#FFEEEE~id Changer /Chat  (CTRLS in Note )]
+[id Changer /Chat  (CTRLS in Note )]
 90429F44 00006564
 004836A8 0000DEAD
 004836AC 00000000
@@ -8112,18 +8365,18 @@ D3000000 00000000
 00483614 3B9AC9FF
 {By Foxy) Say hp in Message And u Get inf HP}
 
-[~#FFEEEE~delete actual message]
+[delete actual message]
 DD000000 00000040
 00429F40 00000000
 D0000000 00000000
 {dpad up}
 
-[~#FFEEEE~Instant Keyboard]
+[Instant Keyboard]
 D3000000 30000000
 0041942C 00FFFF00
 D2000000 00000000
 
-[~#FFEEEE~Utility Keyboard]
+[Utility Keyboard]
 F0000001 00000001
 90429F45 00000062
 F1482F10 40000000
@@ -8235,7 +8488,7 @@ D0000000 00000000
 D0000000 00000000
 {Teleport, Spawn Items, Set Name, Set Health, And So Much More. (Commands are: health 101, health 1000, health 9999, health inf, spawn boat, spawn snow, spawn plough, gb, rig, boat, sub, stop bleed, die, weather warm, weather cold, spawn zombies, kill zombies, set day).}
 
-[~#FFEEEE~Copy & Paste Message]
+[Copy & Paste Message]
 DD000000 00000040
 D3000001 00429F44
 D3000000 01E81500
@@ -8248,7 +8501,7 @@ FC000000 00000004
 D2000000 00000000
 {Much More Efficient Than The Original. DPad-Up = Copy Message.   DPad-Down = Paste Message.}
 
-[~#FFEEEE~CRAZY messages + Disable Name]
+[CRAZY messages + Disable Name]
 2048367E 0000000B
 20483680 0000000D
 20483682 0000000F
@@ -8270,14 +8523,14 @@ D2000000 00000000
 28E4A02C 0000000A
 28E4A02E 0000000F
 
-[~#FFEEEE~random shit spammer beta]
+[random shit spammer beta]
 00429F4C 5B203325
 00429F48 5D5D5D5D
 00429F50 26262626
 00429F44 5F405F25
 00429F54 2627292D
 
-[~#FFEEEE~Special Keyboard byFOXY]
+[Special Keyboard byFOXY]
 90429F44 00000061
 20429F44 00000040
 D0000000 00000000
@@ -8621,7 +8874,7 @@ D0000000 00000000
 20429F56 00000025
 D0000000 00000000
 
-[~#FFEEEE~U GOT HACKED spammer]
+[U GOT HACKED spammer]
 00429F44 40554040
 00429F54 40404040
 00429F4C 43414840
@@ -8643,7 +8896,7 @@ D3000000 00000000
 D2000000 00000000
 {beta v1.0 does crash}
 
-[~#FFEEEE~test copy last message]
+[test copy last message]
 DD000000 00000000
 20429F44 00000040
 D0000000 00000000
@@ -9045,7 +9298,7 @@ D3000000 00000000
 D0000000 00000000
 {test\}
 
-[~#FFEEEE~anti censored chat beta]
+[anti censored chat beta]
 D3000000 09000000
 008107F8 00400040
 D3000000 09000000
@@ -9095,7 +9348,7 @@ D0000000 00000000
 90429F50 00000A40
 00429F54 0A430A40
 
-[~#FFEEEE~Colon New Line]
+[Colon New Line]
 90429F44 0000003A
 20429F44 0000000A
 D0000000 00000000
@@ -9191,7 +9444,7 @@ D3000000 00000000
 00429F54 00000000
 {if its 12:00 there is a message :1200}
 
-[~#FFEEEE~chat spam A+B]
+[chat spam A+B]
 DD000000 00000003
 00429CDC 00080001
 C0000000 00000005
@@ -9202,7 +9455,7 @@ D3000000 00000000
 00429F5C 00000002
 D2000000 00000000
 
-[~#FFEEEE~@ spammer]
+[@ spammer]
 00429F44 40404040
 00429F54 40404040
 00429F4C 40404040
@@ -9223,7 +9476,7 @@ D3000000 00000000
 00429F5C 00000002
 D2000000 00000000
 
-[~#FFEEEE~cap letters]
+[cap letters]
 90429F44 00000061
 20429F44 00000041
 D0000000 00000000
@@ -10710,13 +10963,13 @@ D0000000 00000000
 
 [--]
 
-[++~#FFEEEE~Name Changer ++]
+[++Name Changer ++]
 
-[++~#FFEEEE~Name Codes by Cracko++]
+[++Name Codes by Cracko++]
 
-[++~#FFEEEE~Online (Internet)++]
+[++Online (Internet)++]
 
-[~#FFEEEE~Online Random Name Changer]
+[Online Random Name Changer]
 D3000000 004813F2
 FF000001 000000FF
 D6000000 00000000
@@ -11086,7 +11339,7 @@ FF000001 000000FF
 D6000000 00000000
 D0000000 00000000
 
-[~#FFEEEE~Online Name Changer: JAPAN_SMELLS_BAD]
+[Online Name Changer: JAPAN_SMELLS_BAD]
 28E4A01C 0000004A
 28E4A01E 00000041
 28E4A020 00000050
@@ -11154,7 +11407,7 @@ D0000000 00000000
 29001784 0000005F
 29001786 00000042
 
-[~#FFEEEE~Online Name: Cracko298]
+[Online Name: Cracko298]
 29810800 00000043
 29810802 00000072
 29810804 00000061
@@ -11210,7 +11463,7 @@ D0000000 00000000
 20481400 00000039
 20481402 00000038
 
-[~#FFEEEE~Online Name: Owl.|Gbc]
+[Online Name: Owl.|Gbc]
 29810800 00000040
 29810802 00000077
 29810804 0000006C
@@ -11266,7 +11519,7 @@ D0000000 00000000
 20481400 00000063
 20481402 00000020
 
-[~#FFEEEE~Online Name: DarkCrowL]
+[Online Name: DarkCrowL]
 29810800 00000044
 29810802 00000061
 29810804 00000072
@@ -11322,7 +11575,7 @@ D0000000 00000000
 20481400 00000077
 20481402 0000004C
 
-[~#FFEEEE~Online Name: Gage.C~NC]
+[Online Name: Gage.C~NC]
 29810800 00000047
 29810802 00000061
 29810804 00000067
@@ -11378,7 +11631,7 @@ D0000000 00000000
 20481400 0000004E
 20481402 00000043
 
-[~#FFEEEE~Online Name: TIME$BOMB$]
+[Online Name: TIME$BOMB$]
 29810800 00000054
 29810802 00000049
 29810804 0000004D
@@ -11440,7 +11693,7 @@ D0000000 00000000
 20481402 00000042
 20481404 00000024
 
-[~#FFEEEE~Online Name: Zamasu.EXE]
+[Online Name: Zamasu.EXE]
 29810800 0000005A
 29810802 00000061
 29810804 0000006D
@@ -11502,7 +11755,7 @@ D0000000 00000000
 20481402 00000058
 20481404 00000045
 
-[~#FFEEEE~Online Name: Hunter/CAT]
+[Online Name: Hunter/CAT]
 29810800 00000048
 29810802 00000075
 29810804 0000006E
@@ -11564,7 +11817,7 @@ D0000000 00000000
 20481402 00000041
 20481404 00000054
 
-[~#FFEEEE~Online Name: GamerX/CAT]
+[Online Name: GamerX/CAT]
 29810800 00000047
 29810802 00000061
 29810804 0000006D
@@ -11626,7 +11879,7 @@ D0000000 00000000
 20481402 00000041
 20481404 00000054
 
-[~#FFEEEE~Online Name: Tumpet2019]
+[Online Name: Tumpet2019]
 29810800 00000054
 29810802 00000075
 29810804 0000006D
@@ -11688,7 +11941,7 @@ D0000000 00000000
 20481402 00000031
 20481404 00000039
 
-[~#FFEEEE~Online Name: Spring-512]
+[Online Name: Spring-512]
 29810800 00000053
 29810802 00000070
 29810804 00000072
@@ -11750,7 +12003,7 @@ D0000000 00000000
 20481402 00000031
 20481404 00000032
 
-[~#FFEEEE~Online Name: ImNotNoxii]
+[Online Name: ImNotNoxii]
 29810800 00000049
 29810802 0000006D
 29810804 0000004E
@@ -11812,7 +12065,7 @@ D0000000 00000000
 20481402 00000069
 20481404 00000069
 
-[~#FFEEEE~Online Name: %%Yunix%%]
+[Online Name: %%Yunix%%]
 29810800 00000025
 29810802 00000025
 29810804 00000059
@@ -11868,7 +12121,7 @@ D0000000 00000000
 20481400 00000025
 20481402 00000025
 
-[~#FFEEEE~Online Name: Ixar]
+[Online Name: Ixar]
 29810800 00000049
 29810802 00000078
 29810804 00000061
@@ -11924,7 +12177,7 @@ D0000000 00000000
 20481400 00000020
 20481402 00000020
 
-[~#FFEEEE~Online Name: $4ge]
+[Online Name: $4ge]
 29810800 00000024
 29810802 00000034
 29810804 00000067
@@ -11980,7 +12233,7 @@ D0000000 00000000
 20481400 00000020
 20481402 00000020
 
-[~#FFEEEE~Online Name: Aber]
+[Online Name: Aber]
 29810800 00000041
 29810802 00000062
 29810804 00000065
@@ -12036,7 +12289,7 @@ D0000000 00000000
 20481400 00000020
 20481402 00000020
 
-[~#FFEEEE~Online Name: BluKrono]
+[Online Name: BluKrono]
 29810800 00000042
 29810802 0000006C
 29810804 00000075
@@ -12092,7 +12345,7 @@ D0000000 00000000
 20481400 0000006F
 20481402 00000020
 
-[~#FFEEEE~Online Name: MarineOne]
+[Online Name: MarineOne]
 29810800 0000004D
 29810802 00000061
 29810804 00000072
@@ -12148,7 +12401,7 @@ D0000000 00000000
 20481400 0000006E
 20481402 00000065
 
-[~#FFEEEE~Online Name: RI0T{PGM]
+[Online Name: RI0T{PGM]
 29810800 00000052
 29810802 00000021
 29810804 00000030
@@ -12204,7 +12457,7 @@ D0000000 00000000
 20481400 0000004D
 20481402 00000020
 
-[~#FFEEEE~Online Name: FC7u7]
+[Online Name: FC7u7]
 29810800 00000046
 29810802 00000043
 29810804 00000037
@@ -12260,7 +12513,7 @@ D0000000 00000000
 20481400 00000020
 20481402 00000020
 
-[~#FFEEEE~Online Name: Nova]
+[Online Name: Nova]
 29810800 0000004E
 29810802 0000006F
 29810804 00000076
@@ -12316,7 +12569,7 @@ D0000000 00000000
 20481400 00000020
 20481402 00000020
 
-[~#FFEEEE~Online Name Changer: *NO NAME*]
+[Online Name Changer: *NO NAME*]
 29810800 00000020
 29810802 00000020
 29810804 00000020
@@ -12380,9 +12633,9 @@ D0000000 00000000
 
 [--]
 
-[++~#FFEEEE~Offline (Single-Player)++]
+[++Offline (Single-Player)++]
 
-[~#FFEEEE~Offline Name Changer: MarineOne]
+[Offline Name Changer: MarineOne]
 2048367E 0000004D
 20483680 00000061
 20483682 00000072
@@ -12394,7 +12647,7 @@ D0000000 00000000
 2048368E 00000065
 204836B8 00000000
 
-[~#FFEEEE~Offline Name Changer: XeFoxy]
+[Offline Name Changer: XeFoxy]
 2048367E 00000058
 20483680 00000065
 20483682 00000046
@@ -12407,7 +12660,7 @@ D0000000 00000000
 20483690 00000000
 204836B8 00000000
 
-[~#FFEEEE~Offline Name Changer: Ixnen]
+[Offline Name Changer: Ixnen]
 2048367E 00000049
 20483680 00000078
 20483682 0000006E
@@ -12420,7 +12673,7 @@ D0000000 00000000
 20483690 00000000
 204836B8 00000000
 
-[~#FFEEEE~Offline Name Changer: Ixar]
+[Offline Name Changer: Ixar]
 2048367E 00000049
 20483680 00000078
 20483682 00000061
@@ -12433,7 +12686,7 @@ D0000000 00000000
 20483690 00000000
 204836B8 00000000
 
-[~#FFEEEE~Offline Name Changer: Noxii]
+[Offline Name Changer: Noxii]
 2048367E 0000004E
 20483680 0000006F
 20483682 00000078
@@ -12446,12 +12699,12 @@ D0000000 00000000
 20483690 00000000
 204836B8 00000000
 
-[~#FFEEEE~Offline Name Changer: Deleted]
+[Offline Name Changer: Deleted]
 D3000000 00000000
 2048367E 00000000
 D2000000 00000000
 
-[~#FFEEEE~Offline Name Changer: goldfishRX]
+[Offline Name Changer: goldfishRX]
 2048367E 00000067
 20483680 0000006F
 20483682 0000006C
@@ -12464,7 +12717,7 @@ D2000000 00000000
 20483690 00000058
 204836B8 00000000
 
-[~#FFEEEE~Offline Name Changer: Cracko298]
+[Offline Name Changer: Cracko298]
 2048367E 00000043
 20483680 00000072
 20483682 00000061
@@ -12479,7 +12732,7 @@ D2000000 00000000
 
 [--]
 
-[~#FFEEEE~Everybody Clone Name]
+[Everybody Clone Name]
 08E4A040 09086A02
 08E4A044 003003C0
 08E4A048 08E69D50
@@ -12489,14 +12742,14 @@ D2000000 00000000
 08E4A058 08E4BDAC
 08E4A05C 08E4BDAC
 
-[~#FFEEEE~See All Names]
+[See All Names]
 D3000000 00483740
 C0000000 00000010
 20000000 00000001
 DC000000 00000848
 D2000000 00000000
 
-[~#FFEEEE~Rainbow Name]
+[Rainbow Name]
 D3000000 303CF124
 FFFFFFFF FFFFFFFF
 D6000000 00000000
@@ -12504,12 +12757,12 @@ D0000000 00000000
 
 [--]
 
-[~#FFEEEE~empty name offline]
+[empty name offline]
 D3000000 00000000
 0048367C 0000010E
 D2000000 00000000
 
-[~#FFEEEE~EMPTY N@ME CH@NGER]
+[EMPTY N@ME CH@NGER]
 2048367E 00000000
 20483680 00000000
 20483682 00000000
@@ -12578,7 +12831,7 @@ D2000000 00000000
 28E4A02E 00000025
 {just for new codes}
 
-[~#FFEEEE~C4T IS GAY N@ME CHANGER]
+[C4T IS GAY N@ME CHANGER]
 2048367E 00000043
 20483680 00000040
 20483682 00000054
@@ -12600,7 +12853,7 @@ D2000000 00000000
 28E4A02C 00000041
 28E4A02E 00000059
 
-[~#FFEEEE~Furry4Ever N@ME CH@NGER]
+[Furry4Ever N@ME CH@NGER]
 2048367E 00000046
 20483680 00000075
 20483682 00000072
@@ -12622,7 +12875,7 @@ D2000000 00000000
 28E4A02C 00000040
 28E4A02E 00000072
 
-[~#FFEEEE~Furryboy Name changer]
+[Furryboy Name changer]
 2048367E 00000046
 20483680 00000075
 20483682 00000072
@@ -12644,7 +12897,7 @@ D2000000 00000000
 28E4A02C 00000025
 28E4A02E 00000020
 
-[~#FFEEEE~BarakObama N@ME CH@NGER]
+[BarakObama N@ME CH@NGER]
 2048367E 00000042
 20483680 00000061
 20483682 00000072
@@ -12666,7 +12919,7 @@ D2000000 00000000
 28E4A02C 0000006D
 28E4A02E 00000061
 
-[~#FFEEEE~SHIT NIGGA  N@ME CH@NGER]
+[SHIT NIGGA  N@ME CH@NGER]
 2048367E 00000053
 20483680 00000048
 20483682 00000049
@@ -12688,7 +12941,7 @@ D2000000 00000000
 28E4A02C 00000047
 28E4A02E 00000041
 
-[~#FFEEEE~RllyNIGGA? N@ME CH@NGER]
+[RllyNIGGA? N@ME CH@NGER]
 2048367E 00000052
 20483680 0000006C
 20483682 0000006C
@@ -12710,7 +12963,7 @@ D2000000 00000000
 28E4A02C 00000041
 28E4A02E 0000003F
 
-[~#FFEEEE~BlackNIGGA N@ME CH@NGER]
+[BlackNIGGA N@ME CH@NGER]
 2048367E 00000042
 20483680 0000006C
 20483682 00000061
@@ -12732,7 +12985,7 @@ D2000000 00000000
 28E4A02C 00000047
 28E4A02E 00000041
 
-[~#FFEEEE~Tukif.com N@ME CH@NGER]
+[Tukif.com N@ME CH@NGER]
 2048367E 00000054
 20483680 00000055
 20483682 0000004B
@@ -12754,7 +13007,7 @@ D2000000 00000000
 28E4A02C 0000006D
 28E4A02E 00000020
 
-[~#FFEEEE~Springtrap N@ME CH@NGER]
+[Springtrap N@ME CH@NGER]
 2048367E 00000053
 20483680 00000070
 20483682 00000072
@@ -12776,7 +13029,7 @@ D2000000 00000000
 28E4A02C 00000061
 28E4A02E 00000070
 
-[~#FFEEEE~LittleDick N@ME CH@NGER]
+[LittleDick N@ME CH@NGER]
 2048367E 0000004C
 20483680 00000069
 20483682 00000074
@@ -12798,7 +13051,7 @@ D2000000 00000000
 28E4A02C 00000063
 28E4A02E 0000006B
 
-[~#FFEEEE~Rick&Morty N@ME CH@NGER]
+[Rick&Morty N@ME CH@NGER]
 2048367E 00000052
 20483680 00000069
 20483682 00000063
@@ -12820,7 +13073,7 @@ D2000000 00000000
 28E4A02C 00000074
 28E4A02E 00000079
 
-[~#FFEEEE~%_Noxxi_% N@ME CH@NGER]
+[%_Noxxi_% N@ME CH@NGER]
 2048367E 00000025
 20483680 0000005F
 20483682 0000004E
@@ -12842,7 +13095,7 @@ D2000000 00000000
 28E4A02C 00000025
 28E4A02E 00000020
 
-[~#FFEEEE~3DS SYSTEM N@ME CH@NGER]
+[3DS SYSTEM N@ME CH@NGER]
 2048367E 00000033
 20483680 00000044
 20483682 00000053
@@ -12864,7 +13117,7 @@ D2000000 00000000
 28E4A02C 00000065
 28E4A02E 0000006D
 
-[~#FFEEEE~CANTbeatME N@ME CH@NGER]
+[CANTbeatME N@ME CH@NGER]
 2048367E 00000043
 20483680 00000041
 20483682 0000004E
@@ -12886,7 +13139,7 @@ D2000000 00000000
 28E4A02C 0000004D
 28E4A02E 00000045
 
-[~#FFEEEE~NINTENDO N@ME CH@NGER]
+[NINTENDO N@ME CH@NGER]
 2048367E 00000025
 20483680 0000004E
 20483682 00000069
@@ -12908,7 +13161,7 @@ D2000000 00000000
 28E4A02C 0000006F
 28E4A02E 00000025
 
-[~#FFEEEE~NINFANDO N@ME CH@NGER]
+[NINFANDO N@ME CH@NGER]
 2048367E 00000025
 20483680 0000004E
 20483682 00000069
@@ -12930,7 +13183,7 @@ D2000000 00000000
 28E4A02C 0000006F
 28E4A02E 00000025
 
-[~#FFEEEE~Nirvuu N@ME CH@NGER]
+[Nirvuu N@ME CH@NGER]
 2048367E 00000026
 20483680 00000025
 20483682 0000004E
@@ -12952,7 +13205,7 @@ D2000000 00000000
 28E4A02C 00000025
 28E4A02E 00000026
 
-[~#FFEEEE~NOTmyNAME N@ME CH@NGER]
+[NOTmyNAME N@ME CH@NGER]
 2048367E 00000020
 20483680 0000004E
 20483682 0000004F
@@ -12974,7 +13227,7 @@ D2000000 00000000
 28E4A02C 00000000
 28E4A02E 00000000
 
-[~#FFEEEE~FRE/ESHOP  N@ME CH@NGER]
+[FRE/ESHOP  N@ME CH@NGER]
 2048367E 00000046
 20483680 00000052
 20483682 00000045
@@ -12996,7 +13249,7 @@ D2000000 00000000
 28E4A02C 00000050
 28E4A02E 00000020
 
-[~#FFEEEE~ESHOP/SHIT N@ME CH@NGER]
+[ESHOP/SHIT N@ME CH@NGER]
 2048367E 00000045
 20483680 00000053
 20483682 00000048
@@ -13018,7 +13271,7 @@ D2000000 00000000
 28E4A02C 00000049
 28E4A02E 00000054
 
-[~#FFEEEE~BirdieeVL N@ME CH@NGER]
+[BirdieeVL N@ME CH@NGER]
 2048367E 00000042
 20483680 00000069
 20483682 00000072
@@ -13040,7 +13293,7 @@ D2000000 00000000
 28E4A02C 0000004C
 28E4A02E 00000020
 
-[~#FFEEEE~Micro/Moon N@ME CH@NGER]
+[Micro/Moon N@ME CH@NGER]
 2048367E 0000004D
 20483680 00000069
 20483682 00000063
@@ -13062,7 +13315,7 @@ D2000000 00000000
 28E4A02C 0000006F
 28E4A02E 0000006E
 
-[~#FFEEEE~m00nlight N@ME CH@NGER]
+[m00nlight N@ME CH@NGER]
 2048367E 0000006D
 20483680 00000030
 20483682 00000030
@@ -13084,7 +13337,7 @@ D2000000 00000000
 28E4A02C 00000074
 28E4A02E 00000020
 
-[~#FFEEEE~GAMER4LIFE N@ME CH@NGER]
+[GAMER4LIFE N@ME CH@NGER]
 2048367E 00000047
 20483680 00000040
 20483682 0000004D
@@ -13106,7 +13359,7 @@ D2000000 00000000
 28E4A02C 00000046
 28E4A02E 00000045
 
-[~#FFEEEE~H@XXXXXXX  N@ME CH@NGER]
+[H@XXXXXXX  N@ME CH@NGER]
 2048367E 00000048
 20483680 00000040
 20483682 00000058
@@ -13128,7 +13381,7 @@ D2000000 00000000
 28E4A02C 00000058
 28E4A02E 00000058
 
-[~#FFEEEE~FCK_U_@SS N@ME CH@NGER]
+[FCK_U_@SS N@ME CH@NGER]
 2048367E 00000046
 20483680 00000043
 20483682 0000004B
@@ -13150,7 +13403,7 @@ D2000000 00000000
 28E4A02C 00000053
 28E4A02E 00000020
 
-[~#FFEEEE~JJ NINJA NAME CHANGER]
+[JJ NINJA NAME CHANGER]
 2048367E 00000025
 20483680 0000004A
 20483682 0000004A
@@ -13172,7 +13425,7 @@ D2000000 00000000
 28E4A02C 00000041
 28E4A02E 00000025
 
-[~#FFEEEE~BB NINJA  N@ME CH@NGER]
+[BB NINJA  N@ME CH@NGER]
 2048367E 00000025
 20483680 00000042
 20483682 00000042
@@ -13194,7 +13447,7 @@ D2000000 00000000
 28E4A02C 00000041
 28E4A02E 00000025
 
-[~#FFEEEE~K@TSUNY N@ME CH@NGER]
+[K@TSUNY N@ME CH@NGER]
 2048367E 0000004B
 20483680 00000040
 20483682 00000054
@@ -13216,7 +13469,7 @@ D2000000 00000000
 28E4A02C 00000020
 28E4A02E 00000020
 
-[~#FFEEEE~SEXYFOXY  N@ME CH@NGER]
+[SEXYFOXY  N@ME CH@NGER]
 2048367E 00000025
 20483680 00000053
 20483682 00000045
@@ -13238,7 +13491,7 @@ D2000000 00000000
 28E4A02C 00000059
 28E4A02E 00000025
 
-[~#FFEEEE~ABCDEFCK U   N@ME CH@NGER]
+[ABCDEFCK U   N@ME CH@NGER]
 2048367E 00000041
 20483680 00000042
 20483682 00000043
@@ -13260,7 +13513,7 @@ D2000000 00000000
 28E4A02C 00000020
 28E4A02E 00000055
 
-[~#FFEEEE~SHUT UP N@ME Changer]
+[SHUT UP N@ME Changer]
 2048367E 00000025
 20483680 00000053
 20483682 00000048
@@ -13282,7 +13535,7 @@ D2000000 00000000
 28E4A02C 00000025
 28E4A02E 00000020
 
-[~#FFEEEE~NAZI N@ME CH@NGER]
+[NAZI N@ME CH@NGER]
 2048367E 00000025
 20483680 00000025
 20483682 00000025
@@ -13304,7 +13557,7 @@ D2000000 00000000
 28E4A02C 00000000
 28E4A02E 00000000
 
-[~#FFEEEE~English Name changer]
+[English Name changer]
 2048367E 00000045
 20483680 0000004E
 20483682 00000047
@@ -13326,7 +13579,7 @@ D2000000 00000000
 28E4A02C 00000000
 28E4A02E 00000000
 
-[~#FFEEEE~French Name changer]
+[French Name changer]
 2048367E 00000046
 20483680 00000052
 20483682 00000041
@@ -13348,7 +13601,7 @@ D2000000 00000000
 28E4A02C 00000020
 28E4A02E 00000020
 
-[~#FFEEEE~German Name changer]
+[German Name changer]
 2048367E 00000047
 20483680 00000045
 20483682 00000052
@@ -13370,7 +13623,7 @@ D2000000 00000000
 28E4A02C 00000020
 28E4A02E 00000020
 
-[~#FFEEEE~TYULF@R  N@ME CH@NGER]
+[TYULF@R  N@ME CH@NGER]
 2048367E 00000054
 20483680 000000DD
 20483682 00000055
@@ -13392,7 +13645,7 @@ D2000000 00000000
 28E4A02C 00000020
 28E4A02E 00000020
 
-[~#FFEEEE~THESOFTHARD N@ME CHANGER]
+[THESOFTHARD N@ME CHANGER]
 2048367E 00000054
 20483680 00000048
 20483682 00000045
@@ -13414,7 +13667,7 @@ D2000000 00000000
 28E4A02C 00000052
 28E4A02E 00000044
 
-[~#FFEEEE~DaBABY name changer]
+[DaBABY name changer]
 2048367E 00000044
 20483680 00000061
 20483682 00000042
@@ -13436,7 +13689,7 @@ D2000000 00000000
 28E4A02C 00000020
 28E4A02E 00000020
 
-[~#FFEEEE~KMT NAME CHANGER]
+[KMT NAME CHANGER]
 2048367E 0000003F
 20483680 0000004B
 20483682 0000004D
@@ -13458,7 +13711,7 @@ D2000000 00000000
 28E4A02C 00000039
 28E4A02E 0000003F
 
-[~#FFEEEE~Send NUDES Name CHANGER]
+[Send NUDES Name CHANGER]
 2048367E 00000024
 20483680 00000045
 20483682 0000004E
@@ -13480,7 +13733,7 @@ D2000000 00000000
 28E4A02C 00000000
 28E4A02E 00000000
 
-[~#FFEEEE~Yunix Name CHANGER]
+[Yunix Name CHANGER]
 2048367E 00000059
 20483680 00000075
 20483682 0000006E
@@ -13502,7 +13755,7 @@ D2000000 00000000
 28E4A02C 00000000
 28E4A02E 00000000
 
-[~#FFEEEE~disable name]
+[disable name]
 2048367E 00000020
 20483680 00000020
 20483682 00000020
@@ -13525,7 +13778,7 @@ D2000000 00000000
 28E4A02E 00000020
 {shows no name by u and other players          Works Online}
 
-[~#FFEEEE~@%@%@%  N@ME CH@NGER]
+[@%@%@%  N@ME CH@NGER]
 2048367E 00000040
 20483680 00000025
 20483682 00000040
@@ -13547,7 +13800,7 @@ D2000000 00000000
 28E4A02C 00000000
 28E4A02E 00000000
 
-[~#FFEEEE~llllllll Name changer]
+[llllllll Name changer]
 2048367E 0000007C
 20483680 0000007C
 20483682 0000007C
@@ -13569,7 +13822,7 @@ D2000000 00000000
 28E4A02C 0000007C
 28E4A02E 0000007C
 
-[~#FFEEEE~||||||||   NAME CHANGER]
+[||||||||   NAME CHANGER]
 2048367E 000000A6
 20483680 000000A6
 20483682 000000A6
@@ -13592,7 +13845,7 @@ D2000000 00000000
 28E4A02E 000000A6
 {dont work online}
 
-[~#FFEEEE~%ASSHOLE% Name Changer]
+[%ASSHOLE% Name Changer]
 2048367E 00000025
 20483680 00000041
 20483682 00000053
@@ -13614,7 +13867,7 @@ D2000000 00000000
 28E4A02C 00000025
 28E4A02E 00000000
 
-[~#FFEEEE~CALL 911 Name CHANGER]
+[CALL 911 Name CHANGER]
 2048367E 00000043
 20483680 00000041
 20483682 0000004C
@@ -13636,7 +13889,7 @@ D2000000 00000000
 28E4A02C 00000020
 28E4A02E 00000020
 
-[~#FFEEEE~o_o Name Changer]
+[o_o Name Changer]
 2048367E 000000F2
 20483680 0000005F
 20483682 000000F3
@@ -13658,7 +13911,7 @@ D2000000 00000000
 28E4A02C 00000000
 28E4A02E 00000000
 
-[~#FFEEEE~C    Name changer]
+[C    Name changer]
 2048367E 000000A9
 20483680 000000A9
 20483682 000000A9
@@ -13681,7 +13934,7 @@ D2000000 00000000
 28E4A02E 000000A9
 {dont work online}
 
-[~#FFEEEE~R    NAME CHANGER]
+[R    NAME CHANGER]
 2048367E 000000AE
 20483680 000000AE
 20483682 000000AE
@@ -13704,7 +13957,7 @@ D2000000 00000000
 28E4A02E 000000AE
 {dont work online}
 
-[~#FFEEEE~xxxxxxxxx Name Changer]
+[xxxxxxxxx Name Changer]
 2048367E 000000D7
 20483680 000000D7
 20483682 000000D7
@@ -13727,7 +13980,7 @@ D2000000 00000000
 28E4A02E 000000D7
 {dont work online}
 
-[~#FFEEEE~°°°°°°°°°°°   Name Changer]
+[°°°°°°°°°°°   Name Changer]
 2048367E 000000BA
 20483680 000000BA
 20483682 000000BA
@@ -13750,7 +14003,7 @@ D2000000 00000000
 28E4A02E 000000BA
 {dont work online'}
 
-[~#FFEEEE~Line Name Changer]
+[Line Name Changer]
 2048367E 000000AF
 20483680 000000AF
 20483682 000000AF
@@ -13772,7 +14025,7 @@ D2000000 00000000
 28E4A02C 000000AF
 28E4A02E 000000AF
 
-[~#FFEEEE~random Name Changer]
+[random Name Changer]
 2048367E 000000CF
 20483680 000000BC
 20483682 000000AD
@@ -13795,7 +14048,7 @@ D2000000 00000000
 28E4A02E 000000BA
 {dont work online}
 
-[~#FFEEEE~????????   Name Changer]
+[????????   Name Changer]
 2048367E 000000BF
 20483680 000000BF
 20483682 000000BF
@@ -13818,7 +14071,7 @@ D2000000 00000000
 28E4A02E 000000BF
 {dont work online}
 
-[~#FFEEEE~1/4   Name Changer]
+[1/4   Name Changer]
 2048367E 000000BC
 20483680 000000BC
 20483682 000000BC
@@ -13841,7 +14094,7 @@ D2000000 00000000
 28E4A02E 000000BC
 {dont work online}
 
-[~#FFEEEE~NAME changer  ((((()))))]
+[NAME changer  ((((()))))]
 2048367E 000000AB
 20483680 000000AB
 20483682 000000AB
@@ -13864,7 +14117,7 @@ D2000000 00000000
 28E4A02E 00000000
 {dont work online}
 
-[~#FFEEEE~MMMMMMMM Name Changer]
+[MMMMMMMM Name Changer]
 2048367E 0000004D
 20483680 0000004D
 20483682 0000004D
@@ -13886,7 +14139,7 @@ D2000000 00000000
 28E4A02C 0000004D
 28E4A02E 0000004D
 
-[~#FFEEEE~%VELTRO% Name Changer]
+[%VELTRO% Name Changer]
 2048367E 00000025
 20483680 00000025
 20483682 00000056
@@ -13908,7 +14161,7 @@ D2000000 00000000
 28E4A02C 00000025
 28E4A02E 00000025
 
-[~#FFEEEE~%V@NNY#XTN% N@ME CH@NGER]
+[%V@NNY#XTN% N@ME CH@NGER]
 2048367E 00000025
 20483680 00000056
 20483682 00000040
@@ -13930,7 +14183,7 @@ D2000000 00000000
 28E4A02C 0000004E
 28E4A02E 00000025
 
-[~#FFEEEE~%XTN4EVER% Name Changer]
+[%XTN4EVER% Name Changer]
 2048367E 00000025
 20483680 00000058
 20483682 00000054
@@ -13952,7 +14205,7 @@ D2000000 00000000
 28E4A02C 00000052
 28E4A02E 00000025
 
-[~#FFEEEE~%GBC4EVER% Name Changer]
+[%GBC4EVER% Name Changer]
 2048367E 00000025
 20483680 00000047
 20483682 00000042
@@ -13974,7 +14227,7 @@ D2000000 00000000
 28E4A02C 00000053
 28E4A02E 00000025
 
-[~#FFEEEE~%%%SEXY%%%   NAME CHANGER]
+[%%%SEXY%%%   NAME CHANGER]
 7048367E 00000025
 20483680 00000025
 20483682 00000025
@@ -13996,7 +14249,7 @@ D2000000 00000000
 28E4A02C 00000000
 28E4A02E 00000000
 
-[~#FFEEEE~%UR%GAY%  Name Changer]
+[%UR%GAY%  Name Changer]
 2048367E 00000040
 20483680 00000025
 20483682 00000055
@@ -14018,7 +14271,7 @@ D2000000 00000000
 28E4A02C 00000025
 28E4A02E 00000040
 
-[~#FFEEEE~@wl|GBC Name Changer]
+[@wl|GBC Name Changer]
 2048367E 00000040
 20483680 00000077
 20483682 0000006C
@@ -14040,7 +14293,7 @@ D2000000 00000000
 28E4A02C 00000020
 28E4A02E 00000020
 
-[~#FFEEEE~DR JODA Name Changer]
+[DR JODA Name Changer]
 2048367E 00000025
 20483680 00000044
 20483682 00000052
@@ -14062,7 +14315,7 @@ D2000000 00000000
 28E4A02C 00000025
 28E4A02E 00000000
 
-[~#FFEEEE~-%Yunix%-  Name Changer]
+[-%Yunix%-  Name Changer]
 2048367E 0000002D
 20483680 00000025
 20483682 00000059
@@ -14084,7 +14337,7 @@ D2000000 00000000
 28E4A02C 0000002D
 28E4A02E 00000020
 
-[~#FFEEEE~PORNHUB.DE Name Changer]
+[PORNHUB.DE Name Changer]
 2048367E 00000050
 20483680 0000004F
 20483682 00000052
@@ -14106,7 +14359,7 @@ D2000000 00000000
 28E4A02C 00000044
 28E4A02E 00000045
 
-[~#FFEEEE~%FUCK%YOU% Name Changer]
+[%FUCK%YOU% Name Changer]
 2048367E 00000025
 20483680 00000046
 20483682 00000055
@@ -14128,7 +14381,7 @@ D2000000 00000000
 28E4A02C 00000055
 28E4A02E 00000025
 
-[~#FFEEEE~name changer @]
+[name changer @]
 2048367E 00000040
 20483680 00000040
 20483682 00000040
@@ -14151,7 +14404,7 @@ D2000000 00000000
 28E4A02E 00000040
 {Gives u the name @@@@@@@@}
 
-[~#FFEEEE~name changer %]
+[name changer %]
 2048367E 00000025
 20483680 00000025
 20483682 00000025
@@ -14174,7 +14427,7 @@ D2000000 00000000
 28E4A02E 00000025
 {Gives u the name %&%%%%%%%%}
 
-[~#FFEEEE~name changer @/@/@/@/]
+[name changer @/@/@/@/]
 2048367E 00000040
 20483680 0000005C
 20483682 00000040
@@ -14197,7 +14450,7 @@ D2000000 00000000
 28E4A02E 0000005C
 {Gives u the name @/@/@/@/@/@/}
 
-[~#FFEEEE~N@ME CH@NGER ¥¥¥¥¥¥]
+[N@ME CH@NGER ¥¥¥¥¥¥]
 2048367E 000000DD
 20483680 000000DD
 20483682 000000DD
@@ -14220,7 +14473,7 @@ D2000000 00000000
 28E4A02E 000000DD
 {dont work online}
 
-[~#FFEEEE~Fox¥#XTN Name Changer]
+[Fox¥#XTN Name Changer]
 2048367E 00000046
 20483680 0000006F
 20483682 00000078
@@ -14242,7 +14495,7 @@ D2000000 00000000
 28E4A02C 00000025
 28E4A02E 00000000
 
-[~#FFEEEE~(V)@ltro> name changer]
+[(V)@ltro> name changer]
 2048367E 00000028
 20483680 00000056
 20483682 00000029
@@ -14267,9 +14520,9 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~UI Colour Codes++]
+[++UI Colour Codes++]
 
-[++~#FFEEEE~UI Colour codes by Foxy++]
+[++UI Colour codes by Foxy++]
 
 [Black Square Heli Minigame Ui]
 D3000000 30000000
@@ -14287,7 +14540,7 @@ D3000000 00000000
 00483604 01010101
 D2000000 00000000
 
-[~#FFEEEE~People Menu Colour BY Foxy  3]
+[People Menu Colour BY Foxy  3]
 D3000000 30000000
 003CDDA0 00000000
 003CE214 00000000
@@ -14301,7 +14554,7 @@ D3000000 30000000
 003CF124 F6550000
 {Dark blue text}
 
-[~#FFEEEE~People Menu  Colour BY Foxy2]
+[People Menu  Colour BY Foxy2]
 D3000000 30000000
 003CDDA0 00000000
 003CE214 00000000
@@ -14315,7 +14568,7 @@ D3000000 30000000
 003CF124 F000F000
 {green text}
 
-[~#FFEEEE~People Menu Colour BY Foxy1]
+[People Menu Colour BY Foxy1]
 D3000000 30000000
 003CDDA0 00000000
 003CE214 00000000
@@ -14329,7 +14582,7 @@ D3000000 30000000
 003CF124 EEEEE000
 {light blue text}
 
-[~#FFEEEE~Custom People Menu BY Foxy]
+[Custom People Menu BY Foxy]
 D3000000 30000000
 003CDDA0 EEEEE000
 003CE034 00000800
@@ -14343,7 +14596,7 @@ D3000000 30000000
 003CEF34 AAAAA000
 003CF124 F0001000
 
-[~#FFEEEE~Data Select no text by Foxy]
+[Data Select no text by Foxy]
 D3000000 30000000
 00384E50 00000000
 00382C18 00000000
@@ -14358,21 +14611,21 @@ D3000000 30000000
 003CE0E0 45200000
 D2000000 00000000
 
-[~#FFEEEE~orange Battery Status]
+[orange Battery Status]
 D3000000 00000000
 20483606 00000001
 D2000000 00000000
 
-[~#FFEEEE~normal Battery Status]
+[normal Battery Status]
 D3000000 00000000
 20483606 00000000
 D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~UI Codes++]
+[++UI Codes++]
 
-[~#FFEEEE~Cleaner Action UI]
+[Cleaner Action UI]
 D3000000 30000000
 002FA270 00000000
 002FA460 FFFFFF00
@@ -14392,7 +14645,7 @@ D2000000 00000000
 
 [--]
 
-[~#FFEEEE~custom Status Data colour by Cracko]
+[custom Status Data colour by Cracko]
 D3000000 30000000
 00392490 FFFFFFFF
 003925A8 00000000
@@ -14427,7 +14680,7 @@ D3000000 30000000
 D2000000 00000000
 {Configure Colour Status}
 
-[~#FFEEEE~Data Select UI - Random Colours]
+[Data Select UI - Random Colours]
 D3000000 30384E50
 FF000001 FFFFFFFF
 D6000000 00000000
@@ -14467,7 +14720,7 @@ D3000000 30000000
 003CCDD0 FFFFF000
 003CBDF1 FFFFF000
 
-[~#FFEEEE~Text Messaging Custom Colour]
+[Text Messaging Custom Colour]
 D3000000 30000000
 004197E8 77777000
 0041960C 77777000
@@ -14489,7 +14742,7 @@ D3000000 30000000
 00400DDC 77777000
 00400FBC 77777000
 
-[~#FFEEEE~People Menu UI Colours]
+[People Menu UI Colours]
 D3000000 30000000
 003CDDA0 77777000
 003CE034 77777000
@@ -14503,7 +14756,7 @@ D3000000 30000000
 003CEF34 FFFFF000
 003CF124 FFFFF000
 
-[~#FFEEEE~Custom UI Colours]
+[Custom UI Colours]
 D3000000 00000000
 004835D0 00000009
 004835CC 00000000
@@ -14607,7 +14860,7 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~Animation codes++]
+[++Animation codes++]
 
 [++by Foxy++]
 
@@ -14638,7 +14891,7 @@ FF000001 00000026
 D6000000 00000000
 D2000000 00000000
 
-[~#FFEEEE~Dance By Foxy 1]
+[Dance By Foxy 1]
 D3000000 0048320F
 FF000001 00000010
 D6000000 00000001
@@ -14667,14 +14920,14 @@ DD000000 00000001
 [twerk animation]
 00483524 00000008
 
-[~#FFEEEE~pause animation]
+[pause animation]
 00483210 00000001
 D2000000 00000000
 DD000000 00000001
 00483210 0000000C
 {A}
 
-[~#FFEEEE~crazy animations]
+[crazy animations]
 D3000000 00000000
 0048321C 00000001
 00483218 3DCCCCCD
@@ -14682,7 +14935,7 @@ D3000000 00000000
 00483214 40A3C5D1
 D2000000 00000000
 
-[~#FFEEEE~Freeze Animation]
+[Freeze Animation]
 D3000000 08000000
 209BDEC4 00000000
 D2000000 00000000
@@ -14697,12 +14950,12 @@ DD000000 00000001
 00483524 0000000D
 {A}
 
-[~#FFEEEE~Pause Every Animation]
+[Pause Every Animation]
 D3000000 00000000
 2048321C 00000001
 D2000000 00000000
 
-[~#FFEEEE~custom crawl animation]
+[custom crawl animation]
 D2000000 00000000
 DD000000 00000001
 00483210 00000009
@@ -14714,7 +14967,7 @@ DD000000 00000001
 [always stand up animation]
 00483524 00000008
 
-[~#FFEEEE~slow motion crawl animation]
+[slow motion crawl animation]
 DD000000 00000001
 00483218 3F000000
 D2000000 00000000
@@ -14773,7 +15026,7 @@ DD000000 00000001
 
 [--]
 
-[~#FFEEEE~Save Loading Animation]
+[Save Loading Animation]
 D3000000 30000000
 20210670 00000001
 D2000000 00000000
@@ -14789,12 +15042,12 @@ D3000000 30000000
 002FA090 00FFFF01
 D2000000 00000000
 
-[~#FFEEEE~Rigid Animation]
+[Rigid Animation]
 D3000000 08000000
 209BE30C 00000000
 D2000000 00000000
 
-[~#FFEEEE~Dance]
+[Dance]
 D3000000 0048320F
 FF000001 0000000F
 D6000000 00000001
@@ -14802,9 +15055,9 @@ D0000000 00000000
 
 [--]
 
-[++~#FFEEEE~Disable Codes++]
+[++Disable Codes++]
 
-[~#FFEEEE~disable sorting inventory]
+[disable sorting inventory]
 D3000000 00000000
 00429CCC 00000000
 D2000000 00000000
@@ -14835,7 +15088,7 @@ D0000000 00000000
 90429F50 00000A40
 00429F54 0A400A40
 
-[~#FFEEEE~1. Disable The Touch Screen]
+[1. Disable The Touch Screen]
 D3000000 08000000
 2080648C 0000005F
 20806490 0000005F
@@ -14843,7 +15096,7 @@ D3000000 08000000
 D2000000 00000000
 {New & Improved, So You Can't Play.}
 
-[~#FFEEEE~2. Disable Messaging App]
+[2. Disable Messaging App]
 D3000000 00000000
 00429F40 00000001
 D2000000 00000000
@@ -14855,32 +15108,32 @@ D3000000 0F000000
 D2000000 00000000
 {Can't date anybody online now, can you?}
 
-[~#FFEEEE~3. Disable Deleting Saves]
+[3. Disable Deleting Saves]
 D3000000 30000000
 20389420 00000000
 20389194 00000000
 20389600 00000000
 D2000000 00000000
 
-[~#FFEEEE~4. Disable Flappy Copter]
+[4. Disable Flappy Copter]
 D3000000 08000000
 20859C70 00000000
 D2000000 00000000
 {You can't play your favorite worst ISZ Minigame now.}
 
-[~#FFEEEE~5. Disable Pause Button]
+[5. Disable Pause Button]
 D3000000 30000000
 20396B70 00000000
 208067B5 00000000
 D2000000 00000000
 {You can't edit your settings. Yeah this cheat is actually 100% useless.}
 
-[~#FFEEEE~6. Disable Wood Ninja]
+[6. Disable Wood Ninja]
 D3000000 00000000
 2041901C 00000000
 D2000000 00000000
 
-[~#FFEEEE~7. Disable Quit Menu]
+[7. Disable Quit Menu]
 D3000000 08000000
 20859C5C 00000000
 D3000000 03000000
@@ -14889,7 +15142,7 @@ D3000000 03000000
 D2000000 00000000
 {And so is this cheat. It's Fucking USELESS.}
 
-[~#FFEEEE~8. Disable Moving]
+[8. Disable Moving]
 D3000000 00000000
 2041957C 00000000
 D2000000 00000000
@@ -14897,7 +15150,7 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~Corrupt codes++]
+[++Corrupt codes++]
 
 [Fatal Game Error (Corrupt Game Save)]
 D3000000 00000000
@@ -14920,14 +15173,14 @@ D6000000 00000000
 D2000000 00000000
 {Does More Damage To the Save then The one From cracko (Dont Use a Checkpoint Save (VERY DANGEROUS ) Then u Have to Reinstall Game)}
 
-[~#FFEEEE~Corrupt Game Save Data]
+[Corrupt Game Save Data]
 D3000000 00000000
 0042C660 FFFFFFFF
 0042C664 FFFFFFFF
 D2000000 00000000
 {By Cracko298}
 
-[~#FFEEEE~Corrupt HomeMenu]
+[Corrupt HomeMenu]
 D3000000 30000000
 C0000000 00009999
 2018F76B 00000000
@@ -14937,226 +15190,226 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~Hacker Clothes++]
+[++Hacker Clothes++]
 
-[++~#FFEEEE~Customize Clothes++]
+[++Customize Clothes++]
 
-[++~#FFEEEE~Jackets++]
+[++Jackets++]
 
-[~#FFEEEE~Black]
+[Black]
 D3000000 00000000
 0048362C 00000001
 D2000000 00000000
 
-[~#FFEEEE~Gold]
+[Gold]
 D3000000 00000000
 0048362C 0000000F
 D2000000 00000000
 
-[~#FFEEEE~Brown]
+[Brown]
 D3000000 00000000
 0048362C 00000009
 D2000000 00000000
 
-[~#FFEEEE~Dark Brown]
+[Dark Brown]
 D3000000 00000000
 0048362C 0000000A
 D2000000 00000000
 
-[~#FFEEEE~Grey 2]
+[Grey 2]
 D3000000 00000000
 0048362C 00000010
 D2000000 00000000
 
-[~#FFEEEE~Grey]
+[Grey]
 D3000000 00000000
 0048362C 0000000B
 D2000000 00000000
 
-[~#FFEEEE~Red]
+[Red]
 D3000000 00000000
 0048362C 00000000
 D2000000 00000000
 
-[~#FFEEEE~Blue]
+[Blue]
 D3000000 00000000
 0048362C 00000002
 D2000000 00000000
 
-[~#FFEEEE~Light Blue]
+[Light Blue]
 D3000000 00000000
 0048362C 0000000D
 D2000000 00000000
 
-[~#FFEEEE~Light Green]
+[Light Green]
 D3000000 00000000
 0048362C 0000000E
 D2000000 00000000
 
-[~#FFEEEE~Kevlar]
+[Kevlar]
 D3000000 00000000
 0048362C 00000005
 D2000000 00000000
 
-[~#FFEEEE~Arctic]
+[Arctic]
 D3000000 00000000
 0048362C 00000006
 D2000000 00000000
 
-[~#FFEEEE~Bling]
+[Bling]
 D3000000 00000000
 0048362C 00000007
 D2000000 00000000
 
-[~#FFEEEE~Cammo]
+[Cammo]
 D3000000 00000000
 0048362C 00000003
 D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~Backpacks++]
+[++Backpacks++]
 
-[~#FFEEEE~Black]
+[Black]
 D3000000 00000000
 00483634 00000001
 D2000000 00000000
 
-[~#FFEEEE~Gold]
+[Gold]
 D3000000 00000000
 00483634 0000000F
 D2000000 00000000
 
-[~#FFEEEE~Brown]
+[Brown]
 D3000000 00000000
 00483634 00000009
 D2000000 00000000
 
-[~#FFEEEE~Dark Brown]
+[Dark Brown]
 D3000000 00000000
 00483634 0000000A
 D2000000 00000000
 
-[~#FFEEEE~Grey 2]
+[Grey 2]
 D3000000 00000000
 00483634 00000010
 D2000000 00000000
 
-[~#FFEEEE~Grey]
+[Grey]
 D3000000 00000000
 00483634 0000000B
 D2000000 00000000
 
-[~#FFEEEE~Red]
+[Red]
 D3000000 00000000
 00483634 00000000
 D2000000 00000000
 
-[~#FFEEEE~Blue]
+[Blue]
 D3000000 00000000
 00483634 00000002
 D2000000 00000000
 
-[~#FFEEEE~Light Blue]
+[Light Blue]
 D3000000 00000000
 00483634 0000000D
 D2000000 00000000
 
-[~#FFEEEE~Light Green]
+[Light Green]
 D3000000 00000000
 00483634 0000000E
 D2000000 00000000
 
-[~#FFEEEE~Kevlar]
+[Kevlar]
 D3000000 00000000
 00483634 00000005
 D2000000 00000000
 
-[~#FFEEEE~Arctic]
+[Arctic]
 D3000000 00000000
 00483634 00000006
 D2000000 00000000
 
-[~#FFEEEE~Bling]
+[Bling]
 D3000000 00000000
 00483634 00000007
 D2000000 00000000
 
-[~#FFEEEE~Cammo]
+[Cammo]
 D3000000 00000000
 00483634 00000003
 D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~Pants++]
+[++Pants++]
 
-[~#FFEEEE~Black]
+[Black]
 D3000000 00000000
 00483630 00000001
 D2000000 00000000
 
-[~#FFEEEE~Gold]
+[Gold]
 D3000000 00000000
 00483630 0000000F
 D2000000 00000000
 
-[~#FFEEEE~Brown]
+[Brown]
 D3000000 00000000
 00483630 00000009
 D2000000 00000000
 
-[~#FFEEEE~Dark Brown]
+[Dark Brown]
 D3000000 00000000
 00483630 0000000A
 D2000000 00000000
 
-[~#FFEEEE~Grey 2]
+[Grey 2]
 D3000000 00000000
 00483630 00000010
 D2000000 00000000
 
-[~#FFEEEE~Grey]
+[Grey]
 D3000000 00000000
 00483630 0000000B
 D2000000 00000000
 
-[~#FFEEEE~Red]
+[Red]
 D3000000 00000000
 00483630 00000000
 D2000000 00000000
 
-[~#FFEEEE~Blue]
+[Blue]
 D3000000 00000000
 00483630 00000002
 D2000000 00000000
 
-[~#FFEEEE~Light Blue]
+[Light Blue]
 D3000000 00000000
 00483630 0000000D
 D2000000 00000000
 
-[~#FFEEEE~Kevlar]
+[Kevlar]
 D3000000 00000000
 00483630 00000005
 D2000000 00000000
 
-[~#FFEEEE~Arctic]
+[Arctic]
 D3000000 00000000
 00483630 00000006
 D2000000 00000000
 
-[~#FFEEEE~Bling]
+[Bling]
 D3000000 00000000
 00483630 00000007
 D2000000 00000000
 
-[~#FFEEEE~Cammo]
+[Cammo]
 D3000000 00000000
 00483630 00000003
 D2000000 00000000
 
-[~#FFEEEE~Light Green]
+[Light Green]
 D3000000 00000000
 00483630 0000000E
 D2000000 00000000
@@ -15165,39 +15418,39 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~FoxyXTNs outfits++]
+[++FoxyXTNs outfits++]
 
-[++~#FFEEEE~other outfits by FoxyXTN++]
+[++other outfits by FoxyXTN++]
 
-[~#FFEEEE~Custom Outfit green + blue]
+[Custom Outfit green + blue]
 00483634 00000002
 0048362C 00000003
 00483630 00000003
 00482FF8 00000002
 {save & quit with this code on until u have the character (Custom face colours only works with this cheat activated)}
 
-[~#FFEEEE~Custom outfit white + red]
+[Custom outfit white + red]
 0048362C 00000006
 00483630 00000006
 00483634 00000006
 00482FF0 00000002
 {save &quit until u have the whole outfit}
 
-[~#FFEEEE~Custom black outfit]
+[Custom black outfit]
 0048362C 00000001
 00483630 00000001
 00483634 00000001
 00482FF4 00000002
 {save &quit until u have the whole outfit        (Complete black only works with this cheat activated)}
 
-[~#FFEEEE~Custom blue outfit]
+[Custom blue outfit]
 00483634 00000002
 0048362C 00000002
 00483630 00000002
 00482FF8 00000002
 {save & quit with this code on until u have a COMPLETE blue player (Fully blue only works with this cheat activated)}
 
-[~#FFEEEE~Custom red outfit]
+[Custom red outfit]
 0048362C 00000000
 00483630 00000000
 00483634 00000000
@@ -15206,25 +15459,25 @@ D2000000 00000000
 
 [--]
 
-[~#FFEEEE~Random backpack when join]
+[Random backpack when join]
 D3000000 00483634
 FF000000 0000000F
 D6000000 00000000
 D2000000 00000000
 
-[~#FFEEEE~Random trouser when join]
+[Random trouser when join]
 D3000000 00483630
 FF000000 0000000F
 D6000000 00000000
 D2000000 00000000
 
-[~#FFEEEE~Random jacket when join]
+[Random jacket when join]
 D3000000 0048362C
 FF000000 0000000F
 D6000000 00000000
 D2000000 00000000
 
-[~#FFEEEE~Rainbow Clothes by Foxy]
+[Rainbow Clothes by Foxy]
 D2000001 00000000
 D2000001 00000000
 D2000001 00000000
@@ -15254,21 +15507,21 @@ F1483004 00000020
 D2000000 00000000
 {(Offline)}
 
-[~#FFEEEE~Legendary Foxy outfit 2]
+[Legendary Foxy outfit 2]
 00483634 00000009
 0048362C 00000009
 00483630 00000009
 00482FF4 00000002
 {save & quit with this code on until u have the outfit   the outfit is: complete brown blue backpack and black+white face        the custom face hands and shoes  only work with this cheat activated}
 
-[~#FFEEEE~Legendary Foxy outfit]
+[Legendary Foxy outfit]
 00483634 00000001
 0048362C 00000001
 00483630 00000009
 00482FF4 00000002
 {save & quit with this code on until u have the outfit     the outfit is : complete black with white+black face black hands and white shoes             the custom face hands and shoes  only work with this cheat activated}
 
-[~#FFEEEE~Drippy Foxy outfit]
+[Drippy Foxy outfit]
 00483634 00000001
 0048362C 00000001
 00483630 0000000F
@@ -15451,7 +15704,7 @@ D3000000 00000000
 D2000000 00000000
 {By Foxy}
 
-[~#FFEEEE~apparel always says that u have def jacket]
+[apparel always says that u have def jacket]
 D3000000 00000000
 00483640 4F000000
 00483644 4F800000
@@ -15460,7 +15713,7 @@ D3000000 00000000
 0048362C 00000000
 D2000000 00000000
 
-[~#FFEEEE~Rainbow Clothes by Cracko]
+[Rainbow Clothes by Cracko]
 D3000000 00483628
 FF000001 00000012
 D6000000 00000004
@@ -15501,7 +15754,7 @@ D3000000 30000000
 003C39B4 00FFFF00
 D2000000 00000000
 
-[~#FFEEEE~Cracko298's Clothes]
+[Cracko298's Clothes]
 D3000000 00000000
 0048362C 00000005
 00483634 00000001
@@ -15514,21 +15767,21 @@ D3000000 30000000
 003C3728 00FFFF00
 D2000000 00000000
 
-[~#FFEEEE~Light Blue Clothes]
+[Light Blue Clothes]
 D3000000 00000000
 00483630 0000000D
 00482FF8 00000002
 0048362C 0000000D
 D2000000 00000000
 
-[~#FFEEEE~Black Clothes]
+[Black Clothes]
 D3000000 00000000
 00483630 00000001
 00483634 00000001
 0048362C 00000001
 D2000000 00000000
 
-[~#FFEEEE~Grey Clothes]
+[Grey Clothes]
 D3000000 00000000
 0048362C 0000000B
 00483634 0000000B
@@ -15565,7 +15818,7 @@ FF000000 00000000
 D6000000 00000000
 D2000000 00000000
 
-[~#FFEEEE~Anti Blacklist]
+[Anti Blacklist]
 D3000000 00000000
 50429F44 00000031
 D9000000 00483754
@@ -16108,19 +16361,6 @@ D3000000 00000000
 D2000000 00000000
 {( Clone Name (Bird Clone) ) just a test code (Use Tp 2nd Player To TP to You (Doesnt Work Everytime)}
 
-[Clone Code Test]
-D3000000 00000000
-00483E6C 3F800000
-00483524 00000000
-0048B390 0884F2A8
-00483EC4 FD000000
-00483EC8 00400040
-00483EF4 99999999
-00483EF0 99999999
-00483804 00010000
-D2000000 00000000
-{( Clone Name (@@) ) just a test code (Use tp 2nd Player to you)}
-
 [Invisible Clone]
 D3000000 00000000
 00483EC4 FDFDFDFD
@@ -16168,6 +16408,21 @@ C0000000 0000000F
 FC000000 0000000C
 DC000000 00000848
 D2000000 00000000
+
+[Clone Code Test]
+D3000000 00000000
+0048B394 0885125C
+D2000000 00000000
+00483E6C 3F800000
+00483524 00000000
+0048B390 0884F2A8
+00483EC4 FD000000
+00483EC8 00400040
+00483EF4 99999999
+00483EF0 99999999
+00483804 00010000
+D2000000 00000000
+{( Clone Name (@@) ) just a test code (Use tp 2nd Player to you)}
 
 [Delete Clone]
 D3000000 00000000
@@ -16226,156 +16481,156 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~Door codes ++]
+[++Door codes ++]
 
-[++~#FFEEEE~spinning doors by Foxy++]
+[++spinning doors by Foxy++]
 
-[~#FFEEEE~church]
+[church]
 D3000000 00000000
 004935AC 4F800000
 D2000000 00000000
 
-[~#FFEEEE~red house at church]
+[red house at church]
 D3000000 00000000
 00493340 4F800000
 D2000000 00000000
 
-[~#FFEEEE~timber house1]
+[timber house1]
 D3000000 00000000
 00491D74 4F800000
 D2000000 00000000
 
-[~#FFEEEE~timber house2]
+[timber house2]
 D3000000 00000000
 004921D0 4F800000
 D2000000 00000000
 
-[~#FFEEEE~submarine red house]
+[submarine red house]
 D3000000 00000000
 0049189C 4F800000
 D2000000 00000000
 
-[~#FFEEEE~random red house near gb]
+[random red house near gb]
 D3000000 00000000
 0049797C 4F800000
 D2000000 00000000
 
-[~#FFEEEE~random blue house near ufo door1]
+[random blue house near ufo door1]
 D3000000 00000000
 004974A4 4F800000
 D2000000 00000000
 
-[~#FFEEEE~random blue house near ufo door 2]
+[random blue house near ufo door 2]
 D3000000 00000000
 00497428 4F800000
 D2000000 00000000
 
-[~#FFEEEE~white ball house at satellite1]
+[white ball house at satellite1]
 D3000000 00000000
 00496AF4 5F800000
 D2000000 00000000
 
-[~#FFEEEE~white ball house at satellite 2]
+[white ball house at satellite 2]
 D3000000 00000000
 00496CE4 5F800000
 D2000000 00000000
 
-[~#FFEEEE~bunker satellite entrance]
+[bunker satellite entrance]
 D3000000 00000000
 004971BC 5F800000
 D2000000 00000000
 
-[~#FFEEEE~red town house1]
+[red town house1]
 D3000000 00000000
 00492990 4F800000
 D2000000 00000000
 
-[~#FFEEEE~red town house 2]
+[red town house 2]
 D3000000 00000000
 00492CF4 4F800000
 D2000000 00000000
 
-[~#FFEEEE~red town house 3]
+[red town house 3]
 D3000000 00000000
 004925B0 4F800000
 D2000000 00000000
 
-[~#FFEEEE~island house]
+[island house]
 D3000000 00000000
 00490C04 4F800000
 D2000000 00000000
 
-[~#FFEEEE~big island town house 1]
+[big island town house 1]
 D3000000 00000000
 004961C0 4F800000
 D2000000 00000000
 
-[~#FFEEEE~big island town house 2]
+[big island town house 2]
 D3000000 00000000
 0049680C 4F800000
 D2000000 00000000
 
-[~#FFEEEE~big island town house 3]
+[big island town house 3]
 D3000000 00000000
 00496524 4F800000
 D2000000 00000000
 
-[~#FFEEEE~oil rig house 1]
+[oil rig house 1]
 D3000000 00000000
 00497DD8 4F800000
 D2000000 00000000
 
-[~#FFEEEE~oil rig house 2]
+[oil rig house 2]
 D3000000 00000000
 004981B8 4F800000
 D2000000 00000000
 
-[~#FFEEEE~oil rig house 3]
+[oil rig house 3]
 D3000000 00000000
 00498A70 4F800000
 D2000000 00000000
 
-[~#FFEEEE~factory]
+[factory]
 D3000000 00000000
 00493E64 4F800000
 D2000000 00000000
 
-[~#FFEEEE~gb front door1]
+[gb front door1]
 D3000000 00000000
 00494EDC 4F800000
 D2000000 00000000
 
-[~#FFEEEE~gb front door 2]
+[gb front door 2]
 D3000000 00000000
 00494F58 4F800000
 D2000000 00000000
 
-[~#FFEEEE~gb right door]
+[gb right door]
 D3000000 00000000
 00494FD4 4F800000
 D2000000 00000000
 
-[~#FFEEEE~gb left door]
+[gb left door]
 D3000000 00000000
 00495050 4F800000
 D2000000 00000000
 
-[~#FFEEEE~red house gb]
+[red house gb]
 D3000000 00000000
 00495528 4F800000
 D2000000 00000000
 
-[~#FFEEEE~blue house door1 gb]
+[blue house door1 gb]
 D3000000 00000000
 00495908 4F800000
 D2000000 00000000
 
-[~#FFEEEE~blue house door 2 gb]
+[blue house door 2 gb]
 D3000000 00000000
 00495984 4F800000
 D2000000 00000000
 
-[~#FFEEEE~camping place house]
+[camping place house]
 D3000000 00000000
 00494244 4F800000
 D2000000 00000000
@@ -16384,11 +16639,11 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~Item Codes ++]
+[++Item Codes ++]
 
-[++~#FFEEEE~Item Slot Codes by cracko++]
+[++Item Slot Codes by cracko++]
 
-[~#FFEEEE~1. All Slot Duplicator/Durability]
+[1. All Slot Duplicator/Durability]
 D3000000 00000000
 0042967C 3B9AC9FF
 004296F4 3B9AC9FF
@@ -16402,7 +16657,7 @@ D3000000 00000000
 00429644 3B9AC9FF
 D2000000 00000000
 
-[~#FFEEEE~All Slot Duplicator/Durability]
+[All Slot Duplicator/Durability]
 D3000000 00000000
 0042967C 3B9AC9FF
 004296F4 3B9AC9FF
@@ -16416,7 +16671,7 @@ D3000000 00000000
 00429644 3B9AC9FF
 D2000000 00000000
 
-[~#FFEEEE~2. Delete All Slots]
+[2. Delete All Slots]
 D3000000 00000000
 DD000000 00000080
 204296F1 00000000
@@ -16436,52 +16691,52 @@ DD000000 00000080
 20429601 00000000
 D2000000 00000000
 
-[~#FFEEEE~3. Slot 1 Durability]
+[3. Slot 1 Durability]
 D3000000 00000000
 00429608 3B9AC9FF
 D2000000 00000000
 
-[~#FFEEEE~4. Slot 2 Durability]
+[4. Slot 2 Durability]
 D3000000 00000000
 00429644 3B9AC9FF
 D2000000 00000000
 
-[~#FFEEEE~5. Slot 3 Durability]
+[5. Slot 3 Durability]
 D3000000 00000000
 00429680 3B9AC9FF
 D2000000 00000000
 
-[~#FFEEEE~6. Slot 4 Durability]
+[6. Slot 4 Durability]
 D3000000 00000000
 004296BC 3B9AC9FF
 D2000000 00000000
 
-[~#FFEEEE~7. Slot 5 Durability]
+[7. Slot 5 Durability]
 D3000000 00000000
 004296F8 3B9AC9FF
 D2000000 00000000
 
-[~#FFEEEE~8. Slot 1 Duplication]
+[8. Slot 1 Duplication]
 D3000000 00000000
 00429604 3B9AC9FF
 D2000000 00000000
 
-[~#FFEEEE~9. Slot 2 Duplication]
+[9. Slot 2 Duplication]
 D3000000 00000000
 00429640 3B9AC9FF
 D2000000 00000000
 
-[~#FFEEEE~10. Slot 3 Duplication]
+[10. Slot 3 Duplication]
 D3000000 00000000
 0042967C 3B9AC9FF
 D2000000 00000000
 
-[~#FFEEEE~11. Slot 4 Duplication]
+[11. Slot 4 Duplication]
 D3000000 00000000
 004296B8 3B9AC9FF
 D2000000 00000000
 
-[~#FFEEEE~12. Slot 5 Duplication]
+[12. Slot 5 Duplication]
 D3000000 00000000
 004296F4 3B9AC9FF
 D2000000 00000000
@@ -16503,36 +16758,74 @@ FC000000 00000004
 D2000000 00000000
 {U can See the item id of the item in slot1 in your Player ID}
 
-[~#FFEEEE~Random amount of item slot1]
+[Random amount of item slot1]
 D3000000 00429604
 FF000001 3B9AC9FF
 D6000000 00000000
 D2000000 00000000
 
-[~#FFEEEE~ALL items 0% slot 1]
+[ALL items 0% slot 1]
 D3000000 00000000
 00429608 00000000
 D2000000 00000000
 
-[~#FFEEEE~Random item slot1]
+[Random item slot1]
 D3000000 00429600
 FFFF0103 00FF3303
 D6000000 00000000
 D2000000 00000000
 
-[~#FFEEEE~Infinite item Slot 1]
+[Infinite item Slot 1]
 D3000000 00000000
 00429604 FFFFFC19
 D2000000 00000000
 {makes all in slot 1 To -100}
 
-[~#FFEEEE~inf drop slot1 ]
+[inf drop slot1 ]
 D3000000 00000000
 00429604 3B9AC9FF
 D2000000 00000000
 {Makes all in slot 1 to 9999}
 
 [--]
+
+[No Inventory Item Images]
+D3000000 30000000
+003A9390 00FFFF00
+003A91FC 00FFFF00
+003A9068 00FFFF00
+003A8ED4 00FFFF00
+003A8D40 00FFFF00
+003A8BAC 00FFFF00
+003A8A18 00FFFF00
+003A8884 00FFFF00
+003A86F0 00FFFF00
+003A855C 00FFFF00
+003A83C8 00FFFF00
+003A8234 00FFFF00
+003A80A0 00FFFF00
+003A7F0C 00FFFF00
+003A7D78 00FFFF00
+003A7BE4 00FFFF00
+003A7A50 00FFFF00
+003A78BC 00FFFF00
+003A7728 00FFFF00
+003A7594 00FFFF00
+003A7400 00FFFF00
+003A726C 00FFFF00
+003A70D8 00FFFF00
+003A6F44 00FFFF00
+D2000000 00000000
+
+[last item Blue Item Count]
+D3000000 30000000
+003A9660 FFFF0F00
+D2000000 00000000
+
+[No White Rendering (Selected Item)]
+D3000000 30000000
+003BC194 00FFFF00
+D2000000 00000000
 
 [Flying Item Beta (A)]
 D3000000 00000000
@@ -16549,7 +16842,7 @@ D3000000 30000000
 003B4504 00FFFF00
 D2000000 00000000
 
-[~#FFEEEE~No Item Loss]
+[No Item Loss]
 00145D04 E320F000
 00145D08 E320F000
 00145D84 E320F000
@@ -16564,11 +16857,11 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~TELEPORT ++]
+[++TELEPORT ++]
 
-[++~#FFEEEE~Teleporting Codes by cracko++]
+[++Teleporting Codes by cracko++]
 
-[~#FFEEEE~Teleporter]
+[Teleporter]
 DD000000 00000840
 00482F0C 44E4D963
 00482F14 C4C90423
@@ -16587,25 +16880,25 @@ DD000000 00000880
 D2000000 00000000
 {Y }
 
-[~#FFEEEE~Teleport To Hacker Hell]
+[Teleport To Hacker Hell]
 F0000001 00000001
 DD000000 00000001
 F1482F10 4F000000
 {A}
 
-[~#FFEEEE~Teleport To Greybase]
+[Teleport To Greybase]
 DD000000 00000001
 00482F0C 44E456CE
 00482F14 C4CAC8FA
 {A}
 
-[~#FFEEEE~Teleport To The Oil-Rig]
+[Teleport To The Oil-Rig]
 DD000000 00000001
 00482F0C 424A741E
 00482F14 C535A7CE
 {A}
 
-[~#FFEEEE~Teleport To The Submarine]
+[Teleport To The Submarine]
 DD000000 00000001
 00482F0C 4409972F
 00482F14 C4D1C01D
@@ -16613,9 +16906,9 @@ DD000000 00000001
 
 [--]
 
-[++~#FFEEEE~teleport codes by Foxy++]
+[++teleport codes by Foxy++]
 
-[~#FFEEEE~!!! Read My NOTE !!!]
+[!!! Read My NOTE !!!]
 D3000000 00000000
 5037F150 00000000
 E037F150 00000010
@@ -16628,12 +16921,12 @@ DD000000 00000200
 D0000000 00000000
 {if one of this cheats dont work activate this cheat and fly up with  and try the tp code up there}
 
-[~#FFEEEE~teleport high up]
+[teleport high up]
 D3000000 00000000
 00482F10 43FF6810
 D2000000 00000000
 
-[~#FFEEEE~tp to the random red house near gb]
+[tp to the random red house near gb]
 DD000000 00000900
 00482F10 40999E47
 00482F14 C4985CF5
@@ -16648,7 +16941,7 @@ D3000000 00000000
 00482F0C 00000000
 D2000000 00000000
 
-[~#FFEEEE~tp to ufo (New Engine Beta (Note)]
+[tp to ufo (New Engine Beta (Note)]
 DD000000 00000800
 00482F10 43BBBBBB
 D2000000 00000000
@@ -16659,7 +16952,7 @@ DD000000 00000100
 00482F0C 451FB212
 {First Y then R}
 
-[~#FFEEEE~tp to timber house]
+[tp to timber house]
 DD000000 00000900
 00482F10 41C77BF5
 00482F1C 3CD0557E
@@ -16667,7 +16960,7 @@ DD000000 00000900
 00482F0C 43F1D4F5
 {R+Y}
 
-[~#FFEEEE~tp to camping place]
+[tp to camping place]
 DD000000 00000900
 00482F10 428564E6
 00482F1C C0257A52
@@ -16675,7 +16968,7 @@ DD000000 00000900
 00482F0C 44B06ABD
 {R+Y}
 
-[~#FFEEEE~tp to submarine]
+[tp to submarine]
 DD000000 00000900
 00482F1C 3FC81552
 00482F14 C4D3BEA2
@@ -16683,7 +16976,7 @@ DD000000 00000900
 00482F0C 44047B1E
 {R+Y}
 
-[~#FFEEEE~tp to factory]
+[tp to factory]
 DD000000 00000900
 00482F10 41C7244E
 00482F1C BD018675
@@ -16691,7 +16984,7 @@ DD000000 00000900
 00482F0C 4486D317
 {R+Y}
 
-[~#FFEEEE~tp to church]
+[tp to church]
 DD000000 00000900
 00482F10 427FD338
 00482F1C BDC17247
@@ -16699,7 +16992,7 @@ DD000000 00000900
 00482F0C 448777B4
 {R+Y}
 
-[~#FFEEEE~tp to cave]
+[tp to cave]
 DD000000 00000900
 00482F10 42277F64
 00482F1C 3EC3429B
@@ -16707,7 +17000,7 @@ DD000000 00000900
 00482F0C 4476418E
 {R+Y}
 
-[~#FFEEEE~tp to grey base]
+[tp to grey base]
 DD000000 00000900
 00482F10 41F18A03
 00482F1C BDACBCAF
@@ -16715,7 +17008,7 @@ DD000000 00000900
 00482F0C 44E455F7
 {R+Y}
 
-[~#FFEEEE~tp to satellite]
+[tp to satellite]
 DD000000 00000900
 00482F10 430298A8
 00482F1C 4044B608
@@ -16723,7 +17016,7 @@ DD000000 00000900
 00482F0C 44F31466
 {R+Y}
 
-[~#FFEEEE~tp to red boat]
+[tp to red boat]
 DD000000 00000900
 00482F10 4043A720
 00482F1C 3FBF172A
@@ -16731,7 +17024,7 @@ DD000000 00000900
 00482F0C 44EF98B3
 {R+Y}
 
-[~#FFEEEE~tp to oil rig]
+[tp to oil rig]
 DD000000 00000900
 00482F10 41E8B2D3
 00482F14 C535A645
@@ -16809,7 +17102,7 @@ D2000000 00000000
 
 [--]
 
-[~#FFEEEE~Copy & Paste Coordinates (Beta)]
+[Copy & Paste Coordinates (Beta)]
 DD000000 00000201
 00482F10 4412FF09
 D2000000 00000000
@@ -16864,7 +17157,7 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~Circle Codes++]
+[++Circle Codes++]
 
 [Circle Glitch]
 D3000000 30000000
@@ -16872,31 +17165,31 @@ D3000000 30000000
 00488AEC 55500000
 D2000000 00000000
 
-[~#FFEEEE~Movable Circle]
+[Movable Circle]
 D3000000 30000000
 20488AF4 00000001
 D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~Mic Codes ++]
+[++Mic Codes ++]
 
-[~#FFEEEE~SPY WEAPON]
+[SPY WEAPON]
 D3000000 08000000
 0080645C 00004040
 D2000000 00000000
 {An advanced cheat turned into a weapon against privacy. Able to unlock any persons microphone on your server. (Sometimes works...)}
 
-[~#FFEEEE~Mic Always On]
+[Mic Always On]
 D3000000 08000000
 0080645C 00004040
 D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~num codes++]
+[++num codes++]
 
-[~#FFEEEE~Furry-num]
+[Furry-num]
 2048367E 00000025
 20483680 00000046
 20483682 00000075
@@ -16933,7 +17226,7 @@ FF000030 00000039
 D6000000 00000002
 D2000000 00000000
 
-[~#FFEEEE~SEX-num]
+[SEX-num]
 2048367E 00000053
 20483680 00000045
 20483684 00000058
@@ -16966,7 +17259,7 @@ FF000030 00000039
 D6000000 00000002
 D2000000 00000000
 
-[~#FFEEEE~@wl-num]
+[@wl-num]
 2048367E 00000040
 20483680 00000077
 20483684 0000006C
@@ -17001,7 +17294,7 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~Drop Codes++]
+[++Drop Codes++]
 
 [++Drop Codes By Foxy++]
 
@@ -17149,86 +17442,86 @@ D2000000 00000000
 0037F27C E12FFF1E
 {by Foxy}
 
-[~#FFEEEE~Snow-Plough Drop]
+[Snow-Plough Drop]
 0024E138 EB04C44E
 0037F278 E3A0009D
 0037F27C E12FFF1E
 
-[~#FFEEEE~Snow-Cat Drop]
+[Snow-Cat Drop]
 0024E138 EB04C44E
 0037F278 E3A00011
 0037F27C E12FFF1E
 
-[~#FFEEEE~Helicopter Drop]
+[Helicopter Drop]
 0024E138 EB04C44E
 0037F278 E3A00010
 0037F27C E12FFF1E
 
-[~#FFEEEE~Snow-Mobile Drop]
+[Snow-Mobile Drop]
 0024E138 EB04C44E
 0037F278 E3A0000F
 0037F27C E12FFF1E
 
-[~#FFEEEE~Dog-Sled Drop]
+[Dog-Sled Drop]
 0024E138 EB04C44E
 0037F278 E3A0009B
 0037F27C E12FFF1E
 
-[~#FFEEEE~Small-Boat Drop]
+[Small-Boat Drop]
 00000000 00000000
 0024E138 EB04C44E
 0037F278 E3A0009E
 0037F27C E12FFF1E
 
-[~#FFEEEE~Big-Boat Drop]
+[Big-Boat Drop]
 0024E138 EB04C44E
 0037F278 E3A0000E
 0037F27C E12FFF1E
 
-[~#FFEEEE~Normal-Door Drop]
+[Normal-Door Drop]
 0024E138 EB04C44E
 0037F278 E3A00001
 0037F27C E12FFF1E
 
-[~#FFEEEE~Steel-Door Drop]
+[Steel-Door Drop]
 0024E138 EB04C44E
 0037F278 E3A00004
 0037F27C E12FFF1E
 
 [--]
 
-[++~#FFEEEE~Minigame ++]
+[++Minigame ++]
 
-[++~#FFEEEE~Mini-Game Codes by Cracko++]
+[++Mini-Game Codes by Cracko++]
 
-[~#FFEEEE~Helicopter Game Max Points]
+[Helicopter Game Max Points]
 D3000000 08000000
 10859C68 3B9AC9FF
 D2000000 00000000
 
-[~#FFEEEE~Rainbow Heli UI]
+[Rainbow Heli UI]
 D3000000 30456DC0
 FF000001 FFFFF000
 D6000000 00000000
 D2000000 00000000
 {test}
 
-[~#FFEEEE~Wood Ninja Max Points]
+[Wood Ninja Max Points]
 D3000000 00000000
 10419110 3B9AC9FF
 D2000000 00000000
 
-[~#FFEEEE~Disable Wood Ninja]
+[Disable Wood Ninja]
 D3000000 00000000
 2041901C 00000000
 D2000000 00000000
 
-[~#FFEEEE~Disable Flappy Copter]
+[Disable Flappy Copter]
 D3000000 08000000
 20859C70 00000000
 D2000000 00000000
 
-[~#FFEEEE~Flappy Copter - Mode Switcher]
+[Flappy Copter - Mode Switcher]
 DD000000 00000010
 D3000000 30000000
 20453CE4 00000000
@@ -17255,7 +17548,7 @@ D3000000 09000000
 D2000000 00000000
 {DPad Left = Normal Mode, DPad Right = Hard Mode, DPad Down = Practice Mode. *Will activate a splash screen when DPad Left or Down is pressed outside of the Flappy Copter minigame. DPad Right to clear screen if this happens.*}
 
-[~#FFEEEE~Wood Ninja - Mode Switcher]
+[Wood Ninja - Mode Switcher]
 DD000000 00000020
 D3000000 30000000
 20478A14 00000001
@@ -17294,7 +17587,7 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~normal log game codes++]
+[++normal log game codes++]
 
 [Bigger Logs]
 D3000000 30000000
@@ -17302,7 +17595,7 @@ D3000000 30000000
 00468D50 43000000
 D2000000 00000000
 
-[~#FFEEEE~normal wood game modifier]
+[normal wood game modifier]
 D3000000 00000000
 00419040 0000270F
 D2000000 00000000
@@ -17310,7 +17603,7 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~log minigame codes++]
+[++log minigame codes++]
 
 [Disable Basket Log Minigame]
 D3000000 30000000
@@ -17340,35 +17633,35 @@ D2000000 00000000
 D2000000 00000000
 {you have to be a cheater to master this ;)}
 
-[~#FFEEEE~points modifier log game]
+[points modifier log game]
 D3000000 00000000
 00419110 3B9AC9FF
 D2000000 00000000
 {makes a better highscore in the wood minigame (in settings)}
 
-[~#FFEEEE~log game first log flyes away]
+[log game first log flyes away]
 D3000000 00000000
 0041911C 3FC7AE2C
 D2000000 00000000
 
-[~#FFEEEE~direct game over log game]
+[direct game over log game]
 D3000000 00000000
 0041911C BF9EB83E
 D2000000 00000000
 
-[~#FFEEEE~invisible logs log game]
+[invisible logs log game]
 D3000000 00000000
 0041911C BDF5C28F
 D2000000 00000000
 
-[~#FFEEEE~reset Highscore on log game]
+[reset Highscore on log game]
 D3000000 00000000
 00419114 00000000
 D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~flappy copter codes++]
+[++flappy copter codes++]
 
 [Remove Flappy Copter Bg]
 D3000000 30000000
@@ -17396,12 +17689,12 @@ D3000000 30000000
 00456E80 00011109
 D2000000 00000000
 
-[~#FFEEEE~Modded Flappy-Copter Score Adder]
+[Modded Flappy-Copter Score Adder]
 D3000000 08000000
 20859C68 000000FF
 D2000000 00000000
 
-[~#FFEEEE~helicopter minigame 10.000 points]
+[helicopter minigame 10.000 points]
 D3000000 08000000
 00859C68 3B9AC9FF
 D2000000 00000000
@@ -17421,35 +17714,35 @@ D3000000 08000000
 00859C80 C0D00000
 {X up Y slowly forward B down}
 
-[~#FFEEEE~9999 flappy copter highscore]
+[9999 flappy copter highscore]
 D3000000 08000000
 00859C6C 0000270F
 D2000000 00000000
 
-[~#FFEEEE~reset flappy copter highscore]
+[reset flappy copter highscore]
 D3000000 08000000
 00859C6C 00000000
 D2000000 00000000
 
-[~#FFEEEE~no tubes  in flappy copter]
+[no tubes  in flappy copter]
 D3000000 08000000
 00859C74 43B7E5B9
 D2000000 00000000
 
-[~#FFEEEE~impossible flappy copter]
+[impossible flappy copter]
 D3000000 08000000
 00859C74 00000000
 D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~battery minigame++]
+[++battery minigame++]
 
 [--]
 
-[++~#FFEEEE~bed minigame++]
+[++bed minigame++]
 
-[~#FFEEEE~cant lose bed game]
+[cant lose bed game]
 DD000000 00000400
 0041901C 00000004
 D2000000 00000000
@@ -17458,40 +17751,40 @@ D3000000 00000000
 D2000000 00000000
 {if u want to stop click X}
 
-[~#FFEEEE~fake bed game]
+[fake bed game]
 D3000000 00000000
 0041901C 00000002
 D2000000 00000000
 
-[~#FFEEEE~no bed minigame]
+[no bed minigame]
 D3000000 00000000
 0041901C 00000004
 D2000000 00000000
 
-[~#FFEEEE~direct loose]
+[direct loose]
 00419030 00000000
 00419034 432A0000
 D2000000 00000000
 
-[~#FFEEEE~full time count bed game]
+[full time count bed game]
 D3000000 00000000
 00419028 000003E6
 D2000000 00000000
 
-[~#FFEEEE~full hp count bed game]
+[full hp count bed game]
 D3000000 00000000
 0041902C 000003E4
 D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~fire minigame++]
+[++fire minigame++]
 
 [--]
 
 [--]
 
-[++~#FFEEEE~PL@YER! ++]
+[++PL@YER! ++]
 
 [++Special Player Modifications++]
 
@@ -17522,7 +17815,7 @@ D2000000 00000000
 D2000000 00000000
 0022DE70 00200000
 
-[~#FFEEEE~invisible player]
+[invisible player]
 00482F58 00000000
 
 [Big Items Beta]
@@ -17530,7 +17823,7 @@ D2000000 00000000
 0022DE70 40500000
 {Has Some Bugs..}
 
-[~#FFEEEE~visible player]
+[visible player]
 00482F58 FFFFFFFF
 
 [--]
@@ -17604,7 +17897,7 @@ F1482F1C C0287FB9
 D2000000 00000000
 0022DE70 40200000
 
-[~#FFEEEE~first person beta hotkeys in note]
+[first person beta hotkeys in note]
 0041958C 00FFFFFF
 D2000000 00000000
 00240F50 EE321A01
@@ -17615,29 +17908,29 @@ DD000000 00000800
 00240F50 EE010A10
 {Y walk forward  left/right    made byPeanut#XTN}
 
-[~#FFEEEE~epilepsy player by darksiders]
+[epilepsy player by darksiders]
 F1482F20 40000000
 
-[~#FFEEEE~deactivate bouncing player]
+[deactivate bouncing player]
 D3000000 00000000
 00242254 BDCCCCCD
 D2000000 00000000
 
-[~#FFEEEE~Custom face by Darksiders]
+[Custom face by Darksiders]
 00482FF4 00000002
 {colour of trousers= colour of face hands and shoes}
 
-[~#FFEEEE~Custom face by Foxy ver2]
+[Custom face by Foxy ver2]
 00482FF0 00000002
 {a modified version of the custom face by darksiders    colour of jacket=colour of hands face and shoes}
 
-[~#FFEEEE~Custom face by Foxy]
+[Custom face by Foxy]
 D3000000 00000000
 00482FF8 00000002
 D2000000 00000000
 {a modified version of the custom face by darksiders    colour of backpack=colour of hands shoes and face}
 
-[~#FFEEEE~Random Face Colour]
+[Random Face Colour]
 00482FF4 00000002
 D2000000 00000000
 D3000000 00483630
@@ -17645,19 +17938,19 @@ FF000000 0000000F
 D6000000 00000000
 D2000000 00000000
 
-[~#FFEEEE~epilepsy player by Foxy]
+[epilepsy player by Foxy]
 D3000000 00482F58
 FF000000 00000222
 D6000000 00000000
 D2000000 00000000
 
-[~#FFEEEE~Random high of player]
+[Random high of player]
 D3000000 00482F10
 FF000001 43FF6810
 D6000000 00000000
 D2000000 00000000
 
-[~#FFEEEE~invisible rendering]
+[invisible rendering]
 D3000000 08000000
 0084248C 00000001
 0080688C 00000001
@@ -17665,13 +17958,13 @@ D3000000 08000000
 00842484 00000001
 D2000000 00000000
 
-[~#FFEEEE~bouncing player]
+[bouncing player]
 00242254 3F800000
 
 [Crazy Player 2]
 00483524 00000008
 
-[~#FFEEEE~Stalking Code]
+[Stalking Code]
 00482F28 BDCCCCCD
 0015FCE0 3F800000
 0012DBD0 0A000002
@@ -17752,7 +18045,7 @@ D3000000 00000000
 D2000000 00000000
 {Y-DPad-Up = Stalk Second Player. Y-DPad-Right = Stalk Third Player. Y-DPad-Down = Stalk Fourth Person. Y-DPad-Left = Stalk Fifth Person. A-Dpad-Up = Stalk Sixth Person. L-Trigger-B = Stop Stalking.}
 
-[~#FFEEEE~buggy player]
+[buggy player]
 D3000000 004835E0
 FF000000 00000001
 D6000000 00000000
@@ -17760,30 +18053,30 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~Lens codes++]
+[++Lens codes++]
 
 [Remove Binaculars Lens]
 D3000000 30000000
 0030ADA8 00FFFF00
 D2000000 00000000
 
-[~#FFEEEE~Two Circle Lens]
+[Two Circle Lens]
 D3000000 30000000
 2030ACF4 00000001
 D2000000 00000000
 
-[~#FFEEEE~Circle Lens]
+[Circle Lens]
 D3000000 30000000
 2030B034 00000001
 D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~ID Codes++]
+[++ID Codes++]
 
-[++~#FFEEEE~ids by darksiders++]
+[++ids by darksiders++]
 
-[~#FFEEEE~ID: 666]
+[ID: 666]
 001243A8 E320F000
 001243B4 E320F000
 00124480 00000666
@@ -17793,7 +18086,7 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~ids by Foxy++]
+[++ids by Foxy++]
 
 [++IDs (only In Chat )++]
 
@@ -18011,9 +18304,9 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~Online IDs++]
+[++Online IDs++]
 
-[~#FFEEEE~ID: 99999999999]
+[ID: 99999999999]
 00258830 E320F000
 001243A8 E320F000
 001243B4 E320F000
@@ -18023,7 +18316,7 @@ D2000000 00000000
 004836A8 99999999
 004836AC 99999999
 
-[~#FFEEEE~ID: acade]
+[ID: acade]
 001243A8 E320F000
 001243B4 E320F000
 00124480 000ACADE
@@ -18031,7 +18324,7 @@ D2000000 00000000
 004836A8 000ACADE
 004836AC 00000000
 
-[~#FFEEEE~ID: deadface]
+[ID: deadface]
 001243A8 E320F000
 001243B4 E320F000
 00124480 DEADFACE
@@ -18039,7 +18332,7 @@ D2000000 00000000
 004836A8 DEADFACE
 004836AC 00000000
 
-[~#FFEEEE~ID: deadcad]
+[ID: deadcad]
 001243A8 E320F000
 001243B4 E320F000
 00124480 0DEADCAD
@@ -18047,7 +18340,7 @@ D2000000 00000000
 004836A8 0DEADCAD
 004836AC 00000000
 
-[~#FFEEEE~ID: add]
+[ID: add]
 001243A8 E320F000
 001243B4 E320F000
 00124480 00000ADD
@@ -18055,7 +18348,7 @@ D2000000 00000000
 004836A8 00000ADD
 004836AC 00000000
 
-[~#FFEEEE~ID: Dead]
+[ID: Dead]
 001243A8 E320F000
 001243B4 E320F000
 0012447C 00000000
@@ -18066,7 +18359,7 @@ D2000000 00000000
 
 [--]
 
-[~#FFEEEE~id Changer /Chat  (CTRLS in Note )]
+[id Changer /Chat  (CTRLS in Note )]
 90429F44 00006564
 004836A8 0000DEAD
 004836AC 00000000
@@ -18084,7 +18377,7 @@ D0000000 00000000
 004836A8 9A8A6428
 {Say dead =id dead      (Space = id 0    (lol= id 101  (Noxxi (no) =id = Noxxis ISZ id (real)}
 
-[~#FFEEEE~Random id probably online]
+[Random id probably online]
 D3000000 001243A8
 FF000000 00000000
 D6000000 00000000
@@ -18123,31 +18416,31 @@ D3000000 004836A8
 FC000000 00000004
 D2000000 00000000
 
-[~#FFEEEE~id  Arcade /a3cade]
+[id  Arcade /a3cade]
 004836AC 00000000
 004836A8 00A3CADE
 
-[~#FFEEEE~id Face7De7dead]
+[id Face7De7dead]
 004836AC 0000FACE
 004836A8 7DE7DEAD
 
-[~#FFEEEE~id DEAD]
+[id DEAD]
 004836AC 00000000
 004836A8 0000DEAD
 
-[~#FFEEEE~id Face]
+[id Face]
 004836AC 00000000
 004836A8 0000FACE
 
-[~#FFEEEE~id 0]
+[id 0]
 004836A8 00000000
 004836AC 00000000
 
 [--]
 
-[++~#FFEEEE~ids by cracko++]
+[++ids by cracko++]
 
-[~#FFEEEE~Show/Hide All ID's]
+[Show/Hide All ID's]
 D3000000 08000000
 DD000000 00000800
 20806888 00000001
@@ -18158,7 +18451,7 @@ D3000000 08000000
 D2000000 00000000
 {A = Shows Names, Y = Shows ID's.}
 
-[~#FFEEEE~ONLINE ID: DEAD]
+[ONLINE ID: DEAD]
 08EAF8E0 00000000
 08EAF8DC 0000DEAD
 08EAF340 00000000
@@ -18290,7 +18583,7 @@ D2000000 00000000
 08F005C0 00000000
 08F005BC 0000DEAD
 
-[~#FFEEEE~Random ID Online ( BETA )]
+[Random ID Online ( BETA )]
 D3000000 08F02778
 FF000001 0000000F
 D6000000 00000004
@@ -18677,21 +18970,21 @@ D3000000 08F005C0
 00000000 00000000
 D0000000 00000000
 
-[~#FFEEEE~ID: 7dead7faded7bed7]
+[ID: 7dead7faded7bed7]
 D3000000 00000000
 004836AC 7DEAD7FA
 004836A8 DED7BED7
 004836A4 00000000
 D2000000 00000000
 
-[~#FFEEEE~ID: decaf7dead7faced]
+[ID: decaf7dead7faced]
 D3000000 00000000
 004836AC DECAF7DE
 004836A4 00000000
 004836A8 AD7FACED
 D2000000 00000000
 
-[~#FFEEEE~ID: dead00face0]
+[ID: dead00face0]
 D3000000 00000000
 004836A4 00000000
 004836A8 D00FACE0
@@ -18702,26 +18995,26 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~Contrast ++]
+[++Contrast ++]
 
-[++~#FFEEEE~Contrast codes by Cracko++]
+[++Contrast codes by Cracko++]
 
-[~#FFEEEE~Clear All Fog On Map]
+[Clear All Fog On Map]
 D3000000 00000000
 00418730 6FFFFFFF
 D2000000 00000000
 
-[~#FFEEEE~Denser Fogg]
+[Denser Fogg]
 D3000000 00000000
 00418730 00000000
 D2000000 00000000
 
-[~#FFEEEE~Murky Sky]
+[Murky Sky]
 D3000000 00000000
 00418730 FFFFFFFF
 D2000000 00000000
 
-[~#FFEEEE~RTX]
+[RTX]
 00418730 3F699614
 
 [--]
@@ -18802,7 +19095,7 @@ D2000000 00000000
 
 [--]
 
-[~#FFEEEE~Black Renderring Upper Screen]
+[Black Renderring Upper Screen]
 D3000000 30000000
 0030B0E0 47C30000
 2030B034 00000001
@@ -18815,17 +19108,17 @@ D3000000 30000000
 00395E2C 00FFFF11
 D2000000 00000000
 
-[~#FFEEEE~Better Shadows white touch]
+[Better Shadows white touch]
 00418730 4C100000
 
-[~#FFEEEE~Better shadows black touch]
+[Better shadows black touch]
 00418730 4B900000
 
-[~#FFEEEE~Epilepsy Foxy ver1.2]
+[Epilepsy Foxy ver1.2]
 0041A230 00000000
 0048F850 00000000
 
-[~#FFEEEE~See Through Walls]
+[See Through Walls]
 D3000000 08000000
 DD000000 00000800
 0084248C 00000000
@@ -18834,34 +19127,34 @@ DD000000 00000800
 00842484 00000000
 D2000000 00000000
 
-[~#FFEEEE~custom darkness3]
+[custom darkness3]
 00418730 3FC00000
 
-[~#FFEEEE~custom darkness2]
+[custom darkness2]
 00418730 3FD00000
 
-[~#FFEEEE~custom darkness1]
+[custom darkness1]
 00418730 3FE00000
 
-[~#FFEEEE~Epilepsy Contrast]
+[Epilepsy Contrast]
 D3000000 00418730
 FF000001 FFFFFFFF
 D6000000 00000000
 D0000000 00000000
 
-[~#FFEEEE~foggy  contrast]
+[foggy  contrast]
 00418730 3F900000
 
-[~#FFEEEE~LIGHT Mode 2]
+[LIGHT Mode 2]
 00418730 3FB00000
 
-[~#FFEEEE~LIGHT mode]
+[LIGHT mode]
 D3000000 00000000
 00418730 6FFFFFFF
 D2000000 00000000
 {makes ur game  texture cool}
 
-[~#FFEEEE~DARK mode]
+[DARK mode]
 D3000000 00000000
 00418730 8FFFFFFF
 D2000000 00000000
@@ -18875,7 +19168,7 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~Map codes++]
+[++Map codes++]
 
 [++Custom Map Apps By Foxy++]
 
@@ -18894,7 +19187,7 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~map app on handy++]
+[++map app on handy++]
 
 [Map Triggers Blue Screen]
 D3000000 30000000
@@ -18983,7 +19276,7 @@ D3000000 30000000
 00398128 00000000
 D2000000 00000000
 
-[~#FFEEEE~adjustable map zoom byFoxy]
+[adjustable map zoom byFoxy]
 DD000000 00000800
 00429CE4 3F800000
 D2000000 00000000
@@ -19011,88 +19304,88 @@ DD000000 00000080
 D2000000 00000000
 { x12    x11    x10    x6      x9         x3      X x100    Y x1}
 
-[~#FFEEEE~map zoom glitch]
+[map zoom glitch]
 D3000000 00000000
 00429CE4 50000000
 D2000000 00000000
 {Beta}
 
-[~#FFEEEE~map has false infos]
+[map has false infos]
 D3000000 00000000
 00429CE4 30000000
 D2000000 00000000
 {Beta}
 
-[~#FFEEEE~ultra mini deluxe island]
+[ultra mini deluxe island]
 D3000000 00000000
 00429CE4 3D800000
 D2000000 00000000
 {Why does this exist...}
 
-[~#FFEEEE~ultra deluxe zoom in]
+[ultra deluxe zoom in]
 D3000000 00000000
 00429CE4 4F800000
 D2000000 00000000
 {yeah...}
 
-[~#FFEEEE~mini island]
+[mini island]
 D3000000 00000000
 00429CE4 3E000000
 D2000000 00000000
 
-[~#FFEEEE~can see the whole map]
+[can see the whole map]
 D3000000 00000000
 00429CE4 3EF00000
 D2000000 00000000
 
-[~#FFEEEE~biggest zoom out]
+[biggest zoom out]
 D3000000 00000000
 00429CE4 3E800000
 D2000000 00000000
 
-[~#FFEEEE~Advanced Map Zoom-IN]
+[Advanced Map Zoom-IN]
 D3000000 00000000
 DD000000 00000080
 00429CE4 00000001
 D2000000 00000000
 {dpad down}
 
-[~#FFEEEE~normal map on handy]
+[normal map on handy]
 D3000000 30000000
 003984D0 FFFFFFFF
 D2000000 00000000
 
-[~#FFEEEE~light yellow map on handy]
+[light yellow map on handy]
 D3000000 30000000
 003984D0 4E1CE8DB
 D2000000 00000000
 
-[~#FFEEEE~light purple map on handy]
+[light purple map on handy]
 D3000000 30000000
 003984D0 78D77396
 D2000000 00000000
 
-[~#FFEEEE~green map on handy]
+[green map on handy]
 D3000000 30000000
 003984D0 F222D000
 D2000000 00000000
 
-[~#FFEEEE~light blue map on handy]
+[light blue map on handy]
 D3000000 30000000
 003984D0 FAAAD000
 D2000000 00000000
 
-[~#FFEEEE~blue map on handy]
+[blue map on handy]
 D3000000 30000000
 003984D0 FFFF0000
 D2000000 00000000
 
-[~#FFEEEE~black map on handy]
+[black map on handy]
 D3000000 30000000
 003984D0 F0010000
 D2000000 00000000
 
-[~#FFEEEE~Rainbow Map on handy]
+[Rainbow Map on handy]
 D3000000 303984D0
 FF000001 FFFFFFFF
 D6000000 00000000
@@ -19106,7 +19399,7 @@ D2000000 00000000
 [Invisible Map Ver 2]
 004198A8 00000F01
 
-[~#FFEEEE~invisible map]
+[invisible map]
 D3000000 08000000
 0084248C 00000001
 0080688C 00000001
@@ -19114,7 +19407,7 @@ D3000000 08000000
 00842484 00000001
 D2000000 00000000
 
-[~#FFEEEE~flash map]
+[flash map]
 D3000000 0884248C
 FF000000 00000000
 D6000000 00000000
@@ -19134,40 +19427,40 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~Movement++]
+[++Movement++]
 
-[++~#FFEEEE~Movement by Cracko++]
+[++Movement by Cracko++]
 
-[~#FFEEEE~MoonJump v1]
+[MoonJump v1]
 F0000001 00000001
 DD000000 00000200
 F1482F10 41000000
 
-[~#FFEEEE~MoonJump v2]
+[MoonJump v2]
 F0000001 00000001
 DD000000 00000200
 F3482F10 40000000
 
 [--]
 
-[++~#FFEEEE~movements by Foxy++]
+[++movements by Foxy++]
 
-[++~#FFEEEE~normal (no speedhack) by Foxy++]
+[++normal (no speedhack) by Foxy++]
 
-[~#FFEEEE~normal dog sled]
+[normal dog sled]
 DD000000 00000002
 00483604 00000000
 00482FE0 40999999
 00482FB4 00000011
 {thats not a speedhack   hotkeys : B}
 
-[~#FFEEEE~normal snowmobile]
+[normal snowmobile]
 DD000000 00000002
 00483604 00000000
 00482FB4 0000000C
 {thats not a speedhack hotkeys :B}
 
-[~#FFEEEE~normal boat]
+[normal boat]
 DD000000 00000001
 00483524 00000000
 D2000000 00000000
@@ -19181,7 +19474,7 @@ DD000000 00000002
 00482FB4 0000000B
 {B get in boat A get out + boat animation code}
 
-[~#FFEEEE~normal car]
+[normal car]
 DD000000 00000002
 00483604 00000000
 00482FB4 00000012
@@ -19231,10 +19524,10 @@ DD000000 00000002
 00482FB4 00000012
 {B Start X Speed Up  by Foxy#XTN}
 
-[~#FFEEEE~Deactivate fall trough map]
+[Deactivate fall trough map]
 0012DBD0 0A000002
 
-[~#FFEEEE~reverse speed By Foxy]
+[reverse speed By Foxy]
 F0000001 00000001
 DD000000 00000040
 F1482FE0 3D100000
@@ -19245,7 +19538,7 @@ F1482FE0 BD100000
 D2000000 00000000
 {Speed Hack +Dpad Up and Down}
 
-[~#FFEEEE~Walk Through Walls]
+[Walk Through Walls]
 00482F28 BDCCCCCD
 0015FCE0 3F800000
 0012DBD0 0A000002
@@ -19261,7 +19554,7 @@ DD000000 00000800
 00482F28 00000000
 {By Gage.C And Yunix}
 
-[~#FFEEEE~Fall trough map]
+[Fall trough map]
 0012DBD0 1A000002
 
 [Cant move 4]
@@ -19269,23 +19562,23 @@ DD000000 00000800
 00240FE4 3F800000
 00240FD8 B1FFFFFF
 
-[~#FFEEEE~Cant move 3]
+[Cant move 3]
 D3000000 00000000
 0041957C 00000000
 D2000000 00000000
 
-[~#FFEEEE~Cant move 2]
+[Cant move 2]
 D3000000 00000000
 00482FB4 0000000B
 D2000000 00000000
 
-[~#FFEEEE~Cant move1]
+[Cant move1]
 D3000000 00000000
 00482FB4 00000001
 D2000000 00000000
 {cant move anymore lol}
 
-[~#FFEEEE~Moonjump]
+[Moonjump]
 D3000000 00000000
 5037F150 00000000
 E037F150 00000010
@@ -19300,9 +19593,9 @@ D0000000 00000000
 
 [--]
 
-[++~#FFEEEE~speedhacks by Owl++]
+[++speedhacks by Owl++]
 
-[~#FFEEEE~snowtruck2]
+[snowtruck2]
 DD000000 00000002
 00482FB4 00000012
 D2000000 00000000
@@ -19316,7 +19609,7 @@ DD000000 00000400
 00482FE0 41999999
 D2000000 00000000
 
-[~#FFEEEE~snowtruck3]
+[snowtruck3]
 DD000000 00000002
 00482FB4 00000012
 D2000000 00000000
@@ -19330,7 +19623,7 @@ DD000000 00000400
 00482FE0 42999999
 D2000000 00000000
 
-[~#FFEEEE~snowtruck]
+[snowtruck]
 DD000000 00000002
 00482FB4 00000012
 D2000000 00000000
@@ -19344,7 +19637,7 @@ DD000000 00000400
 00482FE0 40999999
 D2000000 00000000
 
-[~#FFEEEE~snowcat2]
+[snowcat2]
 DD000000 00000002
 00482FB4 0000000E
 D2000000 00000000
@@ -19358,7 +19651,7 @@ DD000000 00000400
 00482FE0 41999999
 D2000000 00000000
 
-[~#FFEEEE~snowcat3]
+[snowcat3]
 DD000000 00000002
 00482FB4 0000000E
 D2000000 00000000
@@ -19372,7 +19665,7 @@ DD000000 00000400
 00482FE0 42999999
 D2000000 00000000
 
-[~#FFEEEE~snowcat]
+[snowcat]
 DD000000 00000002
 00482FB4 0000000E
 D2000000 00000000
@@ -19386,9 +19679,9 @@ DD000000 00000400
 00482FE0 40999999
 D2000000 00000000
 
-[++~#FFEEEE~basic++]
+[++basic++]
 
-[~#FFEEEE~snowmobile]
+[snowmobile]
 DD000000 00000002
 00482FB4 0000000C
 D2000000 00000000
@@ -19396,7 +19689,7 @@ DD000000 00000002
 00482FB4 0000000C
 D2000000 00000000
 
-[~#FFEEEE~sled]
+[sled]
 DD000000 00000002
 00482FB4 00000012
 D2000000 00000000
@@ -19404,7 +19697,7 @@ DD000000 00000002
 00482FB4 00000011
 D2000000 00000000
 
-[~#FFEEEE~snowtruck]
+[snowtruck]
 DD000000 00000002
 00482FB4 00000012
 D2000000 00000000
@@ -19412,7 +19705,7 @@ DD000000 00000002
 00482FB4 00000012
 D2000000 00000000
 
-[~#FFEEEE~snowcat]
+[snowcat]
 DD000000 00000002
 00482FB4 0000000E
 D2000000 00000000
@@ -19424,7 +19717,7 @@ D2000000 00000000
 
 [--]
 
-[~#FFEEEE~Useless car]
+[Useless car]
 00482FE0 BD100000
 D2000000 00000000
 DD000000 00000002
@@ -19432,7 +19725,7 @@ DD000000 00000002
 00482FB4 00000012
 {hotkeys : B}
 
-[~#FFEEEE~speedhack orange car]
+[speedhack orange car]
 DD000000 00000002
 00482FB4 0000000E
 D2000000 00000000
@@ -19447,7 +19740,7 @@ DD000000 00000400
 D2000000 00000000
 {B start X speed up A stop}
 
-[~#FFEEEE~reverse speed]
+[reverse speed]
 D2000000 00000000
 F0000001 00000001
 DD000000 00000080
@@ -19455,7 +19748,7 @@ F1482FE0 BD100000
 D2000000 00000000
 {Dpad Down}
 
-[~#FFEEEE~Walk Through Walls]
+[Walk Through Walls]
 00482F28 BDCCCCCD
 0015FCE0 3F800000
 0012DBD0 0A000002
@@ -19477,7 +19770,7 @@ DD000000 12345678
 D2000000 00000000
 {By Gage.C}
 
-[~#FFEEEE~Car-SpeedHack]
+[Car-SpeedHack]
 DD000000 00000002
 00482FB4 00000012
 D2000000 00000000
@@ -19500,7 +19793,7 @@ DD000000 00000102
 00482FE0 00000000
 D2000000 00000000
 
-[~#FFEEEE~Moonjump]
+[Moonjump]
 D3000000 00000000
 5037F150 00000000
 E037F150 00000010
@@ -19515,41 +19808,41 @@ D0000000 00000000
 
 [--]
 
-[++~#FFEEEE~Fitness ++]
+[++Fitness ++]
 
-[++~#FFEEEE~Fitness Codes by Cracko++]
+[++Fitness Codes by Cracko++]
 
-[~#FFEEEE~Day: 999,999,999]
+[Day: 999,999,999]
 D3000000 08000000
 00806848 3B9AC9FF
 D2000000 00000000
 
-[~#FFEEEE~Max Bandages Used]
+[Max Bandages Used]
 D3000000 08000000
 0080685C 3B9AC9FF
 D2000000 00000000
 
-[~#FFEEEE~Max Vehciles Drove]
+[Max Vehciles Drove]
 D3000000 08000000
 00806858 3B9AC9FF
 D2000000 00000000
 
-[~#FFEEEE~Max Beds Slept In]
+[Max Beds Slept In]
 D3000000 08000000
 00806860 3B9AC9FF
 D2000000 00000000
 
-[~#FFEEEE~Max KM Travelled]
+[Max KM Travelled]
 D3000000 00000000
 0042C690 0098967F
 D2000000 00000000
 
-[~#FFEEEE~Max Zombie Kills]
+[Max Zombie Kills]
 D3000000 08000000
 00806850 3B9AC9FF
 D2000000 00000000
 
-[~#FFEEEE~Max Days Survived]
+[Max Days Survived]
 D3000000 08000000
 00806848 3B9AC9FF
 D2000000 00000000
@@ -19576,7 +19869,7 @@ D3000000 30000000
 003BC940 00FFFF00
 D2000000 00000000
 
-[~#FFEEEE~Complete fitness MAX (By Foxy]
+[Complete fitness MAX (By Foxy]
 D3000000 08000000
 00806848 3B9AC9FF
 D2000000 00000000
@@ -19592,27 +19885,27 @@ D3000000 08000000
 00806854 00000063
 00806864 00000063
 
-[~#FFEEEE~max km (fitness)]
+[max km (fitness)]
 D3000000 08000000
 0080684C 4B18967F
 D2000000 00000000
 
-[~#FFEEEE~500km (fitness)]
+[500km (fitness)]
 D3000000 08000000
 0080684C 43F9FA6E
 D2000000 00000000
 
-[~#FFEEEE~gliched km(fitness)]
+[gliched km(fitness)]
 D3000000 08000000
 0080684C EEEEEEEE
 D2000000 00000000
 
-[~#FFEEEE~-0.0 km(fitness)]
+[-0.0 km(fitness)]
 D3000000 08000000
 0080684C 99999999
 D2000000 00000000
 
-[~#FFEEEE~nankm (fitness)]
+[nankm (fitness)]
 D3000000 08000000
 0080684C FFFFFFFE
 D2000000 00000000
@@ -19623,105 +19916,105 @@ FF000000 00000000
 D6000000 00000000
 D2000000 00000000
 
-[~#FFEEEE~99,9 kilometers travelled (fitness)]
+[99,9 kilometers travelled (fitness)]
 D3000000 08000000
 0080684C 42C7E2AA
 D2000000 00000000
 
-[~#FFEEEE~max ppl met (fitness)]
+[max ppl met (fitness)]
 D3000000 08000000
 00806854 00000063
 D2000000 00000000
 
-[~#FFEEEE~99 fish and gooses (fitness)]
+[99 fish and gooses (fitness)]
 D3000000 08000000
 00806864 00000063
 D2000000 00000000
 
-[~#FFEEEE~99 car count (Fitness)]
+[99 car count (Fitness)]
 D3000000 08000000
 00806858 3B9AC9FF
 D2000000 00000000
 {gives u 99 car count}
 
-[~#FFEEEE~glitched car count (Fitness)]
+[glitched car count (Fitness)]
 D3000000 08000000
 00806858 99999999
 D2000000 00000000
 {gives i -1 car count}
 
-[~#FFEEEE~~#FFEEEE~zombie kills - (fitness)]
+[zombie kills - (fitness)]
 D3000000 08000000
 00806850 3B9AC9FF
 D2000000 00000000
 {makes the zombie kills count in fitness to 99}
 
-[~#FFEEEE~zombie glitch count (Fitness)]
+[zombie glitch count (Fitness)]
 D3000000 08000000
 00806853 3B9AC9FF
 D2000000 00000000
 {gives u -1 zombie kills and 39 player kills}
 
-[~#FFEEEE~bed - (fitness)]
+[bed - (fitness)]
 D3000000 08000000
 00806860 3B9AC9FF
 D2000000 00000000
 {makes the bed count in fitness to 99}
 
-[~#FFEEEE~Glitched bed - (fitness)]
+[Glitched bed - (fitness)]
 D3000000 08000000
 00806860 99999999
 D2000000 00000000
 
-[~#FFEEEE~day modifier (in fitness)]
+[day modifier (in fitness)]
 D3000000 08000000
 00806848 3B9AC9FF
 D2000000 00000000
 {makes the days count in fitness to 999999999}
 
-[~#FFEEEE~glitch day 2 (in fitness)]
+[glitch day 2 (in fitness)]
 D3000000 08000000
 00806848 AAAAAAAA
 D2000000 00000000
 
-[~#FFEEEE~glitch day (in fitness)]
+[glitch day (in fitness)]
 D3000000 08000000
 00806848 99999999
 D2000000 00000000
 
-[~#FFEEEE~eat drink - (fitness)]
+[eat drink - (fitness)]
 D3000000 08000000
 0080685C 3B9AC9FF
 D2000000 00000000
 {makes the eat drink count in fitness to 99}
 
-[~#FFEEEE~eat drink glitch count - (fitness)]
+[eat drink glitch count - (fitness)]
 D3000000 08000000
 0080685C 9BE6C88C
 D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~Server ++]
+[++Server ++]
 
-[++~#FFEEEE~Server durability++]
+[++Server durability++]
 
-[~#FFEEEE~first server random durability]
+[first server random durability]
 D3000000 08FF1B70
 FF000000 00000000
 D6000000 00000000
 FF000000 00000000
 
-[~#FFEEEE~first server much ppl durability]
+[first server much ppl durability]
 D3000000 08000000
 00FF1B70 0F270000
 D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~Server Name++]
+[++Server Name++]
 
-[~#FFEEEE~first server random name]
+[first server random name]
 D3000000 00FF1B78
 FF000000 00000000
 D2000000 00000000
@@ -19737,7 +20030,7 @@ D2000000 00000000
 D3000000 00FF1B74
 FF000000 00000000
 
-[~#FFEEEE~first server name @@@@@]
+[first server name @@@@@]
 00FF1B78 00400040
 00FF1B84 00400040
 00FF1B7C 00400040
@@ -19746,14 +20039,14 @@ FF000000 00000000
 
 [--]
 
-[++~#FFEEEE~Server PPL++]
+[++Server PPL++]
 
-[~#FFEEEE~First Server 0 PPL]
+[First Server 0 PPL]
 D3000000 08000000
 00FF1B6C 00000000
 D2000000 00000000
 
-[~#FFEEEE~Second Server 0 PPL]
+[Second Server 0 PPL]
 D3000000 08000000
 00FF1FB8 00000000
 D2000000 00000000
@@ -19859,7 +20152,7 @@ D3000000 30000000
 D2000000 00000000
 {by Foxy}
 
-[~#FFEEEE~Server Locker]
+[Server Locker]
 D3000000 08000000
 DD000000 00000840
 20FD8A90 000000FF
@@ -19872,7 +20165,7 @@ D0000000 00000000
 D2000000 00000000
 {Server Locker. Locks Your Server From ANTI-BL Hacks, And Unwanted People. (Y+Dpad UP = Active Lock, Y+Dpad DOWN = Not Active Lock). *UN-LOCK BEFORE SAVING!!!*}
 
-[~#FFEEEE~Anti-Server Locker]
+[Anti-Server Locker]
 D3000000 08000000
 40FD8A90 00000007
 20FD8A90 00000007
@@ -19891,7 +20184,7 @@ D3000000 08000000
 D0000000 00000000
 {Server Locker. Locks Your Server From ANTI-BL Hacks, And Unwanted People. (Y+Dpad UP = Active Lock, Y+Dpad DOWN = Not Active Lock). *UN-LOCK BEFORE SAVING!!!*}
 
-[~#FFEEEE~Server Crasher]
+[Server Crasher]
 D3000000 08E928E8
 DD000000 00000800
 FF000001 FFFFFFFF
@@ -19902,14 +20195,14 @@ DD000000 00000800
 FF000001 FFFFFFFF
 D2000000 00000000
 
-[~#FFEEEE~Always Refresh Server Button]
+[Always Refresh Server Button]
 D3000000 30000000
 2044E374 00000001
 2044E194 00000001
 D2000000 00000000
 {Sometimes works as intended. This is Version 1.0}
 
-[~#FFEEEE~No Disconnect]
+[No Disconnect]
 90418214 00000065
 20418200 00000059
 20418202 0000006F
@@ -19939,7 +20232,7 @@ D2000000 00000000
 D0000000 00000000
 {You Will Not Disconnect From The Server, It'll Create An Fully New Server If You Are Somehow Disconnect. or In The Plugin Menu For To Long.}
 
-[~#FFEEEE~Clone Server Code]
+[Clone Server Code]
 003B6598 65676147
 003B659C 2026202E
 003B65A0 63617243
@@ -19953,7 +20246,7 @@ FC000000 000000FF
 D2000000 00000000
 {by Cracko}
 
-[~#FFEEEE~Get Host Perms]
+[Get Host Perms]
 D3000000 08000000
 009C0480 089C04A4
 009C0460 089C0440
@@ -19963,13 +20256,13 @@ D3000000 08000000
 009C04D0 089C0494
 D2000000 00000000
 
-[~#FFEEEE~many servers]
+[many servers]
 D3000000 08000000
 00FF1AE0 0000000F
 D2000000 00000000
 {Shows u the complete list of 0/0 servers and when there rlly is a server there is a 0/8}
 
-[~#FFEEEE~BYE sErVeRs]
+[BYE sErVeRs]
 D3000000 08000000
 00FF1AE0 00000000
 D2000000 00000000
@@ -19977,7 +20270,7 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~vehicles++]
+[++vehicles++]
 
 [++Fuel amount changers++]
 
@@ -20115,7 +20408,7 @@ D2000000 00000000
 00482FB4 00000001
 {Still Buggy And a Beta After The Crash The Heli Isnt Usable Anymore (bc it crashed xD) (Idea By Foxys GF <3)}
 
-[~#FFEEEE~helicopter dont stop by touching the ground]
+[helicopter dont stop by touching the ground]
 DD000000 00000400
 00483604 00000000
 {X}
@@ -20129,7 +20422,7 @@ DC000000 0000007C
 D2000000 00000000
 {u dont need engine parts anymore / Made by FoxyXTN}
 
-[~#FFEEEE~No Fuel Needed 200%(does work)]
+[No Fuel Needed 200%(does work)]
 D3000000 00490844
 C0000000 00000123
 20000000 000000C8
@@ -20137,7 +20430,7 @@ DC000000 0000007C
 D2000000 00000000
 {u dont need fuel anymore /made by Foxy}
 
-[~#FFEEEE~No Fuel Needed (does work)]
+[No Fuel Needed (does work)]
 D3000000 00490844
 C0000000 00000123
 20000000 00000001
@@ -20155,11 +20448,11 @@ D3000000 00000000
 003F26E0 00400040
 D2000000 00000000
 
-[~#FFEEEE~Fuel Ammout Shown by Cracko]
+[Fuel Ammout Shown by Cracko]
 D3000000 30000000
 00483574 00000000
 
-[~#FFEEEE~Anti Vehicle Crowded by Foxy]
+[Anti Vehicle Crowded by Foxy]
 2012FE64 00000000
 
 [cant fly helicopter 2023]
@@ -20167,7 +20460,7 @@ D3000000 00000000
 204835F0 00000001
 D2000000 00000000
 
-[~#FFEEEE~spam Helicopter landing]
+[spam Helicopter landing]
 DD000000 00000002
 00482FB4 0000000D
 {B}
@@ -20177,7 +20470,7 @@ DD000000 00000002
 00482FB4 00000000
 {B}
 
-[~#FFEEEE~Spam Vehicle Horn]
+[Spam Vehicle Horn]
 004161D0 000006CC
 004161D8 000006D6
 004161E0 000006E0
@@ -20220,7 +20513,7 @@ D2000000 00000000
 004D8EF0 00000000
 004D8EF4 00000000
 
-[~#FFEEEE~Cant drive vehicles]
+[Cant drive vehicles]
 D3000000 00000000
 00482FB4 00000000
 D2000000 00000000
@@ -20238,11 +20531,11 @@ F1482FE0 AD100000
 
 [--]
 
-[++~#FFEEEE~weapon++]
+[++weapon++]
 
-[++~#FFEEEE~Weapon Codes by Cracko++]
+[++Weapon Codes by Cracko++]
 
-[~#FFEEEE~Automatic Shooting Bot]
+[Automatic Shooting Bot]
 D3000000 01E81064
 FF000000 00000064
 D2000000 00000000
@@ -20261,7 +20554,7 @@ D2000000 00000000
 D3000000 00000000
 {An AI that learns to shoot weapons. Can be stored into sharred Memory. Sometimes doesnt work when loading game assets, you may need to restart ISZ if it doesnt run/work.}
 
-[~#FFEEEE~No Reload]
+[No Reload]
 D3000000 00000000
 60429610 00000000
 B0429610 00000000
@@ -20584,7 +20877,7 @@ D3000000 00000000
 004296F4 0000270F
 D2000000 00000000
 
-[~#FFEEEE~Rapid Fire]
+[Rapid Fire]
 60429610 00000000
 B0429610 00000000
 0000006D 00000000
@@ -20626,13 +20919,13 @@ B0429700 00000000
 0000006C 00000000
 D2000000 00000000
 
-[~#FFEEEE~No Recoil]
+[No Recoil]
 DD000000 00000100
 00482FE4 00000000
 00482FE4 AF7419B8
 D2000000 00000000
 
-[~#FFEEEE~Aimbot]
+[Aimbot]
 DD000000 00000800
 D3000000 00483754
 D3000001 00482F0C
@@ -20708,6 +21001,16 @@ D3000000 30000000
 0030BB28 00DCDC00
 D2000000 00000000
 
+[Smaller Particles]
+D3000000 00000000
+0016BB10 3F700000
+D2000000 00000000
+
+[Bigger Particles]
+D3000000 00000000
+0016BB10 3FFFFFFF
+D2000000 00000000
+
 [Show Help For Weapons O3ds (A)]
 D2000000 00000000
 D3000000 30000000
@@ -20719,7 +21022,7 @@ D3000000 30000000
 D2000000 00000000
 {N3ds is Coming Soon}
 
-[~#FFEEEE~Rename (Double Barrel SG)]
+[Rename (Double Barrel SG)]
 D3000000 08000000
 000121A4 62756F44
 000121A8 5320656C
@@ -20728,7 +21031,7 @@ D3000000 08000000
 000121B4 006E7567
 D2000000 00000000
 
-[~#FFEEEE~Weird Gun Holding Position]
+[Weird Gun Holding Position]
 D3000000 08000000
 209BE80C 00000000
 D2000000 00000000
@@ -20741,7 +21044,7 @@ DD000000 00000001
 D3000000 30000000
 0030B37C 00FFFF01
 
-[~#FFEEEE~Rapid Fire by Furry#XTN]
+[Rapid Fire by Furry#XTN]
 60429610 00000000
 B0429610 00000000
 0000006D 00000000
@@ -20783,7 +21086,17 @@ B0429700 00000000
 0000006C 00000000
 D2000000 00000000
 
-[~#FFEEEE~Shotgun sound lagger2]
+[Shotgun Sound lagger 3]
+004DE844 01000000
+004DE750 3F45E8B9
+004DE754 3F2261DC
+004DE740 3F2C79E7
+004DE744 00001A41
+004DE748 088D31FC
+004DE74C 00000001
+D2000000 00000000
+
+[Shotgun sound lagger2]
 004DE744 00001A41
 004DE740 3F2C79E7
 004DE750 3F322B20
@@ -20792,13 +21105,13 @@ D2000000 00000000
 D2000000 00000000
 {dont shoot it makes a annoying sound}
 
-[~#FFEEEE~Shotgun sound lagger]
+[Shotgun sound lagger]
 D3000000 00000000
 004DE74C 00000000
 D2000000 00000000
 {dont shoot it makes a annoying sound}
 
-[~#FFEEEE~Machine Gun Code]
+[Machine Gun Code]
 D3000000 08000000
 000123E4 6863614D
 000123E8 20656E69
@@ -21171,14 +21484,14 @@ D3000000 00000000
 004296F4 0000270F
 D2000000 00000000
 
-[~#FFEEEE~no recoil by Foxy2]
+[no recoil by Foxy2]
 00482FE4 AF7419B8
 
-[~#FFEEEE~no recoil by Foxy]
+[no recoil by Foxy]
 00482FE4 00000000
 00482FE4 00000000
 
-[~#FFEEEE~Rapid fire by owl]
+[Rapid fire by owl]
 60429610 00000000
 B0429610 00000000
 0000006D 00000000
@@ -21200,16 +21513,16 @@ B0429700 00000000
 0000006C 00000000
 D2000000 00000000
 
-[~#FFEEEE~no shoot cam]
+[no shoot cam]
 00482FE4 00000001
 D2000000 00000000
 
-[~#FFEEEE~better guns]
+[better guns]
 D3000000 00000000
 00429608 0000270F
 D2000000 00000000
 
-[~#FFEEEE~No reload]
+[No reload]
 D3000000 00000000
 60429610 00000000
 B0429610 00000000
@@ -21532,17 +21845,17 @@ D3000000 00000000
 004296F4 0000270F
 D2000000 00000000
 
-[~#FFEEEE~crazy aim]
+[crazy aim]
 004835E0 00000000
 D2000000 00000000
 DD000000 00000100
 004835E0 00000001
 
-[~#FFEEEE~light aim]
+[light aim]
 DD000000 00000100
 00418730 6FFFFFFF
 
-[~#FFEEEE~Aimbot]
+[Aimbot]
 DD000000 00000800
 D3000000 00483754
 D3000001 00482F0C
@@ -21554,13 +21867,13 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~Zombie++]
+[++Zombie++]
 
-[++~#FFEEEE~Zombie Codes by Cracko++]
+[++Zombie Codes by Cracko++]
 
-[++~#FFEEEE~Zombie Stat Codes++]
+[++Zombie Stat Codes++]
 
-[~#FFEEEE~Max Status Zombies]
+[Max Status Zombies]
 D3000000 00487854
 C0000000 0000000E
 00000000 3B9AC9FF
@@ -21572,13 +21885,13 @@ C0000000 0000000E
 DC000000 00000848
 D2000000 00000000
 
-[~#FFEEEE~Anti-Zombie Bite Code]
+[Anti-Zombie Bite Code]
 002511DC 00000000
 002511E0 00000000
 002511E4 00000000
 0015FF10 E3A00001
 
-[~#FFEEEE~Zombies Cannot Attack Anybody]
+[Zombies Cannot Attack Anybody]
 D3000000 00487854
 C0000000 0000000E
 00000000 00000000
@@ -21592,9 +21905,9 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~Zombie Spawn Codes++]
+[++Zombie Spawn Codes++]
 
-[~#FFEEEE~Set Zombie Spawn]
+[Set Zombie Spawn]
 DD000000 00000041
 01E8100F 00000001
 D2000000 00000000
@@ -21613,7 +21926,7 @@ FC000000 00000000
 D2000000 00000000
 {You Will Need To Set The Zombie Spawn Before You Can Teleport Zombies To Spawn. A-DPad-Up = Start Setting The Spawn. A-DPad-Up = Stop Setting Spawn.}
 
-[~#FFEEEE~Teleport Zombies To Spawn]
+[Teleport Zombies To Spawn]
 D3000000 00483754
 D3000001 00483FBC
 C0000000 0000000E
@@ -21621,7 +21934,7 @@ FC000000 0000000C
 DC000000 00000848
 D2000000 00000000
 
-[~#FFEEEE~Spawn Zombies Around You]
+[Spawn Zombies Around You]
 DD000000 00000800
 D3000000 00483754
 D3000001 00482F0C
@@ -21632,7 +21945,7 @@ D2000000 00000000
 
 [--]
 
-[~#FFEEEE~MoonJumping Zombies]
+[MoonJumping Zombies]
 F0000001 00000001
 DD000000 00000040
 F1483758 3F500000
@@ -21653,7 +21966,7 @@ F148AB48 3F500000
 D2000000 00000000
 {DPad Up}
 
-[~#FFEEEE~Zombie Tornado]
+[Zombie Tornado]
 F0000001 00000001
 D3000000 01E8100A
 FF000000 00000007
@@ -21688,9 +22001,9 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~Zombie Color++]
+[++Zombie Color++]
 
-[~#FFEEEE~editable zomb colour]
+[editable zomb colour]
 D3000000 0048408C
 C0000000 0000000F
 00000000 0888D7B7
@@ -21699,7 +22012,7 @@ D1000000 00000000
 D2000000 00000000
 {editable code for new colours  (could crash)}
 
-[~#FFEEEE~grey tshirt]
+[grey tshirt]
 D3000000 0048408C
 C0000000 0000000F
 00000000 0888C7B8
@@ -21707,7 +22020,7 @@ DC000000 00000848
 D1000000 00000000
 D2000000 00000000
 
-[~#FFEEEE~red tshirt]
+[red tshirt]
 D3000000 0048408C
 C0000000 0000000F
 00000000 0888D7B8
@@ -21715,7 +22028,7 @@ DC000000 00000848
 D1000000 00000000
 D2000000 00000000
 
-[~#FFEEEE~Black]
+[Black]
 D3000000 0048408C
 C0000000 0000000F
 00000000 0888D658
@@ -21723,7 +22036,7 @@ DC000000 00000848
 D1000000 00000000
 D2000000 00000000
 
-[~#FFEEEE~Orange]
+[Orange]
 D3000000 0048408C
 C0000000 0000000F
 00000000 0888D818
@@ -21731,7 +22044,7 @@ DC000000 00000848
 D1000000 00000000
 D2000000 00000000
 
-[~#FFEEEE~Grey]
+[Grey]
 D3000000 0048408C
 C0000000 0000000F
 00000000 0888D6B8
@@ -21740,7 +22053,7 @@ D1000000 00000000
 D2000000 00000000
 {by Foxy}
 
-[~#FFEEEE~Red]
+[Red]
 D3000000 0048408C
 C0000000 0000000F
 00000000 0888D638
@@ -21748,7 +22061,7 @@ DC000000 00000848
 D1000000 00000000
 D2000000 00000000
 
-[~#FFEEEE~Green]
+[Green]
 D3000000 0048408C
 C0000000 0000000F
 00000000 0888D7F8
@@ -21756,7 +22069,7 @@ DC000000 00000848
 D1000000 00000000
 D2000000 00000000
 
-[~#FFEEEE~Light green]
+[Light green]
 D3000000 0048408C
 C0000000 0000000F
 00000000 0888D698
@@ -21764,7 +22077,7 @@ DC000000 00000848
 D1000000 00000000
 D2000000 00000000
 
-[~#FFEEEE~White 2]
+[White 2]
 D3000000 0048408C
 C0000000 0000000F
 00000000 0888D6F8
@@ -21773,7 +22086,7 @@ D1000000 00000000
 D2000000 00000000
 {by Foxy}
 
-[~#FFEEEE~White 1]
+[White 1]
 D3000000 0048408C
 C0000000 0000000F
 00000000 0888D798
@@ -21782,7 +22095,7 @@ D1000000 00000000
 D2000000 00000000
 {by Owl}
 
-[~#FFEEEE~Light Blue]
+[Light Blue]
 D3000000 0048408C
 C0000000 0000000F
 00000000 0888D7D8
@@ -21805,7 +22118,7 @@ FC000000 00000004
 D2000000 00000000
 {Beta)   This code shows u If enemys are near u in your id so if your id is -  fffffff=its a bird "0=nothing near u "every other number =1or more zombies "3f800000= Error or Nothing}
 
-[~#FFEEEE~1HP Zombies By Foxy]
+[1HP Zombies By Foxy]
 D3000000 00487854
 C0000000 0000000E
 00000000 00000001
@@ -21825,12 +22138,12 @@ D2000000 00000000
 [disable buggy player+zombies]
 0022DE70 3F800000
 
-[~#FFEEEE~Zombie no attack effect]
+[Zombie no attack effect]
 002511DC 00000000
 002511E0 00000000
 002511E4 00000000
 
-[~#FFEEEE~Zombie spawner]
+[Zombie spawner]
 DD000000 00000400
 D3000000 00483754
 D3000001 00482F0C
@@ -21840,10 +22153,10 @@ DC000000 00000848
 D2000000 00000000
 {Y}
 
-[~#FFEEEE~Zombie cant attack u]
+[Zombie cant attack u]
 0015FF10 E3A00001
 
-[~#FFEEEE~Zombie moonjump]
+[Zombie moonjump]
 F0000001 00000001
 DD000000 00000840
 F1483758 3F500000
@@ -21864,7 +22177,7 @@ F148AB48 3F500000
 D2000000 00000000
 {Y+ Dpad}
 
-[~#FFEEEE~Zombie 9999 HP]
+[Zombie 9999 HP]
 D3000000 00487854
 C0000000 0000000E
 00000000 3B9AC9FF
@@ -21876,7 +22189,7 @@ C0000000 0000000E
 DC000000 00000848
 D2000000 00000000
 
-[~#FFEEEE~Touch Zombiespawner]
+[Touch Zombiespawner]
 DD000000 00100000
 D3000000 00483754
 D3000001 00482F0C
@@ -21885,7 +22198,7 @@ FC000000 0000000C
 DC000000 00000848
 D2000000 00000000
 
-[~#FFEEEE~Zombies dont have a hitbox]
+[Zombies dont have a hitbox]
 D3000000 00487854
 C0000000 0000000E
 00000000 FFFFFFFF
@@ -21897,7 +22210,7 @@ C0000000 0000000E
 DC000000 00000848
 D2000000 00000000
 
-[~#FFEEEE~Zombie 1 HP]
+[Zombie 1 HP]
 D3000000 00487854
 C0000000 0000000E
 00000000 00000001
@@ -21909,7 +22222,7 @@ C0000000 0000000E
 DC000000 00000848
 D2000000 00000000
 
-[~#FFEEEE~godmodeZombie]
+[godmodeZombie]
 D3000000 00487854
 C0000000 0000000E
 00000000 0000270F
@@ -21921,7 +22234,7 @@ C0000000 0000000E
 DC000000 00000848
 D2000000 00000000
 
-[~#FFEEEE~Zombie Rapidfire]
+[Zombie Rapidfire]
 D3000000 00484044
 DD000000 00000001
 C0000000 0000000E
@@ -21930,7 +22243,7 @@ DC000000 00000848
 D2000000 00000000
 {}
 
-[~#FFEEEE~Zombie MoonJump]
+[Zombie MoonJump]
 F0000001 00000001
 DD000000 00000840
 F1483758 3F500000
@@ -21953,31 +22266,31 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~TIME ++]
+[++TIME ++]
 
-[++~#FFEEEE~Time codes by Foxy++]
+[++Time codes by Foxy++]
 
-[++~#FFEEEE~day changer package offline.++]
+[++day changer package offline.++]
 
-[~#FFEEEE~***read NOTE***]
+[***read NOTE***]
 00000000 00000000
 {activate all this cheats and click A for+1day}
 
-[~#FFEEEE~set time to -15-]
+[set time to -15-]
 00418740 C31E0000
 {A"}
 
-[~#FFEEEE~set time to -11-]
+[set time to -11-]
 DD000000 00000001
 00418740 C31D0000
 {A"}
 
-[~#FFEEEE~set time to -19-]
+[set time to -19-]
 DD000000 00000001
 00418740 C31F0000
 {A"}
 
-[~#FFEEEE~set time to 00:-1]
+[set time to 00:-1]
 DD000000 00000001
 00418740 C31A0000
 {A"}
@@ -22024,38 +22337,38 @@ D0000000 00000000
 00429F54 0000443A
 {if its 12:00 there is a message :ITS 12o.Clock. :D}
 
-[~#FFEEEE~day changer by Foxy offline]
+[day changer by Foxy offline]
 D3000000 00418740
 FF000000 00000000
 D6000000 00000000
 D2000000 00000000
 {automatic}
 
-[~#FFEEEE~always day by Foxy]
+[always day by Foxy]
 00418740 00000000
 {A"}
 
-[~#FFEEEE~FREEZE TIME CLICK A]
+[FREEZE TIME CLICK A]
 DD000000 00000001
 0048FA98 00000001
 D2000000 00000000
 
-[~#FFEEEE~disable time going on]
+[disable time going on]
 D3000000 00000000
 0041873C 00000000
 D2000000 00000000
 
-[~#FFEEEE~enable time going on]
+[enable time going on]
 D3000000 00000000
 0041873C 00000001
 D2000000 00000000
 
-[~#FFEEEE~always night no time diff (Test)]
+[always night no time diff (Test)]
 D3000000 00000000
 00418734 00000000
 D2000000 00000000
 
-[~#FFEEEE~always day no time diff (Test)]
+[always day no time diff (Test)]
 00418734 3F7FCAC8
 D2000000 00000000
 
@@ -22094,9 +22407,9 @@ D2000000 00000000
 
 [--]
 
-[++~#FFEEEE~crackos time codes++]
+[++crackos time codes++]
 
-[~#FFEEEE~Online Time Changer - Beta v2]
+[Online Time Changer - Beta v2]
 D3000000 080123E4
 FF000001 FFFFFFFF
 D6000000 00000000
@@ -22110,7 +22423,7 @@ FF000001 FFFFFFFF
 D6000000 00000000
 D0000000 00000000
 
-[~#FFEEEE~Online Time Changer v3]
+[Online Time Changer v3]
 D3000000 080123E4
 FF000001 FFFFFFFF
 D6000000 00000000
@@ -22139,13 +22452,13 @@ D3000000 08000000
 000120B4 00383932
 D2000000 00000000
 
-[~#FFEEEE~Fastest Day Changer]
+[Fastest Day Changer]
 D3000000 00418740
 FF000064 FF001200
 D6000000 00000004
 D0000000 00000000
 
-[~#FFEEEE~Fast Day Changer]
+[Fast Day Changer]
 DD000000 00000800
 D3000000 0042C6AC
 FF000001 FFFFFFFF
@@ -22157,56 +22470,56 @@ FF000001 FFFFFFFF
 D6000000 00000000
 D0000000 00000000
 
-[~#FFEEEE~Negative Days]
+[Negative Days]
 D3000000 3B9AC9FF
 00806848 3B9AC9FF
 DC000000 3B9AC9FF
 D2000000 00000000
 
-[~#FFEEEE~Always Day v1]
+[Always Day v1]
 00418740 FF001200
 
-[~#FFEEEE~Always Day v1.5]
+[Always Day v1.5]
 00418740 FFFF1200
 
-[~#FFEEEE~Always Day v2]
+[Always Day v2]
 D3000000 00000000
 0042C6AC FF001200
 D2000000 00000000
 
-[~#FFEEEE~Always Night v1]
+[Always Night v1]
 00418740 FF0F1200
 
 [--]
 
-[++~#FFEEEE~time set codes++]
+[++time set codes++]
 
-[~#FFEEEE~set time to 00:00]
+[set time to 00:00]
 DD000000 00000001
 00418740 FFFFFFFF
 {A"}
 
-[~#FFEEEE~set time to 12]
+[set time to 12]
 DD000000 00000001
 00418740 00000000
 {A"}
 
-[~#FFEEEE~set time to 00:-1]
+[set time to 00:-1]
 DD000000 00000001
 00418740 C31A0000
 {A"}
 
-[~#FFEEEE~set time to -19-]
+[set time to -19-]
 DD000000 00000001
 00418740 C31F0000
 {A"}
 
-[~#FFEEEE~set time to -11-]
+[set time to -11-]
 DD000000 00000001
 00418740 C31D0000
 {A"}
 
-[~#FFEEEE~set time to -15-]
+[set time to -15-]
 00418740 C31E0000
 {A"}
 
@@ -22214,7 +22527,7 @@ DD000000 00000001
 
 [--]
 
-[++~#FFEEEE~Walk++]
+[++Walk++]
 
 [Walk On Place]
 D3000000 00482FB4
@@ -22249,7 +22562,7 @@ D0000000 00000000
 00240FD8 41111111
 D2000000 00000000
 
-[~#FFEEEE~Fast player walk]
+[Fast player walk]
 00240FD4 FFF00000
 00240FE4 3F800000
 00240FD8 C1FFFFFF
@@ -22263,13 +22576,7 @@ D3000000 00000000
 00240FD8 00000000
 D2000000 00000000
 
-[~#FFEEEE~deactivate auto walk]
-D3000000 00000000
-00240F50 EE321A01
-00240F4C EE211A81
-D2000000 00000000
-
-[~#FFEEEE~auto walk 2 without hotkeys]
+[auto walk 2 without hotkeys]
 00482FE0 40888888
 00482FB4 00000000
 D2000000 00000000
@@ -22277,15 +22584,11 @@ D2000000 00000000
 00240F50 EE010A10
 {+fast walk animation}
 
-[~#FFEEEE~auto walk without]
-00240F4C F3A005FE
-00240F50 FE010A10
-
-[~#FFEEEE~auto walk without hotkeys]
+[auto walk without hotkeys]
 00240F4C E3A005FE
 00240F50 EE010A10
 
-[~#FFEEEE~auto walk 2]
+[auto walk 2]
 00240F4C EE211A81
 00240F50 EE321A01
 D2000000 00000000
@@ -22298,7 +22601,7 @@ DD000000 00000001
 00240F50 EE010A10
 {+fast walk animation   A}
 
-[~#FFEEEE~auto walk]
+[auto walk]
 00240F50 EE321A01
 00240F4C EE211A81
 D2000000 00000000
@@ -22307,17 +22610,23 @@ DD000000 00000001
 00240F50 EE010A10
 {A}
 
-[~#FFEEEE~slowmo auto walk]
+[deactivate auto walk]
+D3000000 00000000
+00240F50 EE321A01
+00240F4C EE211A81
+D2000000 00000000
+
+[slowmo auto walk]
 00240F4C 92A005FE
 00240F50 9A010A10
 
-[~#FFEEEE~Walk on Water]
+[Walk on Water]
 D3000000 00000000
 30482F10 404FDDB6
 00482F10 404FDDB6
 D0000000 00000000
 
-[~#FFEEEE~disable walk animation]
+[disable walk animation]
 DD000000 00000800
 00482FB4 00000000
 DD000000 00000800
@@ -22328,12 +22637,12 @@ DD000000 00000800
 00482FE0 FFFFFFFF
 {Y}
 
-[~#FFEEEE~zombie walk sounds]
+[zombie walk sounds]
 D3000000 00000000
 0048359C 00000000
 D2000000 00000000
 
-[~#FFEEEE~very fast walk animation]
+[very fast walk animation]
 DD000000 00000800
 00482FB4 00000000
 DD000000 00000800
@@ -22344,13 +22653,13 @@ DD000000 00000800
 00482FE0 41999999
 {Y}
 
-[~#FFEEEE~normal Walk]
+[normal Walk]
 004835E0 00000000
 
-[~#FFEEEE~weird Walk]
+[weird Walk]
 004835E0 00000001
 
-[~#FFEEEE~fast walk]
+[fast walk]
 DD000000 00000800
 00482FB4 00000000
 DD000000 00000800
