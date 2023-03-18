@@ -10,18 +10,32 @@ just upgrade this Sometimes.
 
 +++NEW ISZ CHEATS UPDATE+++ 
 
-release (1.27).
+release (1.28)
 
 What's new?:
 
-Anti Crash (Dont Disable Particles) 
-First ver. gets into the cheat file 
-(Does Work Sometimes).
+New Little Upgrade On the anti Crash
+Dont Disable  Particles
 
-New Folder In Text Messages
-( Keyboard Colours) customize your 
-keyboard !.
+Some Fixes On The new 8-9 Chat Spammers
 
-New Big Code (Custom Inventory by Foxy)
-Cool Little Design for your inventory
-To Have Fun with.
+New Folder In (Weapons) its the new feature
+(Always... Weapon Codes) Dont Search For 
+weapons Just Turn Every item Into a Weapon
+or a usefull item 
+
+Many Visual Updates On Foxys All Stats max 
+And i Noticed That The most visuals In this
+Code are really Annoying so i made a Code
+Just For The Status 
+(All stats max ( withou Visual Changes)by Foxy ) 
+and a Code For the status and the Visuals 
+(All stats max ( with Visual Changes)by Foxy )
+
+New Touchscreen Setting 
+(Touchscreen Backgtound Colours) 
+Customize Your Background To Whatever 
+U want
+
+New Code in Flashlight Codes 
+(Rainbow Flashlight Sign)
