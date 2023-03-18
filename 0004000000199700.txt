@@ -644,14 +644,7 @@ D2000000 00000000
 1A2A3A4A 5A6A7A8A
 {(u can scroll down) In this Game  u have to fight Zombies find Destinations and Weapons ,Clothes,Meds and more just have fun in an open world (these codes are made by Cracko,Owl,   Darksiders,         Gage.C,Springtrap,Peanut#XTN And the  Main creator Foxy#XTN) in this cheats are sometimes colours just dont ask xD iam from germany so pls no hate when i  have/use bad english xD. (any questions? visit my github or dm me on discord: Suki/Foxy_XTN#2922 or join my dc server :  https://discord.gg/VVbYrX4BvS ) and dont try to delete the credits it will freeze ur 3ds ;) Have Fun <3}
 
-[All stats max ( without Visual Changes)by Foxy ]
-00483624 461C3C00
-00483628 3B9AC9FF
-0048361C 3B9AC9FF
-00483620 3B9AC9FF
-00483614 3B9AC9FF
-
-[All stats max ( with Visual Changes)by Foxy ]
+[All stats max (+ Visual Changes)by Foxy]
 D3000000 30000000
 003BC940 00FFFF00
 003BDD28 FFFFFFFF
@@ -830,6 +823,13 @@ D3000000 30000000
 003CEF34 AAAAA000
 003CF124 F0001000
 {includes the cold percentage to 999 and an anti crash weapons and a custom Foxy outfit custom colours in ppl menu and messaging app   + when u click A+dpad left  its 12:00 (not online) +(Some Custom Game Editings For Better Experience(like Disable Multiplayer Rules Text ))(L+A See Weapon Guide)))(And the new Red Status By Foxy)+Custom Inventory/Appareal/Fitness and red touchscreen background, By Foxy )(Always Full Backpack Durability)}
+
+[All stats max By Foxy]
+00483624 461C3C00
+00483628 3B9AC9FF
+0048361C 3B9AC9FF
+00483620 3B9AC9FF
+00483614 3B9AC9FF
 
 [inf live ]
 FF000000 00000039
