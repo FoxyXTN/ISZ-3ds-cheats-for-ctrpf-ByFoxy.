@@ -28,9 +28,9 @@ Many Visual Updates On Foxys All Stats max
 And i Noticed That The most visuals In this
 Code are really Annoying so i made a Code
 Just For The Status 
-(All stats max ( withou Visual Changes)by Foxy ) 
+(All stats max by Foxy ) 
 and a Code For the status and the Visuals 
-(All stats max ( with Visual Changes)by Foxy )
+(All stats max (+ Visual Changes)by Foxy )
 
 New Touchscreen Setting 
 (Touchscreen Backgtound Colours) 
