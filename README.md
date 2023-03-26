@@ -10,11 +10,12 @@ just upgrade this Sometimes.
 
 +++NEW ISZ CHEATS UPDATE+++ 
 
-release (1.29)
+release (1.30 )
 
 What's new?:
 
-New Little Upgrade  The new code 
-(Item Id Chat (Test)is new just type
-the item id u want (in slot 1) and u
-get it 
+New Main Categorie (Fog Codes)
+
+New Little categorie in death Messages
+(ways of dying) and 
+(Death message Spammers)
