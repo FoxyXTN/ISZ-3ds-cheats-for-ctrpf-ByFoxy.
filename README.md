@@ -10,12 +10,10 @@ just upgrade this Sometimes.
 
 +++NEW ISZ CHEATS UPDATE+++ 
 
-release (1.30 )
+release (1.31 )
 
 What's new?:
 
-New Main Categorie (Fog Codes)
-
-New Little categorie in death Messages
-(ways of dying) and 
-(Death message Spammers)
+New Added Zombie Spawner (does not Just 
+Tp the Zombies) it spawns 5 Zombies
+(max spawn Rate) 
