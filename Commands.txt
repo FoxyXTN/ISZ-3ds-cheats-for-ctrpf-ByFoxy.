@@ -1,5 +1,7 @@
 Commands:
 
+Start in chat with .s to get the slash
+
 /stop (stops every command)
 
 /tp gb (teleport to grey base)
