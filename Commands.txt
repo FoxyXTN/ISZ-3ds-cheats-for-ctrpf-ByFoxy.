@@ -1,0 +1,87 @@
+Commands:
+
+/stop (stops every command)
+
+/tp gb (teleport to grey base)
+
+/tp up (teleports High up) 
+
+/kill (kills u )
+
+/godmode (gives all stats max)
+
+/clock 12 (sets time to 12:00 not online)
+
+/clock 0 (sets time to 00:00 not online)
+
+/dayskip (starts day skipper can be stopped with /stop not online )
+
+/drop car (every dropped item turns into a car)
+
+/car (u turn in a car can be stopped with /stop)
+
+/fps 20 (u get 20 fps permanently (can be stopped with /stop)
+
+/lens 1 (starts looking trought 1 hole lens)
+
+/lens 2 (starts looking trought 2 hole lens)
+
+/zomb hp 1 (zombies have 1 hp)
+
+/goose hp 1 (gooses have 1 hp)
+
+/anim 1 (starts an animation)
+
+/anim 2 (starts an animation)
+
+/Dance  (u start dancing)
+
+/flash on (turns flashlight on)
+
+/flash off (turns flashlight off)
+
+/id 0 (turns your id into 0 online)
+
+/id dead (turns your id into dead online)
+
+/game speed 1 (slow)
+
+/game speed 2 (normal)
+
+/game speed 3 (fast)
+
+/zomb anim 1  (every zombie does  animation 1)
+
+/zomb anim 2 (every zombie does  animation 2)
+
+/zomb anim 3 (every zombie does  animation 3)
+
+/zomb anim 4 (every zombie does  animation 4)
+
+/zomb anim 5 (every zombie does  animation 5)
+
+/zomb anim 6 (every zombie does  animation 6)
+
+/zomb anim 7 (every zombie does  animation 7)
+
+/zomb anim 8 (every zombie does  animation 8)
+
+/zomb anim 9 (every zombie does  animation 9)
+
+/start anti crash (starts an anti crash)
+
+/stop anti crash (stops the anti crash)
+
+/notification (triggers notification on messaging app (orange [!])
+
+/despawn zombs (all zombies will despawn under 16 seconds)
+
+/inf health (infinite health)
+
+/inf food (infinite food)
+
+/inf Water (infinite water)
+
+/inf battery (infinite battery)
+
+
