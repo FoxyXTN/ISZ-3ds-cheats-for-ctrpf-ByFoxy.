@@ -10,15 +10,14 @@ just upgrade this Sometimes.
 
 +++NEW ISZ CHEATS UPDATE+++ 
 
-release (1.32 ) [The Cloning Upgrade]
+release (1.33 ) [The Command Upgrade]
 
 What's new?:
 
-We made many stuff in the cloning area 
-like auto Clone ingame (A)
-turn Clones into Player zombies
-(Zombies with player Model)
-and spawn Player Zombies
+The biggest update Yet and its impossibly Good.
 
-thats it for this update i hope u all 
-Enjoy it :3
+The Command Keyboard V1.0.1 is out!
+mannyyy Commands to use 
+over 15 hours of work
+and Much More coming soon
+(see in commands.txt in files )
