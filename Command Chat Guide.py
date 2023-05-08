@@ -1,6 +1,9 @@
 #!/usr/bin/python3
+name = input("Whats Your name ")
+print("Hey " + name + ", I hope u have fun ")
 
-print ("Hey welcome to Foxys Command keyboard    Ctrpf Guide type start To load the       Commands")
+print ("")
+print ("welcome to Foxys Command keyboard Ctrpf  Guide type start To load the Commands")
 
 start = input("type start here: ")
 
