@@ -1,0 +1,7 @@
+how to start it
+at first u activate the cloner 
+then u make a new server and click A u should now see the ISZ Title Screen On your upper screen
+now u have To Be Very carefull At first u wanna imagine like theres the main menu. u gotta click on multiplayer. then on any save u want and then go on internet now u should see the server list with your existing server (and maybe others) now u just have to hit host new game and re do the process until. the server list is full with your servers.
+
+How to stop it
+If u want to stop the process just Leave the server , go in the server list , and try join your cloned servers it will make an error just hit accept and all the servers will be gone
