@@ -1,6 +1,6 @@
 this is a big compilation of many cheats
 made by Owl,Foxy,Peanut,Springtrap,
-Cracko Darksiders 
+Cracko Darksiders Megapika
 with these ice station z codes can u do 
 nearly anything.
 
@@ -23,6 +23,6 @@ Colourfull upgrade bc this last upgrade is especially for colour. And the end of
 
 3. I made a new crosshair code. Very usefull (my opinion) take better aim than before (Main/Weapons) 
 
-At the last i wanna thank everyone who helped: Gage,Cracko298,GooseGBC,Owl|GBC,Darksiders,Goku,Springtrap
+At the last i wanna thank everyone who helped: Gage,Cracko298,GooseGBC,Owl|GBC,Darksiders,Goku,Springtrap,Peanut#XTN,Megapika
 And ofc my beutifull girlfriend, she helped me and supported me with every step on this path. And thats it from me.
 Bye Everyone . And Bye ISZ... 
