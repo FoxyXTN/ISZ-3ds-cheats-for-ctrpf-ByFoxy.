@@ -10,38 +10,19 @@ just upgrade this Sometimes.
 
 +++NEW ISZ CHEATS UPDATE+++ 
 
-release (1.35 ) [The Server Upgrade]
+release (1.40 ) [The Journey Ends] 
 
-What's new?:
+What's new?: 
 
- I upgradet Many Things in this upgrade and it took some Time but here it is.
+I did some last adjustments, i call it the c
+Colourfull upgrade bc this last upgrade is especially for colour. And the end of my journey. 
 
-1. i made a server cloner (python and txt guide on how to use it in the files)
+1. I added a tent Folder where u can adjust tent colours and everything around. (Main/tent) 
 
-2. i made many server name changers.
+2. I added a new file "Black Map.txt" as the first one in the whole community. I made a code to paint every part of the isz map black (no mods,roms,or anything) 
 
-3. i made an big advanced anti crash (works very well)
+3. I made a new crosshair code. Very usefull (my opinion) take better aim than before (Main/Weapons) 
 
-4. i made an very good Server Crash Code.
-
-5. i advanced some FPS Codes.
-
-6. i Made an 1 line HP Giver That works Very good. 
-
-7. and i made some one hit/more damage Betas
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+At the last i wanna thank everyone who helped: Gage,Cracko298,GooseGBC,Owl|GBC,Darksiders,Goku,Springtrap
+And ofc my beutifull girlfriend, she helped me and supported me with every step on this path. And thats it from me.
+Bye Everyone . And Bye ISZ... 
