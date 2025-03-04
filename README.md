@@ -24,5 +24,5 @@ Colourfull upgrade bc this last upgrade is especially for colour. And the end of
 3. I made a new crosshair code. Very usefull (my opinion) take better aim than before (Main/Weapons) 
 
 At the last i wanna thank everyone who helped: Gage,Cracko298,GooseGBC,Owl|GBC,Darksiders,Goku,Springtrap,Peanut#XTN,Megapika
-And ofc my beutifull girlfriend, she helped me and supported me with every step on this path. And thats it from me.
+thats it from me.
 Bye Everyone . And Bye ISZ... 
