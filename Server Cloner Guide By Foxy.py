@@ -1,13 +1,9 @@
 print ("Hey! Welcome To The New Server Cloner Guide Please follow all steps . and dont use it for evil purposes Lets Begin.")
 print ("Please Select one:")
 print ("(Dont Forget The capital Letters)")
-print ("")
 print ("How to use")
-print ("")
 print ("how to stop it")
-print ("")
 print ("type anything else to end the script")
-print ("")
 select = input("type here:")
 
 if select == "How to use":
